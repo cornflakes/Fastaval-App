@@ -1,0 +1,98 @@
+package dk.fastaval.fastavappen.presentation;
+
+import java.util.ArrayList;
+
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.view.ViewPager;
+
+import com.actionbarsherlock.app.ActionBar;
+import com.actionbarsherlock.app.SherlockFragmentActivity;
+import com.viewpagerindicator.TitlePageIndicator;
+
+import dk.fastaval.fastavappen.R;
+import dk.fastaval.fastavappen.fragments.MainFragment;
+import dk.fastaval.fastavappen.fragments.ProgramFragment;
+
+public class MainActivity extends SherlockFragmentActivity {
+
+	private static final int MAIN_FRAGMENT = 0;
+	private static final int PROGRAM_FRAGMENT = 1;
+	
+	private FragAdapter mAdapter;
+    private ViewPager mViewPager;
+
+	private ArrayList<FragContainer> mFragments;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.main_layout);
+
+		mFragments = new ArrayList<FragContainer>();
+		mFragments.add(new FragContainer(new MainFragment(), MAIN_FRAGMENT));
+		mFragments.add(new FragContainer(new ProgramFragment(), PROGRAM_FRAGMENT));
+		
+		mAdapter = new FragAdapter(getSupportFragmentManager(), mFragments);
+		 
+		mViewPager = (ViewPager) findViewById(R.id.pager);
+		mViewPager.setAdapter(mAdapter);
+        
+		TitlePageIndicator titleIndicator = (TitlePageIndicator)findViewById(R.id.titles);
+		titleIndicator.setViewPager(mViewPager);
+		
+        ActionBar bar = getSupportActionBar();
+        bar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD);
+	}
+	
+	public static class FragAdapter extends FragmentPagerAdapter {
+		
+		private ArrayList<FragContainer> mFragments;
+		
+        public FragAdapter(FragmentManager fm, ArrayList<FragContainer> fragments) {
+            super(fm);
+            mFragments = fragments;
+        }
+ 
+        @Override
+        public int getCount() {
+            return 2;
+        }
+ 
+        @Override
+        public CharSequence getPageTitle(int position) {
+        	if (getItem(position).getClass().equals(MainFragment.class))
+        		return ((MainFragment) getItem(position)).getTitle();
+        	else if (getItem(position).getClass().equals(ProgramFragment.class))
+        		return ((ProgramFragment) getItem(position)).getTitle();
+        	else
+        		return ((MainFragment) getItem(position)).getTitle();
+        }
+
+        @Override
+        public Fragment getItem(int position) {
+        	return mFragments.get(position).getFragment();
+        }
+    }
+	
+	private class FragContainer {
+		private Fragment mFragment;
+		private int mType;
+		
+		public FragContainer(Fragment fragment, int type) {
+			mFragment = fragment;
+			mType = type;
+		}
+		
+		public Fragment getFragment() {
+			return mFragment;
+		}
+		
+		public int getType() {
+			return mType;
+		}
+	}
+}

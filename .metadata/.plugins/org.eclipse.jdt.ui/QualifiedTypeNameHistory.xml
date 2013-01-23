@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.actionbarsherlock.app.ActionBar"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentTransaction"/>
+<fullyQualifiedTypeName name="com.actionbarsherlock.app.ActionBar.Tab"/>
+<fullyQualifiedTypeName name="android.support.v4.app.ListFragment"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.layout"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentManager"/>
+<fullyQualifiedTypeName name="com.actionbarsherlock.app.SherlockListFragment"/>
+<fullyQualifiedTypeName name="android.support.v4.app.Fragment"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="android.graphics.Shader.TileMode"/>
+<fullyQualifiedTypeName name="java.lang.CharSequence"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.fragments.MainFragment"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.presentation.MainActivity.FragContainer"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.fragments.ProgramFragment"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.presentation.MainActivity"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.string"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,72 @@
+package dk.fastaval.fastavappen.presentation;
+
+import android.content.Context;
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.view.ViewPager;
+
+import com.actionbarsherlock.app.ActionBar;
+import com.actionbarsherlock.app.SherlockFragmentActivity;
+import com.viewpagerindicator.TitlePageIndicator;
+
+import dk.fastaval.fastavappen.R;
+import dk.fastaval.fastavappen.fragments.MainFragment;
+import dk.fastaval.fastavappen.fragments.ProgramFragment;
+
+public class MainActivity extends SherlockFragmentActivity {
+
+	private FragAdapter mAdapter;
+    private ViewPager mViewPager;
+    
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.main_layout);
+
+		mAdapter = new FragAdapter(getSupportFragmentManager());
+		 
+		mViewPager = (ViewPager) findViewById(R.id.pager);
+		mViewPager.setAdapter(mAdapter);
+        
+		TitlePageIndicator titleIndicator = (TitlePageIndicator)findViewById(R.id.titles);
+		titleIndicator.setViewPager(mViewPager);
+		
+        ActionBar bar = getSupportActionBar();
+        bar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD);
+	}
+	
+	public static class FragAdapter extends FragmentPagerAdapter {
+        public FragAdapter(FragmentManager fm) {
+            super(fm);
+        }
+ 
+        @Override
+        public int getCount() {
+            return 2;
+        }
+ 
+        @Override
+        public CharSequence getPageTitle(int position) {
+        	switch (position) {
+            case 1:
+                return mCon
+            case 0:
+                return new MainFragment();        }
+
+        @Override
+        public Fragment getItem(int position) {
+            switch (position) {
+            case 1:
+                return new ProgramFragment();
+            case 0:
+                return new MainFragment();
+ 
+            default:
+                return null;
+            }
+        }
+    }
+}
