@@ -7,4 +7,7 @@
     <string name="title_fastaval_program">Fasta Program</string>
     <string name="title_user_page">Dit program</string>
     <string name="title_main_page">Start</string>
+    <string name="menu_map">Kort</string>
+    <string name="menu_barcode">Stregcode</string>
+    <string name="menu_logout">Log ud</string>
 </resources>

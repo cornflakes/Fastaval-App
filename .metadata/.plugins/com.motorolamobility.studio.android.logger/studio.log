@@ -3004,3 +3004,1410 @@ org.eclipse.sequoyah.device.common.utilities.exception.SequoyahException: A unex
 2013-01-23 16:11:38,109 [Worker-28] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Galaxy_Nexus status: Status OK: unknown code=0 OK null
 2013-01-23 16:11:38,140 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
 2013-01-23 16:45:31,432 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-24 08:04:06,302 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-24 08:04:16,514 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-24 08:04:38,391 [Worker-33] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@acf66a
+2013-01-24 08:04:38,392 [Worker-33] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:09:20,566 [Worker-50] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1e603af
+2013-01-24 08:09:20,567 [Worker-50] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:20:26,605 [Worker-63] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@18a023b
+2013-01-24 08:20:26,606 [Worker-63] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:21:22,665 [Worker-65] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@b57702
+2013-01-24 08:21:22,666 [Worker-65] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:26:01,181 [Worker-68] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1b6ae86
+2013-01-24 08:26:01,182 [Worker-68] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:26:17,481 [Worker-63] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@5b604d
+2013-01-24 08:26:17,482 [Worker-63] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:26:41,357 [Worker-68] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@18e19be
+2013-01-24 08:26:41,357 [Worker-68] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:29:46,932 [Worker-76] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@b611d1
+2013-01-24 08:29:46,933 [Worker-76] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 08:48:47,037 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Core Plugin...
+2013-01-24 08:48:47,313 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-24 08:48:47,313 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-24 08:48:47,313 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-24 08:48:47,314 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-24 08:48:47,334 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Core Plugin started.
+2013-01-24 08:48:47,334 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Devices Support Plugin...
+2013-01-24 08:48:47,335 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Devices Support Plugin started...
+2013-01-24 08:48:47,848 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2013-01-24 08:48:47,849 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2013-01-24 08:48:47,875 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2013-01-24 08:48:47,875 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2013-01-24 08:48:47,875 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2013-01-24 09:12:29,000 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-24 09:12:29,042 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-24 09:12:29,042 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-24 09:12:29,042 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-24 09:12:29,379 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-24 09:12:29,381 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-24 09:12:29,405 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-24 09:12:30,649 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-24 09:12:30,737 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-24 09:12:30,737 [main] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-24 09:12:30,834 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-24 09:12:30,836 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-24 09:12:30,864 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-24 09:12:30,865 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-24 09:12:30,865 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-24 09:12:30,994 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-24 09:12:30,995 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-24 09:12:31,045 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 09:12:31,045 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 09:14:19,463 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Core Plugin...
+2013-01-24 09:14:19,562 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-24 09:14:19,562 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-24 09:14:19,563 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-24 09:14:19,563 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-24 09:14:19,567 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Core Plugin started.
+2013-01-24 09:14:19,567 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Devices Support Plugin...
+2013-01-24 09:14:19,568 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Devices Support Plugin started...
+2013-01-24 09:14:19,879 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2013-01-24 09:14:19,879 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2013-01-24 09:14:19,884 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2013-01-24 09:14:19,884 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2013-01-24 09:14:19,884 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2013-01-24 09:14:28,218 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-24 09:14:28,218 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-24 09:14:28,218 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-24 09:14:28,218 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-24 09:14:28,224 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-24 09:14:28,225 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-24 09:14:28,228 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-24 09:14:28,251 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-24 09:14:28,254 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-24 09:14:28,254 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-24 09:14:28,258 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-24 09:14:28,258 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-24 09:14:28,263 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-24 09:14:28,308 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-24 09:14:28,308 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-24 09:14:28,309 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 09:14:28,309 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 09:14:30,044 [Worker-1] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2013-01-24 09:14:30,290 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:14:30,922 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:14:37,681 [Worker-0] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 09:14:37,840 [Worker-0] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@85da76
+2013-01-24 09:14:37,846 [Worker-0] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 09:14:37,846 [Worker-0] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 09:14:37,877 [Worker-0] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S 
+2013-01-24 09:14:38,026 [Worker-0] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 09:14:38,028 [Worker-0] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 09:14:38,028 [Worker-0] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 09:14:38,028 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 09:14:38,028 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 09:14:38,029 [Thread-8] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 09:14:38,036 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:14:38,041 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:14:41,891 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 09:14:43,058 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 09:15:24,742 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 09:23:52,185 [Worker-1] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 09:23:53,656 [Worker-1] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 09:23:53,657 [Worker-1] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 09:23:53,746 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 09:23:53,912 [Worker-1] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 09:23:53,912 [Worker-1] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 09:23:53,918 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:23:56,545 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Core Plugin...
+2013-01-24 09:23:56,573 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk26501254/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-24 09:23:56,573 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-24 09:23:56,573 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk26501254/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-24 09:23:56,573 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-24 09:23:56,577 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Core Plugin started.
+2013-01-24 09:23:56,578 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Devices Support Plugin...
+2013-01-24 09:23:56,579 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Devices Support Plugin started...
+2013-01-24 09:23:56,815 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2013-01-24 09:23:56,815 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2013-01-24 09:23:56,820 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2013-01-24 09:23:56,820 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2013-01-24 09:23:56,820 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2013-01-24 09:24:03,313 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-24 09:24:03,313 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-24 09:24:03,313 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-24 09:24:03,314 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-24 09:24:03,319 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-24 09:24:03,320 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-24 09:24:03,323 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-24 09:24:03,345 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-24 09:24:03,348 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-24 09:24:03,349 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-24 09:24:03,352 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-24 09:24:03,352 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-24 09:24:03,366 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-24 09:24:03,399 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-24 09:24:03,399 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-24 09:24:03,401 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 09:24:03,401 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 09:24:05,146 [Worker-2] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2013-01-24 09:24:05,234 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:24:05,994 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:24:37,472 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 09:24:37,483 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1226)
+	at org.eclipse.jface.viewers.StructuredViewer$5.widgetSelected(StructuredViewer.java:1251)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:262)
+	at org.eclipse.jface.util.OpenStrategy.access$5(OpenStrategy.java:256)
+	at org.eclipse.jface.util.OpenStrategy$3.run(OpenStrategy.java:433)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 09:47:54,092 [Worker-2] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 09:47:54,094 [Worker-2] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 09:47:54,095 [Worker-2] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 09:47:54,095 [Worker-2] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 09:47:54,095 [Worker-2] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S 
+2013-01-24 09:47:54,098 [Worker-2] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 09:47:54,599 [Worker-2] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 09:47:54,599 [Worker-2] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 09:47:54,599 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 09:47:54,599 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 09:47:54,599 [Thread-8] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 09:47:54,607 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:47:54,613 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:47:55,137 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 09:47:56,230 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 09:47:59,165 [Worker-7] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 09:48:00,919 [Worker-7] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 09:48:00,919 [Worker-7] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 09:48:03,421 [Worker-7] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 09:48:03,421 [Worker-7] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 09:48:03,426 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 09:48:03,448 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:48:17,173 [Worker-7] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 09:48:17,173 [Worker-7] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 09:48:17,173 [Worker-7] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 09:48:17,173 [Worker-7] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 09:48:17,173 [Worker-7] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S 
+2013-01-24 09:48:17,176 [Worker-7] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 09:48:17,781 [Worker-7] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 09:48:17,781 [Worker-7] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 09:48:17,781 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 09:48:17,781 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 09:48:17,781 [Thread-12] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 09:48:17,789 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:48:17,794 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:48:17,908 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 09:48:18,989 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 09:48:20,765 [Worker-7] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 09:48:22,086 [Worker-7] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 09:48:22,086 [Worker-7] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 09:48:24,588 [Worker-7] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 09:48:24,588 [Worker-7] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 09:48:24,596 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 09:48:24,617 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 09:48:48,425 [Worker-2] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 09:48:48,425 [Worker-2] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 09:48:48,425 [Worker-2] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 09:48:48,425 [Worker-2] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 09:48:48,425 [Worker-2] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S 
+2013-01-24 09:48:48,427 [Worker-2] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 09:48:48,839 [Worker-2] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 09:48:48,839 [Worker-2] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 09:48:48,839 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 09:48:48,839 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 09:48:48,839 [Thread-16] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 09:48:48,847 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:48:48,858 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 09:48:48,960 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 09:48:50,040 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 09:48:58,144 [Worker-10] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 09:49:00,056 [Worker-10] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 09:49:00,056 [Worker-10] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 09:49:02,557 [Worker-10] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 09:49:02,557 [Worker-10] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 09:49:02,562 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 09:49:02,584 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:07:36,895 [Worker-2] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 10:07:36,895 [Worker-2] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:07:36,895 [Worker-2] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 10:07:36,895 [Worker-2] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 10:07:36,895 [Worker-2] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S 
+2013-01-24 10:07:36,898 [Worker-2] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 10:07:37,400 [Worker-2] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 10:07:37,400 [Worker-2] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 10:07:37,400 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:07:37,400 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:07:37,400 [Thread-20] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:07:37,409 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:07:37,414 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:07:37,931 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 10:07:39,011 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 10:08:10,985 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 10:08:47,622 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Launch Plugin...
+2013-01-24 10:08:47,623 [main] DEBUG class java.lang.Class - MOTODEV Android Launch Plugin started.
+2013-01-24 10:08:54,516 [Worker-18] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: dk.fastaval.fastavappen.MainActivity mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@bb578f
+2013-01-24 10:08:54,517 [Worker-18] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Nexus_S
+2013-01-24 10:12:17,989 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:12:17,990 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:12:33,488 [Worker-20] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 10:12:35,541 [Worker-20] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:12:35,541 [Worker-20] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:12:35,632 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 10:12:35,800 [Worker-20] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:12:35,800 [Worker-20] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 10:12:35,834 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:12:39,040 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:12:39,040 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:19:48,020 [Worker-21] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 10:19:48,020 [Worker-21] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:19:48,020 [Worker-21] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 10:19:48,020 [Worker-21] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 10:19:48,020 [Worker-21] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S -scale 0.5 
+2013-01-24 10:19:48,022 [Worker-21] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 10:19:48,505 [Worker-21] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 10:19:48,505 [Worker-21] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 10:19:48,506 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:19:48,506 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:19:48,506 [Thread-29] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:19:48,514 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:19:48,520 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:19:49,042 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 10:19:50,123 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 10:20:13,462 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 10:20:29,312 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:20:29,313 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:20:43,783 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:20:43,783 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:20:47,714 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:20:47,714 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:20:56,641 [Worker-22] INFO  Studio for Android - Try to get Timeout property from AVD_Galaxy_Nexus
+2013-01-24 10:20:56,641 [Worker-22] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:20:56,641 [Worker-22] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Galaxy_Nexus
+2013-01-24 10:20:56,641 [Worker-22] INFO  Studio for Android - Starting the Android Emulator process: AVD_Galaxy_Nexus
+2013-01-24 10:20:56,641 [Worker-22] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Galaxy_Nexus -scale 0.4 
+2013-01-24 10:20:56,643 [Worker-22] INFO  Studio for Android - Wait until and emulator with the VM AVD_Galaxy_Nexus is up 
+2013-01-24 10:20:57,159 [Worker-22] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Galaxy_Nexus
+2013-01-24 10:20:57,159 [Worker-22] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Galaxy_Nexus Status => Status OK: unknown code=0 OK null
+2013-01-24 10:20:57,160 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:20:57,160 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Galaxy_Nexus transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:20:57,160 [Thread-33] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:20:57,167 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:20:57,172 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:20:59,503 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5556
+2013-01-24 10:21:00,583 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5556
+2013-01-24 10:21:05,091 [Worker-22] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Galaxy_Nexus Arguments:null
+2013-01-24 10:21:06,719 [Worker-22] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:21:06,719 [Worker-22] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:21:08,754 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:21:08,754 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:21:09,220 [Worker-22] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:21:09,220 [Worker-22] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Galaxy_Nexus status: Status OK: unknown code=0 OK null
+2013-01-24 10:21:09,225 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5556
+2013-01-24 10:21:09,252 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:21:15,004 [Worker-26] INFO  Studio for Android - Try to get Timeout property from AVD_Galaxy_Nexus
+2013-01-24 10:21:15,004 [Worker-26] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:21:15,004 [Worker-26] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Galaxy_Nexus
+2013-01-24 10:21:15,004 [Worker-26] INFO  Studio for Android - Starting the Android Emulator process: AVD_Galaxy_Nexus
+2013-01-24 10:21:15,004 [Worker-26] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Galaxy_Nexus -scale 0.3 
+2013-01-24 10:21:15,006 [Worker-26] INFO  Studio for Android - Wait until and emulator with the VM AVD_Galaxy_Nexus is up 
+2013-01-24 10:21:15,436 [Worker-26] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Galaxy_Nexus
+2013-01-24 10:21:15,437 [Worker-26] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Galaxy_Nexus Status => Status OK: unknown code=0 OK null
+2013-01-24 10:21:15,437 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:21:15,437 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Galaxy_Nexus transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:21:15,437 [Thread-38] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:21:15,443 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:21:15,448 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:21:15,623 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5556
+2013-01-24 10:21:16,702 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5556
+2013-01-24 10:21:40,133 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5556
+2013-01-24 10:22:52,915 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-24 10:22:56,228 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-24 10:23:06,371 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-24 10:24:02,304 [Worker-28] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1ed7747
+2013-01-24 10:24:02,305 [Worker-28] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Galaxy_Nexus
+2013-01-24 10:24:44,866 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:25:33,107 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:29:28,494 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:31:29,858 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: OFF
+2013-01-24 10:31:29,859 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-24 10:31:29,861 [main] INFO  Studio for Android - Added instance AVD_for_Nexus_S_by_Google using default emulator definitions 
+2013-01-24 10:31:29,861 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offlineNoData
+2013-01-24 10:31:33,308 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:31:33,308 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:31:42,164 [Worker-31] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 10:31:42,164 [Worker-31] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:31:42,164 [Worker-31] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 10:31:42,164 [Worker-31] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:31:42,164 [Worker-31] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 10:31:42,167 [Worker-31] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 10:31:42,616 [Worker-31] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 10:31:42,616 [Worker-31] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 10:31:42,617 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:31:42,617 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:31:42,617 [Thread-49] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:31:42,625 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:31:42,632 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:31:43,180 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5558
+2013-01-24 10:31:44,276 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5558
+2013-01-24 10:32:08,776 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5558
+2013-01-24 10:33:07,001 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5558
+2013-01-24 10:34:39,589 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:35:04,159 [Worker-28] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S4.0 mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@133b2c
+2013-01-24 10:35:04,159 [Worker-28] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 10:35:04,160 [Worker-28] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 10:35:04,160 [Worker-28] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:35:04,160 [Worker-28] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 10:35:04,160 [Worker-28] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:35:04,160 [Worker-28] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 10:35:04,162 [Worker-28] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 10:35:04,163 [Worker-28] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 10:35:04,163 [Worker-28] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 10:35:04,163 [Worker-28] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 10:35:04,163 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:35:04,163 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:35:04,163 [Thread-54] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:35:05,297 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5560
+2013-01-24 10:35:06,389 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5560
+2013-01-24 10:35:25,491 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5560
+2013-01-24 10:35:55,401 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 10:35:55,402 [Worker-28] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_for_Nexus_S_by_Google
+2013-01-24 10:36:01,988 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 10:37:58,180 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5560
+2013-01-24 10:38:07,731 [Worker-38] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S4.0 mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1b0e5a3
+2013-01-24 10:38:07,732 [Worker-38] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:07,732 [Worker-38] ERROR class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Error while lauching Fastavappen Nexus_S4.0
+org.eclipse.core.runtime.CoreException: Could not retrieve AVD instance: AVD_for_Nexus_S_by_Google
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:464)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1047)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-01-24 10:38:16,773 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:38:29,422 [Worker-40] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S4.0 mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@bf0f6d
+2013-01-24 10:38:29,423 [Worker-40] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 10:38:29,423 [Worker-40] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:29,423 [Worker-40] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:38:29,423 [Worker-40] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:29,423 [Worker-40] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:29,424 [Worker-40] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 10:38:29,426 [Worker-40] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 10:38:29,426 [Worker-40] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:29,426 [Worker-40] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 10:38:29,426 [Worker-40] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 10:38:29,426 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:38:29,426 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:38:29,427 [Thread-63] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:38:30,479 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5558
+2013-01-24 10:38:31,578 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5558
+2013-01-24 10:38:31,900 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5558
+2013-01-24 10:38:31,929 [Process Error] ERROR Studio for Android - Emulator process is not running! Exit code:0
+2013-01-24 10:38:31,929 [Process Error] INFO  class com.motorola.studio.android.emulator.logic.StartEmulatorProcessLogic - Trying to stop the emulator process: execution stopped too early
+2013-01-24 10:38:34,102 [Process Error] INFO  Studio for Android - Stopping the Android Emulator instance: AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:34,102 [Process Error] INFO  Studio for Android - Instance is started. Run the regular transition to stopped status: AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:34,102 [Process Error] INFO  Studio for Android - Finished stop process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:34,103 [Worker-28] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_for_Nexus_S_by_Google Arguments:{force=true}
+2013-01-24 10:38:34,103 [Worker-28] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:38:34,103 [Worker-28] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:38:34,103 [Worker-28] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:38:34,103 [Worker-28] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_for_Nexus_S_by_Google status: Status OK: unknown code=0 OK null
+2013-01-24 10:38:34,408 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:38:36,000 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 10:38:38,005 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5556
+2013-01-24 10:38:41,106 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:38:41,896 [Worker-35] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Galaxy_Nexus Arguments:null
+2013-01-24 10:38:43,238 [Worker-35] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:38:43,238 [Worker-35] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:38:43,238 [Worker-35] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:38:43,238 [Worker-35] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Galaxy_Nexus status: Status OK: unknown code=0 OK null
+2013-01-24 10:38:43,289 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:38:44,174 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:38:44,776 [Worker-41] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 10:38:46,126 [Worker-41] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:38:46,126 [Worker-41] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:38:46,126 [Worker-41] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:38:46,126 [Worker-41] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 10:38:46,168 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:38:49,998 [Worker-41] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S4.0 mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@4b1d
+2013-01-24 10:38:49,999 [Worker-41] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 10:38:49,999 [Worker-41] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:49,999 [Worker-41] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:38:49,999 [Worker-41] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:49,999 [Worker-41] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:50,000 [Worker-41] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 10:38:50,002 [Worker-41] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 10:38:50,002 [Worker-41] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 10:38:50,002 [Worker-41] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 10:38:50,002 [Worker-41] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 10:38:50,002 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:38:50,002 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:38:50,003 [Thread-70] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:38:50,641 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 10:38:51,735 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 10:39:08,809 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 10:39:13,788 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 10:39:13,788 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 10:39:13,788 [Worker-40] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_for_Nexus_S_by_Google
+2013-01-24 10:39:13,788 [Worker-41] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_for_Nexus_S_by_Google
+2013-01-24 10:47:35,884 [Worker-38] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S4.0 mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@162aa8e
+2013-01-24 10:47:35,885 [Worker-38] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_for_Nexus_S_by_Google
+2013-01-24 10:49:46,457 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:49:46,457 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:51:56,033 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:52:20,852 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:53:16,722 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 10:53:27,620 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:53:40,149 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:53:40,291 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:53:40,297 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:53:48,602 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:53:53,025 [Worker-45] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_for_Nexus_S_by_Google Arguments:null
+2013-01-24 10:53:54,746 [Worker-45] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:53:54,746 [Worker-45] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:53:54,746 [Worker-45] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:53:54,746 [Worker-45] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_for_Nexus_S_by_Google status: Status OK: unknown code=0 OK null
+2013-01-24 10:53:54,799 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:53:57,227 [Worker-48] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 10:53:57,227 [Worker-48] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:53:57,227 [Worker-48] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 10:53:57,227 [Worker-48] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:53:57,227 [Worker-48] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 10:53:57,229 [Worker-48] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 10:53:57,820 [Worker-48] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 10:53:57,820 [Worker-48] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 10:53:57,820 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:53:57,820 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:53:57,820 [Thread-91] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:53:57,829 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:53:57,835 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:53:58,381 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 10:53:59,482 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 10:54:16,592 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 10:54:49,183 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:55:04,907 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 10:55:12,672 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:55:15,366 [Worker-50] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_for_Nexus_S_by_Google Arguments:null
+2013-01-24 10:55:16,760 [Worker-50] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 10:55:16,760 [Worker-50] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 10:55:16,761 [Worker-50] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 10:55:16,761 [Worker-50] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_for_Nexus_S_by_Google status: Status OK: unknown code=0 OK null
+2013-01-24 10:55:16,811 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 10:55:19,058 [Worker-49] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 10:55:19,058 [Worker-49] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 10:55:19,058 [Worker-49] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 10:55:19,058 [Worker-49] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 10:55:19,058 [Worker-49] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 10:55:19,060 [Worker-49] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 10:55:19,609 [Worker-49] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 10:55:19,609 [Worker-49] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 10:55:19,609 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 10:55:19,609 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 10:55:19,609 [Thread-100] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 10:55:19,616 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:55:19,621 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 10:55:20,155 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 10:55:21,296 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 10:55:37,630 [main] ERROR class com.motorola.studio.android.adt.DDMSFacade - Error executing shell command getprop at device emulator-5554
+com.android.ddmlib.AdbCommandRejectedException: device offline
+	at com.android.ddmlib.AdbHelper.setDevice(AdbHelper.java:752)
+	at com.android.ddmlib.AdbHelper.executeRemoteCommand(AdbHelper.java:373)
+	at com.android.ddmlib.Device.executeShellCommand(Device.java:462)
+	at com.motorola.studio.android.adt.DDMSFacade.executeShellCmd(DDMSFacade.java:934)
+	at com.motorola.studio.android.adt.DDMSFacade.execRemoteApp(DDMSFacade.java:898)
+	at com.motorola.studio.android.adt.DDMSFacade.getDeviceProperties(DDMSFacade.java:978)
+	at com.motorola.studio.android.emulator.device.ui.DevicePropertiesPage.getDeviceProperties(DevicePropertiesPage.java:45)
+	at com.motorola.studio.android.devices.AbstractDevicePropertyPage.createContents(AbstractDevicePropertyPage.java:91)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:55:38,220 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 10:55:42,046 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:55:42,047 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1226)
+	at org.eclipse.jface.viewers.StructuredViewer$5.widgetSelected(StructuredViewer.java:1251)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:262)
+	at org.eclipse.jface.util.OpenStrategy.access$5(OpenStrategy.java:256)
+	at org.eclipse.jface.util.OpenStrategy$3.run(OpenStrategy.java:433)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:56:30,043 [main] ERROR Studio for Android - Provided skin files path is not a directory. Setting the skin files path operation has failed.
+2013-01-24 10:56:30,044 [main] ERROR class com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage - Error reading instance skin during startup options page creation
+com.motorola.studio.android.emulator.core.exception.SkinException: The selected skin was not found. Check your AVD configuration and try again later.
+	at com.motorola.studio.android.emulator.skin.android.AndroidSkin.setSkinFilesPath(AndroidSkin.java:270)
+	at com.motorola.studio.android.emulator.core.skin.SkinFramework.getSkinById(SkinFramework.java:122)
+	at com.motorola.studio.android.emulator.device.ui.AndroidPropertiesStartupOptionsPage.createContents(AndroidPropertiesStartupOptionsPage.java:116)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:232)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1502)
+	at org.eclipse.jface.preference.PreferenceDialog$14.run(PreferenceDialog.java:1259)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1253)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:675)
+	at org.eclipse.jface.preference.PreferenceDialog$10.run(PreferenceDialog.java:709)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$9.selectionChanged(PreferenceDialog.java:705)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:888)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:886)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1726)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1139)
+	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:1055)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:730)
+	at org.eclipse.jface.preference.PreferenceDialog$4.run(PreferenceDialog.java:376)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:372)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:83)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:234)
+	at org.eclipse.ui.dialogs.PreferencesUtil.createPropertyDialogOn(PreferencesUtil.java:152)
+	at org.eclipse.sequoyah.device.framework.ui.view.InstanceStatusComposite$MenuPropertiesListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+2013-01-24 10:56:43,681 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 11:01:10,129 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 11:01:22,646 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 11:01:23,473 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 11:01:24,183 [Worker-39] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_for_Nexus_S_by_Google Arguments:null
+2013-01-24 11:01:25,318 [Worker-39] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 11:01:25,318 [Worker-39] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 11:01:25,319 [Worker-39] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 11:01:25,319 [Worker-39] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_for_Nexus_S_by_Google status: Status OK: unknown code=0 OK null
+2013-01-24 11:01:25,364 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 11:01:26,879 [Worker-51] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 11:01:26,879 [Worker-51] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 11:01:26,879 [Worker-51] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 11:01:26,879 [Worker-51] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 11:01:26,880 [Worker-51] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 11:01:26,882 [Worker-51] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 11:01:27,400 [Worker-51] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 11:01:27,400 [Worker-51] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 11:01:27,400 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 11:01:27,400 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 11:01:27,401 [Thread-109] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 11:01:27,408 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 11:01:27,414 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 11:01:27,952 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 11:01:29,045 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 11:01:46,093 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 11:03:04,514 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 11:06:19,379 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 13:11:14,445 [main] WARN  Studio for Android - Could not synchronize with DDMS Devices View: Could not retrieve Device object from ADT model
+2013-01-24 13:11:15,130 [Worker-77] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_for_Nexus_S_by_Google Arguments:null
+2013-01-24 13:11:16,892 [Worker-77] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 13:11:16,892 [Worker-77] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 13:11:16,892 [Worker-77] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 13:11:16,892 [Worker-77] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_for_Nexus_S_by_Google status: Status OK: unknown code=0 OK null
+2013-01-24 13:11:16,950 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 13:30:51,686 [Worker-112] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1e3c612
+2013-01-24 13:30:51,687 [Worker-112] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 13:42:18,893 [Worker-120] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@47bb5b
+2013-01-24 13:42:18,893 [Worker-120] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 13:42:18,894 [Worker-120] INFO  Studio for Android - Try to get Timeout property from AVD_Galaxy_Nexus
+2013-01-24 13:42:18,894 [Worker-120] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 13:42:18,894 [Worker-120] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Galaxy_Nexus
+2013-01-24 13:42:18,894 [Worker-120] INFO  Studio for Android - Starting the Android Emulator process: AVD_Galaxy_Nexus
+2013-01-24 13:42:18,894 [Worker-120] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Galaxy_Nexus -scale 0.3 
+2013-01-24 13:42:18,896 [Worker-120] INFO  Studio for Android - Wait until and emulator with the VM AVD_Galaxy_Nexus is up 
+2013-01-24 13:42:18,896 [Worker-120] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Galaxy_Nexus
+2013-01-24 13:42:18,896 [Worker-120] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Galaxy_Nexus Status => Status OK: unknown code=0 OK null
+2013-01-24 13:42:18,896 [Worker-120] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 13:42:18,896 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 13:42:18,896 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Galaxy_Nexus transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 13:42:18,897 [Thread-787] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 13:42:21,456 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 13:42:22,549 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 13:42:39,505 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 13:42:51,874 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 13:42:51,921 [Process Error] ERROR Studio for Android - Emulator process is not running! Exit code:0
+2013-01-24 13:42:51,921 [Process Error] INFO  class com.motorola.studio.android.emulator.logic.StartEmulatorProcessLogic - Trying to stop the emulator process: execution stopped too early
+2013-01-24 13:42:54,974 [Process Error] INFO  Studio for Android - Stopping the Android Emulator instance: AVD_Galaxy_Nexus
+2013-01-24 13:42:54,975 [Process Error] INFO  Studio for Android - Instance is started. Run the regular transition to stopped status: AVD_Galaxy_Nexus
+2013-01-24 13:42:54,975 [Process Error] INFO  Studio for Android - Finished stop process: AVD_Galaxy_Nexus
+2013-01-24 13:42:54,975 [Worker-123] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Galaxy_Nexus Arguments:{force=true}
+2013-01-24 13:42:54,975 [Worker-123] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 13:42:54,975 [Worker-123] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 13:42:54,975 [Worker-123] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 13:42:54,976 [Worker-123] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Galaxy_Nexus status: Status OK: unknown code=0 OK null
+2013-01-24 13:42:55,258 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 13:43:01,232 [Worker-123] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@11c8186
+2013-01-24 13:43:01,233 [Worker-123] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 13:43:55,208 [Worker-124] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@c8acc7
+2013-01-24 13:43:55,209 [Worker-124] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 13:43:59,135 [Worker-108] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@a16b2f
+2013-01-24 13:43:59,136 [Worker-108] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 13:46:22,824 [Worker-131] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@590f6b
+2013-01-24 13:46:22,825 [Worker-131] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 13:48:02,682 [Worker-129] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@2d9a6e
+2013-01-24 13:48:02,684 [Worker-129] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:14:55,417 [Worker-132] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@2f57ab
+2013-01-24 14:14:55,419 [Worker-132] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:26:28,281 [Worker-146] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@16c10a5
+2013-01-24 14:26:28,282 [Worker-146] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:28:41,151 [Worker-149] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@a50130
+2013-01-24 14:28:41,152 [Worker-149] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:29:29,484 [Worker-148] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1f2984b
+2013-01-24 14:29:29,486 [Worker-148] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:30:38,331 [Worker-145] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@355a85
+2013-01-24 14:30:38,333 [Worker-145] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:31:04,567 [Worker-151] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1b9cfe2
+2013-01-24 14:31:04,569 [Worker-151] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:31:36,772 [Worker-149] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@87c319
+2013-01-24 14:31:36,774 [Worker-149] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:39:52,758 [Worker-151] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@16c1d46
+2013-01-24 14:39:52,760 [Worker-151] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:42:52,103 [Worker-153] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1202cbb
+2013-01-24 14:42:52,105 [Worker-153] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:51:24,283 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@c20eb4
+2013-01-24 14:51:24,285 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:58:41,888 [Worker-170] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@f7ff67
+2013-01-24 14:58:41,890 [Worker-170] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:59:03,819 [Worker-168] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1e14cef
+2013-01-24 14:59:03,820 [Worker-168] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 14:59:34,259 [Worker-168] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@19b5f0e
+2013-01-24 14:59:34,261 [Worker-168] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-24 15:00:03,033 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1e62095
+2013-01-24 15:00:03,035 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 15:00:03,036 [Worker-165] INFO  Studio for Android - Try to get Timeout property from AVD_Galaxy_Nexus
+2013-01-24 15:00:03,036 [Worker-165] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 15:00:03,036 [Worker-165] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Galaxy_Nexus
+2013-01-24 15:00:03,036 [Worker-165] INFO  Studio for Android - Starting the Android Emulator process: AVD_Galaxy_Nexus
+2013-01-24 15:00:03,036 [Worker-165] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Galaxy_Nexus -scale 0.3 
+2013-01-24 15:00:03,039 [Worker-165] INFO  Studio for Android - Wait until and emulator with the VM AVD_Galaxy_Nexus is up 
+2013-01-24 15:00:03,039 [Worker-165] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Galaxy_Nexus
+2013-01-24 15:00:03,039 [Worker-165] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Galaxy_Nexus Status => Status OK: unknown code=0 OK null
+2013-01-24 15:00:03,039 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 15:00:03,039 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:00:03,039 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Galaxy_Nexus transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 15:00:03,039 [Thread-1363] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 15:00:04,208 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 15:00:05,301 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 15:00:20,082 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:00:22,243 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 15:00:40,127 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 15:00:40,127 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 15:00:40,127 [Worker-120] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Galaxy_Nexus
+2013-01-24 15:00:40,127 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Galaxy_Nexus
+2013-01-24 15:02:38,151 [Worker-157] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@8366e5
+2013-01-24 15:02:38,153 [Worker-157] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Galaxy_Nexus
+2013-01-24 15:03:05,705 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@19ba236
+2013-01-24 15:03:05,706 [Worker-165] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Galaxy_Nexus
+2013-01-24 15:03:55,116 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:04:36,253 [Worker-120] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Galaxy_Nexus Arguments:null
+2013-01-24 15:04:37,731 [Worker-120] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 15:04:37,731 [Worker-120] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 15:04:37,832 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 15:04:37,995 [Worker-120] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 15:04:37,995 [Worker-120] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Galaxy_Nexus status: Status OK: unknown code=0 OK null
+2013-01-24 15:04:38,043 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 15:04:43,811 [Worker-164] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S4.0 mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@caded0
+2013-01-24 15:04:43,812 [Worker-164] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 15:04:43,812 [Worker-164] INFO  Studio for Android - Try to get Timeout property from AVD_for_Nexus_S_by_Google
+2013-01-24 15:04:43,812 [Worker-164] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 15:04:43,812 [Worker-164] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_for_Nexus_S_by_Google
+2013-01-24 15:04:43,812 [Worker-164] INFO  Studio for Android - Starting the Android Emulator process: AVD_for_Nexus_S_by_Google
+2013-01-24 15:04:43,813 [Worker-164] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_for_Nexus_S_by_Google -scale 0.5 
+2013-01-24 15:04:43,815 [Worker-164] INFO  Studio for Android - Wait until and emulator with the VM AVD_for_Nexus_S_by_Google is up 
+2013-01-24 15:04:43,820 [Worker-164] DEBUG Studio for Android - Emulator instance is now up and running... AVD_for_Nexus_S_by_Google
+2013-01-24 15:04:43,820 [Worker-164] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_for_Nexus_S_by_Google Status => Status OK: unknown code=0 OK null
+2013-01-24 15:04:43,820 [Worker-164] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 15:04:43,820 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:04:43,820 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_for_Nexus_S_by_Google transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 15:04:43,821 [Thread-1406] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 15:04:44,901 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 15:04:46,044 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 15:05:02,973 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 15:05:09,006 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 15:05:09,006 [Worker-164] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_for_Nexus_S_by_Google
+2013-01-24 15:06:05,465 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:06:24,873 [Worker-166] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_for_Nexus_S_by_Google Arguments:null
+2013-01-24 15:06:26,133 [Worker-166] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 15:06:26,133 [Worker-166] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 15:06:26,268 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 15:06:26,410 [Worker-166] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 15:06:26,410 [Worker-166] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_for_Nexus_S_by_Google status: Status OK: unknown code=0 OK null
+2013-01-24 15:06:26,454 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-24 15:06:31,576 [Worker-174] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Nexus_S mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@12851d7
+2013-01-24 15:06:31,578 [Worker-174] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-24 15:06:31,578 [Worker-174] INFO  Studio for Android - Try to get Timeout property from AVD_Nexus_S
+2013-01-24 15:06:31,578 [Worker-174] DEBUG Studio for Android - Retrieved start logic: com.motorola.studio.android.emulator10.StartAndroidEmulatorLogic@1191b86
+2013-01-24 15:06:31,578 [Worker-174] INFO  Studio for Android - Executing StartEmulatorProcessLogic for AVD_Nexus_S
+2013-01-24 15:06:31,578 [Worker-174] INFO  Studio for Android - Starting the Android Emulator process: AVD_Nexus_S
+2013-01-24 15:06:31,579 [Worker-174] INFO  Studio for Android - Executing command /tools/emulator-arm -avd AVD_Nexus_S -scale 0.5 
+2013-01-24 15:06:31,581 [Worker-174] INFO  Studio for Android - Wait until and emulator with the VM AVD_Nexus_S is up 
+2013-01-24 15:06:31,582 [Worker-174] DEBUG Studio for Android - Emulator instance is now up and running... AVD_Nexus_S
+2013-01-24 15:06:31,582 [Worker-174] DEBUG Studio for Android - Finished Execution of the start emulator service... :AVD_Nexus_S Status => Status OK: unknown code=0 OK null
+2013-01-24 15:06:31,582 [Worker-174] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2013-01-24 15:06:31,582 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:06:31,582 [Instance Event Manager] INFO  Studio for Android - The emulator AVD_Nexus_S transitioned to started state. Try to estabilish a VNC connection...
+2013-01-24 15:06:31,582 [Thread-1414] INFO  Studio for Android - Open and move focus to the emulator view
+2013-01-24 15:06:33,572 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2013-01-24 15:06:34,663 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2013-01-24 15:06:51,750 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2013-01-24 15:06:52,408 [Monitor] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Delegating launch session to ADT... 
+2013-01-24 15:06:52,408 [Worker-174] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: AVD_Nexus_S
+2013-01-24 15:07:37,098 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.online
+2013-01-24 15:11:11,976 [Worker-171] DEBUG Studio for Android - Executing the stop emulator service... Instance:AVD_Nexus_S Arguments:null
+2013-01-24 15:11:13,538 [Worker-171] INFO  Studio for Android - Stopping the Android Emulator instance
+2013-01-24 15:11:13,538 [Worker-171] INFO  Studio for Android - Trying to stop the protocol
+2013-01-24 15:11:13,674 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2013-01-24 15:11:13,824 [Worker-171] INFO  Studio for Android - Stopped the Android Emulator instance
+2013-01-24 15:11:13,824 [Worker-171] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
+2013-01-24 15:11:13,873 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline

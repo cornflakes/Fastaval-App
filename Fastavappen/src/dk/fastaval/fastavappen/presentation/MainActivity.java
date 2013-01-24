@@ -8,9 +8,12 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.view.View;
+import android.widget.RelativeLayout;
 
 import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
+import com.actionbarsherlock.view.Menu;
 
 import dk.fastaval.fastavappen.R;
 import dk.fastaval.fastavappen.fragments.MainFragment;
@@ -44,6 +47,13 @@ public class MainActivity extends SherlockFragmentActivity {
 		
         ActionBar bar = getSupportActionBar();
         bar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD);
+	}
+	
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+	   com.actionbarsherlock.view.MenuInflater inflater = getSupportMenuInflater();
+	   inflater.inflate(R.menu.menu, (com.actionbarsherlock.view.Menu) menu);
+	   return super.onCreateOptionsMenu(menu);
 	}
 	
 	public static class FragAdapter extends FragmentPagerAdapter {

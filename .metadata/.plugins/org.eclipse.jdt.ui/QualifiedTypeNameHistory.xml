@@ -20,4 +20,5 @@
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.fragments.ProgramFragment"/>
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.presentation.MainActivity"/>
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.string"/>
+<fullyQualifiedTypeName name="com.actionbarsherlock.view.Menu"/>
 </qualifiedTypeNameHistroy>
