@@ -10,4 +10,12 @@
     <string name="menu_map">Kort</string>
     <string name="menu_barcode">Stregcode</string>
     <string name="menu_logout">Log ud</string>
+    <string name="monday">mandag</string>
+    <string name="tuesday">tirsdag</string>
+    <string name="wednesday">onsdag</string>
+    <string name="thursday">torsdag</string>
+    <string name="friday">fredag</string>
+    <string name="saturday">lørdag</string>
+    <string name="sunday">søndag</string>
+    <string name="fastanews">Fasta News</string>
 </resources>

@@ -1,0 +1,7 @@
+package dk.fastaval.fastavappen.data;
+
+public class GroupRowData {
+	public String Title;
+	public int day;
+	public int hour;
+}

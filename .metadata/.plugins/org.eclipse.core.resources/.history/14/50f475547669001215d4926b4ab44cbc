@@ -1,0 +1,237 @@
+package dk.fastaval.fastavappen.fragments;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import android.app.Activity;
+import android.content.Context;
+import android.graphics.drawable.Drawable;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.BaseExpandableListAdapter;
+import android.widget.ExpandableListView;
+import android.widget.ExpandableListView.OnChildClickListener;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.google.gson.JsonSyntaxException;
+
+import dk.fastaval.fastavappen.R;
+import dk.fastaval.fastavappen.business.ProgramHelper;
+import dk.fastaval.fastavappen.data.GroupRowData;
+import dk.fastaval.fastavappen.util.SherlockExpandableListFragment;
+
+public class ProgramFragment extends SherlockExpandableListFragment implements OnChildClickListener {
+
+	ArrayList<GroupRowData> groupItems;
+	ArrayList<Object> childItem = new ArrayList<Object>();
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+	}
+
+	public void setChildGroupData() {
+		/**
+		 * Add Data For 16:00 - 17:00
+		 */
+		ArrayList<String> child = new ArrayList<String>();
+		child.add("Tabet");
+		child.add("Fleggaard tur/retur");
+		child.add("Er du Ok?");
+		child.add("Ud over Dig");
+		child.add("En Dag på Kontoret");
+		childItem.add(child);
+
+		/**
+		 * Add Data For 17:00 - 18:00
+		 */
+		child = new ArrayList<String>();
+		child.add("Kampen om Evigheden");
+		child.add("Vélo");
+		child.add("Depereo");
+		childItem.add(child);
+		/**
+		 * Add Data For 18:00 - 19:00
+		 */
+		child = new ArrayList<String>();
+		child.add("Det Sidste Eventyr");
+		child.add("Bamsers Mod");
+		child.add("Sarabande");
+		child.add("Collegia Magnissima");
+		childItem.add(child);
+		/**
+		 * Add Data For 20:00 - 21:00
+		 */
+		child = new ArrayList<String>();
+		child.add("Windrose Island");
+		child.add("Kroket - a cardboard game");
+		child.add("1244: The Fall of Montsegur");
+		child.add("Cafe-spil");
+		childItem.add(child);
+	}
+
+	@Override
+	public boolean onChildClick(ExpandableListView parent, View v,
+			int groupPosition, int childPosition, long id) {
+		Toast.makeText(getActivity(), "Clicked On Child",
+				Toast.LENGTH_SHORT).show();
+		return true;
+	}
+
+	@Override
+	public void onActivityCreated(Bundle savedInstanceState) {
+		super.onActivityCreated(savedInstanceState);
+
+		Drawable icon = getResources().getDrawable(R.drawable.expand_icon);
+		
+		ExpandableListView expandbleList = getExpandableListView();
+		expandbleList.setDividerHeight(2);
+		expandbleList.setGroupIndicator(icon);
+		expandbleList.setClickable(true);
+
+		ProgramHelper PH = new ProgramHelper(getActivity());
+		try {
+			groupItems = PH.getTimeBlocks();
+		} catch (JsonSyntaxException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		for(GroupRowData GRD : groupItems) {
+			PH.getTimeBlocksElements(GRD)
+		}
+		setChildGroupData();
+
+		ProgramAdapter mProgramAdapter = new ProgramAdapter(groupItems, childItem);
+		mProgramAdapter
+				.setInflater(
+						(LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE),
+						getActivity());
+		getExpandableListView().setAdapter(mProgramAdapter);
+		expandbleList.setOnChildClickListener(this);
+	}
+
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		View view = inflater.inflate(R.layout.program_fragment, container,
+				false);
+		return view;
+	}
+
+	public CharSequence getTitle() {
+		return getText(R.string.title_fastaval_program);
+	}
+
+	public class ProgramAdapter extends BaseExpandableListAdapter {
+
+		public ArrayList<GroupRowData> mGroupItems;
+		public ArrayList<String> tempChild;
+		public ArrayList<Object> mChildItems = new ArrayList<Object>();
+		public LayoutInflater mInflater;
+		public Activity activity;
+
+		public ProgramAdapter(ArrayList<GroupRowData> grList,
+				ArrayList<Object> childItem) {
+			mGroupItems = grList;
+			this.mChildItems = childItem;
+		}
+
+		public void setInflater(LayoutInflater mInflater, Activity act) {
+			this.mInflater = mInflater;
+			activity = act;
+		}
+
+		@Override
+		public Object getChild(int arg0, int arg1) {
+			return null;
+		}
+
+		@Override
+		public long getChildId(int groupPosition, int childPosition) {
+			return 0;
+		}
+
+		@Override
+		public View getChildView(int groupPosition, final int childPosition,
+				boolean isLastChild, View convertView, ViewGroup parent) {
+			tempChild = (ArrayList<String>) mChildItems.get(groupPosition);
+			TextView text = null;
+			if (convertView == null) {
+				convertView = mInflater.inflate(R.layout.childrow, null);
+			}
+			text = (TextView) convertView.findViewById(R.id.textView1);
+			text.setText(tempChild.get(childPosition));
+			convertView.setOnClickListener(new OnClickListener() {
+				@Override
+				public void onClick(View v) {
+					Toast.makeText(activity, tempChild.get(childPosition),
+							Toast.LENGTH_SHORT).show();
+				}
+			});
+			return convertView;
+		}
+
+		@Override
+		public int getChildrenCount(int groupPosition) {
+			return ((ArrayList<String>) mChildItems.get(groupPosition)).size();
+		}
+
+		@Override
+		public Object getGroup(int groupPosition) {
+			return null;
+		}
+
+		@Override
+		public int getGroupCount() {
+			return mGroupItems.size();
+		}
+
+		@Override
+		public void onGroupCollapsed(int groupPosition) {
+			super.onGroupCollapsed(groupPosition);
+		}
+
+		@Override
+		public void onGroupExpanded(int groupPosition) {
+			super.onGroupExpanded(groupPosition);
+		}
+
+		@Override
+		public long getGroupId(int groupPosition) {
+			return 0;
+		}
+
+		@Override
+		public View getGroupView(int groupPosition, boolean isExpanded,
+				View convertView, ViewGroup parent) {
+			if (convertView == null) {
+				convertView = mInflater.inflate(R.layout.grouprow, null);
+			}
+			TextView title = (TextView) convertView.findViewById(R.id.tv_exp_title);
+			TextView count = (TextView) convertView.findViewById(R.id.tv_exp_count);
+			
+			title.setText(mGroupItems.get(groupPosition).Title);
+			count.setText(((ArrayList<String>)mChildItems.get(groupPosition)).size() + "");
+			
+			return convertView;
+		}
+
+		@Override
+		public boolean hasStableIds() {
+			return false;
+		}
+
+		@Override
+		public boolean isChildSelectable(int groupPosition, int childPosition) {
+			return false;
+		}
+
+	}
+}

@@ -2,11 +2,13 @@ package dk.fastaval.fastavappen.fragments;
 
 import java.util.ArrayList;
 
-import util.SherlockExpandableListFragment;
 import android.app.Activity;
 import android.content.Context;
-import android.graphics.drawable.Drawable;
+import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
+import android.os.Messenger;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -14,66 +16,25 @@ import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+import dk.fastaval.fastavappen.Constants;
 import dk.fastaval.fastavappen.R;
+import dk.fastaval.fastavappen.data.GroupRowData;
+import dk.fastaval.fastavappen.data.ProgramActivityData;
+import dk.fastaval.fastavappen.service.ProgramIntentService;
+import dk.fastaval.fastavappen.util.SherlockExpandableListFragment;
 
 public class ProgramFragment extends SherlockExpandableListFragment implements OnChildClickListener {
+
+	ArrayList<GroupRowData> groupItems;
+	ArrayList<ArrayList<ProgramActivityData>> childItems = new ArrayList<ArrayList<ProgramActivityData>>();
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-	}
-
-	public void setGroupData() {
-		groupItem.add("16:00 - 17:00");
-		groupItem.add("17:00 - 18:00");
-		groupItem.add("18:00 - 19:00");
-		groupItem.add("20:00 - 21:00");
-	}
-
-	ArrayList<String> groupItem = new ArrayList<String>();
-	ArrayList<Object> childItem = new ArrayList<Object>();
-
-	public void setChildGroupData() {
-		/**
-		 * Add Data For 16:00 - 17:00
-		 */
-		ArrayList<String> child = new ArrayList<String>();
-		child.add("Tabet");
-		child.add("Fleggaard tur/retur");
-		child.add("Er du Ok?");
-		child.add("Ud over Dig");
-		child.add("En Dag på Kontoret");
-		childItem.add(child);
-
-		/**
-		 * Add Data For 17:00 - 18:00
-		 */
-		child = new ArrayList<String>();
-		child.add("Kampen om Evigheden");
-		child.add("Vélo");
-		child.add("Depereo");
-		childItem.add(child);
-		/**
-		 * Add Data For 18:00 - 19:00
-		 */
-		child = new ArrayList<String>();
-		child.add("Det Sidste Eventyr");
-		child.add("Bamsers Mod");
-		child.add("Sarabande");
-		child.add("Collegia Magnissima");
-		childItem.add(child);
-		/**
-		 * Add Data For 20:00 - 21:00
-		 */
-		child = new ArrayList<String>();
-		child.add("Windrose Island");
-		child.add("Kroket - a cardboard game");
-		child.add("1244: The Fall of Montsegur");
-		child.add("Cafe-spil");
-		childItem.add(child);
 	}
 
 	@Override
@@ -88,23 +49,18 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
 
-		Drawable icon = getResources().getDrawable(R.drawable.expand_icon);
-		
 		ExpandableListView expandbleList = getExpandableListView();
-		expandbleList.setDividerHeight(2);
-		expandbleList.setGroupIndicator(icon);
 		expandbleList.setClickable(true);
-
-		setGroupData();
-		setChildGroupData();
-
-		ProgramAdapter mProgramAdapter = new ProgramAdapter(groupItem, childItem);
-		mProgramAdapter
-				.setInflater(
-						(LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE),
-						getActivity());
-		getExpandableListView().setAdapter(mProgramAdapter);
 		expandbleList.setOnChildClickListener(this);
+		
+	    // Initialize the messenger with the private handler
+		Messenger messenger = new Messenger(mHandler);
+		
+		// Ready the intent with information for the service
+	    Intent intent = new Intent(getActivity(), ProgramIntentService.class);
+	    intent.putExtra(Constants.MESSENGER_EXTRA, messenger);
+	    getActivity().startService(intent);
+	    
 	}
 
 	@Override
@@ -118,18 +74,43 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 	public CharSequence getTitle() {
 		return getText(R.string.title_fastaval_program);
 	}
+	
+	private final Handler mHandler = new Handler() {
+	    @Override
+	    public void handleMessage(Message msg) {
+	    	switch(msg.what) {
+	    	case 0:
+	    		groupItems = (ArrayList<GroupRowData>) msg.obj;
+	    		break;
+	    	case 1:
+	    		childItems = (ArrayList<ArrayList<ProgramActivityData>>) msg.obj;
+	    		
+	    		getView().findViewById(R.id.pb_program).setVisibility(View.GONE);
+	    		
+	    		ProgramAdapter mProgramAdapter = new ProgramAdapter(groupItems, childItems);
+	    		mProgramAdapter
+	    				.setInflater(
+	    						(LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE),
+	    						getActivity());
+	    		getExpandableListView().setAdapter(mProgramAdapter);
+
+	    		break;
+	    	}
+	    }
+	};
 
 	public class ProgramAdapter extends BaseExpandableListAdapter {
 
-		public ArrayList<String> groupItem, tempChild;
-		public ArrayList<Object> mChildItem = new ArrayList<Object>();
+		public ArrayList<GroupRowData> mGroupItems;
+		public ArrayList<ProgramActivityData> tempChilds;
+		public ArrayList<ArrayList<ProgramActivityData>> mChildItems = new ArrayList<ArrayList<ProgramActivityData>>();
 		public LayoutInflater mInflater;
 		public Activity activity;
 
-		public ProgramAdapter(ArrayList<String> grList,
-				ArrayList<Object> childItem) {
-			groupItem = grList;
-			this.mChildItem = childItem;
+		public ProgramAdapter(ArrayList<GroupRowData> grList,
+				ArrayList<ArrayList<ProgramActivityData>> childItem) {
+			mGroupItems = grList;
+			this.mChildItems = childItem;
 		}
 
 		public void setInflater(LayoutInflater mInflater, Activity act) {
@@ -150,17 +131,34 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 		@Override
 		public View getChildView(int groupPosition, final int childPosition,
 				boolean isLastChild, View convertView, ViewGroup parent) {
-			tempChild = (ArrayList<String>) mChildItem.get(groupPosition);
-			TextView text = null;
+			tempChilds = mChildItems.get(groupPosition);
+			ProgramActivityData child = tempChilds.get(childPosition);
+			
+			TextView title = null;
+			ImageView type = null;
+			
 			if (convertView == null) {
 				convertView = mInflater.inflate(R.layout.childrow, null);
 			}
-			text = (TextView) convertView.findViewById(R.id.textView1);
-			text.setText(tempChild.get(childPosition));
+			
+			title = (TextView) convertView.findViewById(R.id.tv_title);
+			title.setText(child.info.title_da);
+			
+			type = (ImageView) convertView.findViewById(R.id.childImage);
+
+			if(child.info.type.matches(Constants.TYPE_ROLE))
+				type.setImageDrawable(getActivity().getResources().getDrawable(R.drawable.ic_role_otto));
+			else if(child.info.type.matches(Constants.TYPE_BOARD))
+				type.setImageDrawable(getActivity().getResources().getDrawable(R.drawable.ic_board_otto));
+			else if(child.info.type.matches(Constants.TYPE_LIVE))
+				type.setImageDrawable(getActivity().getResources().getDrawable(R.drawable.ic_live_otto));
+			else if(child.info.type.matches(Constants.TYPE_OTHER))
+				type.setImageDrawable(getActivity().getResources().getDrawable(R.drawable.ic_other_otto));
+			
 			convertView.setOnClickListener(new OnClickListener() {
 				@Override
 				public void onClick(View v) {
-					Toast.makeText(activity, tempChild.get(childPosition),
+					Toast.makeText(activity, tempChilds.get(childPosition).info.title_da,
 							Toast.LENGTH_SHORT).show();
 				}
 			});
@@ -169,7 +167,7 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 
 		@Override
 		public int getChildrenCount(int groupPosition) {
-			return ((ArrayList<String>) mChildItem.get(groupPosition)).size();
+			return mChildItems.get(groupPosition).size();
 		}
 
 		@Override
@@ -179,7 +177,7 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 
 		@Override
 		public int getGroupCount() {
-			return groupItem.size();
+			return mGroupItems.size();
 		}
 
 		@Override
@@ -206,8 +204,8 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 			TextView title = (TextView) convertView.findViewById(R.id.tv_exp_title);
 			TextView count = (TextView) convertView.findViewById(R.id.tv_exp_count);
 			
-			title.setText(groupItem.get(groupPosition));
-			count.setText(((ArrayList<String>)mChildItem.get(groupPosition)).size() + "");
+			title.setText(mGroupItems.get(groupPosition).Title);
+			count.setText((mChildItems.get(groupPosition)).size() + "");
 			
 			return convertView;
 		}

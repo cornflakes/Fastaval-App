@@ -1,0 +1,216 @@
+[
+   {
+      "aktivitet_id":3,
+      "afviklinger":[
+         {
+            "afvikling_id":50,
+            "aktivitet_id":3,
+            "lokale_id":null,
+            "lokale_navn":null,
+            "start":{
+               "day":"29",
+               "month":"3",
+               "year":"2013",
+               "h":"22",
+               "m":0,
+               "date":"29-3-2013",
+               "datetime":"29-3-2013 22:00",
+               "timestamp":1364590800,
+               "mysql":"2013-03-29 22:00:00"
+            },
+            "end":{
+               "day":"30",
+               "month":"3",
+               "year":"2013",
+               "h":"0",
+               "m":0,
+               "date":"30-3-2013",
+               "datetime":"30-3-2013 0:00",
+               "timestamp":1364598000,
+               "mysql":"2013-03-30 00:00:00"
+            },
+            "linked":0
+         }
+      ],
+      "info":{
+         "title_da":"Thorvald Stauning - Varulvejæger",
+         "text_da":"Før rollen som landsfader…Før skandalerne…Før Nobelprisen…Før duellen…… bekæmpede Stauning og hans posse fra Kontrolministeriet overnaturlige trusler mod Gamle Danmark.Så grib krucifiks, sølvkugler og den treløbede haglspreder og kast dig ud i et okkult historierevisionistisk grind night scenarie, der med enkle regler gør Kjøbenhavn anno 1900 til kulisse for et actionfilmisk show down med prøjsiske varulve.Forventet Spilletid: Max 2 timerAntal spillere: 1 spilleder og 4 spillere.Genre: Faux-historisk monster actionSpillertype: Initiativrige og friske på at puste liv i en flok historiske karakterer og disses slag, nedpløkninger og kjølige replikker.Spilledertype: Scenesætter og fartholder. Du skal formidle scenariet i et hæsblæsende tempo og samtidig give spillerne mulighed for at skinne.Om forfatteren: Kristian er blandt Danmarks flittigste scenarieforfattere og skriver tit scenarier med inspiration fra film og populærkultur. Derudover er han tilknyttet forfatterkollektivet Jesus Bar Mitzvah og han har faktisk ikke set ”Abraham Lincoln: Vampire Hunter”.",
+         "description_da":"",
+         "title_en":"Thorvald Stauning ? Werewolf Hunter",
+         "text_en":"",
+         "description_en":"",
+         "author":[
+            "Kristian Bach Petersen"
+         ],
+         "price":0,
+         "min_player":4,
+         "max_player":4,
+         "type":"rolle",
+         "play_hours":2,
+         "language":"dansk+engelsk",
+         "wp_id":"4687"
+      }
+   },
+   {
+      "aktivitet_id":4,
+      "afviklinger":[
+         {
+            "afvikling_id":15,
+            "aktivitet_id":4,
+            "lokale_id":null,
+            "lokale_navn":null,
+            "start":{
+               "day":"28",
+               "month":"3",
+               "year":"2013",
+               "h":"11",
+               "m":0,
+               "date":"28-3-2013",
+               "datetime":"28-3-2013 11:00",
+               "timestamp":1364464800,
+               "mysql":"2013-03-28 11:00:00"
+            },
+            "end":{
+               "day":"28",
+               "month":"3",
+               "year":"2013",
+               "h":"16",
+               "m":0,
+               "date":"28-3-2013",
+               "datetime":"28-3-2013 16:00",
+               "timestamp":1364482800,
+               "mysql":"2013-03-28 16:00:00"
+            },
+            "linked":0
+         },
+         {
+            "afvikling_id":16,
+            "aktivitet_id":4,
+            "lokale_id":null,
+            "lokale_navn":null,
+            "start":{
+               "day":"29",
+               "month":"3",
+               "year":"2013",
+               "h":"20",
+               "m":0,
+               "date":"29-3-2013",
+               "datetime":"29-3-2013 20:00",
+               "timestamp":1364583600,
+               "mysql":"2013-03-29 20:00:00"
+            },
+            "end":{
+               "day":"30",
+               "month":"3",
+               "year":"2013",
+               "h":"1",
+               "m":0,
+               "date":"30-3-2013",
+               "datetime":"30-3-2013 1:00",
+               "timestamp":1364601600,
+               "mysql":"2013-03-30 01:00:00"
+            },
+            "linked":0
+         }
+      ],
+      "info":{
+         "title_da":"Dulce et decorum",
+         "text_da":"Dulce et decorum est pro patria mori\\\"Det er sødt og passende at dø for fædrelandet\\\"-HoratsAf meget forskellige grunde har tre unge engelske soldater og en sygeplejerske meldt sig frivilligt til tjeneste på vestfronten under første verdenskrig. De håndterer krigens rædsler ved hjælp af venskab, og vender forandrede hjem – eller dør. Spillet udforsker tro og tvivl, og menneskelig kontakt i dødens skygge, på baggrund af pigtråd, gasmasker og knuste hjerter.Dulce et decorum bruger bipersonsspil, story game og fortællespil til at støtte op om karakterspillet. Gennem fælles fortællespil opbygger gruppen krigen og livet ved fronten, og bruger det til at sætte karaktererne under pres. Et simpelt mekanisk system former og følger fiktionen. Spillerne tager hånd om spillets virkemidler – kolde kendsgerninger og autentisk skyttegravspoesi. Forventet spilletid: Ca. 4½ time Antal spillere: Fire spillere og en spilleder Genre: Krigstragedie Spillertype: Du har lyst til at engagere dig i både fiktionen og din karakter, og nyder en grad af uvished som leveres af mekanikken. Og du synes at engelske digte om giftgasangreb og fortabt ungdom lyder skønt. Spilledertype: Du elsker spillerne, og har både lyst til at presse dem og til at hjælpe dem med at støtte og presse hinanden. Mudder og pigtråd ligger godt i munden på dig, og du kan være lidt nedrig. Om forfatteren: Troels ville ønske at han hed Erich Remarque. Eller måske Euripides. Plottet har han i alt fald lånt fra Euripides. Han tror heftigt på rollespillere som medskabere.",
+         "description_da":"",
+         "title_en":"Dulce et decorum",
+         "text_en":"",
+         "description_en":"",
+         "author":[
+            "Troels Ken Pedersen"
+         ],
+         "price":0,
+         "min_player":4,
+         "max_player":4,
+         "type":"rolle",
+         "play_hours":5,
+         "language":"dansk+engelsk",
+         "wp_id":"4694"
+      }
+   },
+   {
+      "aktivitet_id":5,
+      "afviklinger":[
+         {
+            "afvikling_id":21,
+            "aktivitet_id":5,
+            "lokale_id":null,
+            "lokale_navn":null,
+            "start":{
+               "day":"28",
+               "month":"3",
+               "year":"2013",
+               "h":"16",
+               "m":30,
+               "date":"28-3-2013",
+               "datetime":"28-3-2013 16:30",
+               "timestamp":1364484600,
+               "mysql":"2013-03-28 16:30:00"
+            },
+            "end":{
+               "day":"28",
+               "month":"3",
+               "year":"2013",
+               "h":"18",
+               "m":30,
+               "date":"28-3-2013",
+               "datetime":"28-3-2013 18:30",
+               "timestamp":1364491800,
+               "mysql":"2013-03-28 18:30:00"
+            },
+            "linked":0
+         },
+         {
+            "afvikling_id":22,
+            "aktivitet_id":5,
+            "lokale_id":null,
+            "lokale_navn":null,
+            "start":{
+               "day":"29",
+               "month":"3",
+               "year":"2013",
+               "h":"16",
+               "m":30,
+               "date":"29-3-2013",
+               "datetime":"29-3-2013 16:30",
+               "timestamp":1364571000,
+               "mysql":"2013-03-29 16:30:00"
+            },
+            "end":{
+               "day":"29",
+               "month":"3",
+               "year":"2013",
+               "h":"18",
+               "m":30,
+               "date":"29-3-2013",
+               "datetime":"29-3-2013 18:30",
+               "timestamp":1364578200,
+               "mysql":"2013-03-29 18:30:00"
+            },
+            "linked":0
+         }
+      ],
+      "info":{
+         "title_da":"Er du Ok?",
+         "text_da":"Er du Ok? handler om livet i en familie med skizofreni.Nogle gange sidder man juleaften og ser at julemanden der træder ind og begynder at dele gaver ud i virkeligheden er en russer fra Tjernobyl, han er her for at bestråle gaverne, jeres mad og alle jeres ting, men ingen i din familie kan se det. Du prøver at redde dit eget og deres liv, men de ender med holde dig fast og juleaften ender på den psykiatriske skadestue hvor mor sidder og græder.Dette er scenarie er et socialrealistisk drama, hvor du som spiller for lov at kigge ind i en familie hvor en almindelig hverdag kun er noget der sker for andre mennesker. Hvor det at opnå ’hverdag’ og ’det normale’ er en triumf.En intens og spændt atmosfære fremdrives med enkle spilteknikker, der benytter sig af hemmelige tegn og kropssprog, i scener hvor man i fællesskab forsøger at vinde over sindslidelsen.Karaktererne er den skizofrene og dennes familie, og scenerne veksler mellem hverdagsscener der potentielt, og sandsynligvis, bliver afsporet og scener der viser den indre kamp imellem virkelighed og vrangforestillinger, set fra den syge persons vinkel. Hvordan man håndterer at være sindssyg, klar over det, men ude af stand til at tackle det.Forventet spilletid: Cirka 2 timerAntal spillere: 4 spillere + 1 spillederSpilletype: Du kan lide close to home psykologisk drama og socialrealistiske scenarier, hvor det gerne må gøre lidt ondt.Spilledertype: Spillederrollen skal formidle scener, køre bipersoner og kunne klippe skarpt.Om forfatteren: Stefan er 33 år og er åbenbart nået den alder, hvor man skal skrive scenarier med færre halvorker og flere socialrealistiske problemstillinger, såsom skilsmisser og psykiske lidelser. Den dag han skriver et scenarie om opkonvertering af obligationslån, bliver han nok nødt til at hænge sig i et silkeslips.",
+         "description_da":"",
+         "title_en":"Are you alright?",
+         "text_en":"",
+         "description_en":"",
+         "author":[
+            "Stefan Lægteskov"
+         ],
+         "price":0,
+         "min_player":4,
+         "max_player":4,
+         "type":"rolle",
+         "play_hours":2,
+         "language":"dansk+engelsk",
+         "wp_id":"4708"
+      }
+   }
+]

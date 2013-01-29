@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Fastavapp\'en</string>
+    <string name="participant_number">Deltagernummer</string>
+    <string name="password">Kodeord</string>
+    <string name="login">Log ind</string>
+    <string name="title_fastaval_program">Fasta Program</string>
+    <string name="title_user_page">Dit program</string>
+    <string name="title_main_page">Start</string>
+    <string name="menu_map">Kort</string>
+    <string name="menu_barcode">Stregcode</string>
+    <string name="menu_logout">Log ud</string>
+</resources>

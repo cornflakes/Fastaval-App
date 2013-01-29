@@ -1,0 +1,7 @@
+package dk.fastaval.fastavappen.util;
+
+import android.view.View;
+
+public class NewsFeedBox extends View {
+
+}

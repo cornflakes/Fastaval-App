@@ -1,0 +1,60 @@
+package dk.fastaval.fastavappen.data;
+
+import java.util.ArrayList;
+
+public class ProgramActivity {
+	public int aktivitet_id;
+	public ArrayList<Afvikling> afviklinger;
+	public Info info;
+	
+	public class Afvikling {
+		public int afvikling_id;
+		public int aktivitet_id;
+		public String lokale_id;
+		public String lokale_navn;
+		public Start start;
+		public End end;
+		public int linked;
+		
+		public class Start {
+			public String day;
+			public String month;
+			public String year;
+			public String h;
+			public String m;
+			public String date;
+			public String datetime;
+			public long timestamp;
+			public String mysql;
+		}
+
+		public class End {
+			public String day;
+			public String month;
+			public String year;
+			public String h;
+			public String m;
+			public String date;
+			public String datetime;
+			public long timestamp;
+			public String mysql;
+		}
+	}
+
+	public class Info {
+		public String title_da;
+		public String text_da;
+		public String description_da;
+		public String title_en;
+		public String text_en;
+		public String description_en;
+		public ArrayList<String> author;
+		public int price;
+		public int min_player;
+		public int max_player;
+		public String type;
+		public int play_hours;
+		public String language;
+		public String wp_id;
+	}
+}

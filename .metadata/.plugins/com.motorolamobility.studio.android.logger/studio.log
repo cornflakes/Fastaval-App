@@ -4411,3 +4411,498 @@ com.motorola.studio.android.emulator.core.exception.SkinException: The selected 
 2013-01-24 15:11:13,824 [Worker-171] INFO  Studio for Android - Stopped the Android Emulator instance
 2013-01-24 15:11:13,824 [Worker-171] DEBUG Studio for Android - Finished the execution of the stop emulator service: AVD_Nexus_S status: Status OK: unknown code=0 OK null
 2013-01-24 15:11:13,873 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-27 12:14:07,959 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-27 12:14:07,973 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-27 12:14:07,973 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-27 12:14:07,973 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-27 12:14:07,974 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-27 12:14:07,975 [main] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-27 12:14:08,050 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-27 12:14:08,874 [main] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-27 12:14:09,004 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-27 12:14:09,004 [main] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-27 12:14:09,038 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-27 12:14:09,039 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-27 12:14:09,065 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-27 12:14:09,231 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: OFF
+2013-01-27 12:14:09,231 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-27 12:14:09,232 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-27 12:14:09,297 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-27 12:14:09,297 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-27 12:14:09,297 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-27 12:14:17,037 [Worker-3] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2013-01-27 12:14:17,188 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-27 12:14:17,190 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-27 12:14:17,248 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-27 15:23:08,704 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-27 15:23:11,660 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-27 15:23:21,849 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-27 15:26:47,780 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Core Plugin...
+2013-01-27 15:26:47,897 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-27 15:26:47,897 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-27 15:26:47,897 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-27 15:26:47,897 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-27 15:26:47,903 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Core Plugin started.
+2013-01-27 15:26:47,903 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Devices Support Plugin...
+2013-01-27 15:26:47,905 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Devices Support Plugin started...
+2013-01-27 15:26:48,263 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2013-01-27 15:26:48,263 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2013-01-27 15:26:48,290 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2013-01-27 15:26:48,290 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2013-01-27 15:26:48,290 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2013-01-28 08:38:06,909 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-28 08:38:06,909 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-28 08:38:06,924 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-28 08:38:06,925 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-28 08:38:06,925 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-28 08:38:06,926 [main] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-28 08:38:06,947 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-28 08:38:07,226 [main] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-28 08:38:07,276 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-28 08:38:07,277 [main] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-28 08:38:07,287 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-28 08:38:07,288 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-28 08:38:07,294 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-28 08:38:07,358 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-28 08:38:07,358 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-28 08:38:07,358 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: OFF
+2013-01-28 08:38:07,359 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: OFF
+2013-01-28 08:38:07,359 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-28 08:38:07,374 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:38:07,374 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-28 08:38:07,374 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:38:07,375 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:38:07,375 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:38:07,375 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:38:07,375 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:55:05,588 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Core Plugin...
+2013-01-28 08:55:05,744 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-28 08:55:05,744 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-28 08:55:05,744 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-28 08:55:05,744 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-28 08:55:05,749 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Core Plugin started.
+2013-01-28 08:55:05,749 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Devices Support Plugin...
+2013-01-28 08:55:05,751 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Devices Support Plugin started...
+2013-01-28 08:55:06,192 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2013-01-28 08:55:06,192 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2013-01-28 08:55:06,194 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2013-01-28 08:55:06,194 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2013-01-28 08:55:06,194 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2013-01-28 08:55:15,346 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-28 08:55:15,347 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-28 08:55:15,347 [Worker-0] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-28 08:55:15,347 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-28 08:55:15,349 [Worker-0] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-28 08:55:15,353 [main] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-28 08:55:15,372 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-28 08:55:15,457 [main] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-28 08:55:15,473 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-28 08:55:15,473 [main] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-28 08:55:15,477 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-28 08:55:15,477 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-28 08:55:15,483 [Worker-0] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-28 08:55:15,502 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-28 08:55:15,502 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: OFF
+2013-01-28 08:55:15,503 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-28 08:55:15,504 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:55:15,504 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:55:15,504 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 08:55:17,831 [Worker-2] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2013-01-28 08:55:17,950 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-28 08:55:17,952 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-28 08:55:17,961 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-28 10:44:23,826 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-28 10:44:30,353 [Worker-78] DEBUG class java.lang.Class - Starting MOTODEV Android Launch Plugin...
+2013-01-28 10:44:30,353 [Worker-78] DEBUG class java.lang.Class - MOTODEV Android Launch Plugin started.
+2013-01-28 10:44:34,056 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-28 10:44:35,081 [Worker-73] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@3e2172
+2013-01-28 10:44:35,082 [Worker-73] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 10:48:04,581 [Worker-79] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@6ecc55
+2013-01-28 10:48:04,582 [Worker-79] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 10:51:32,938 [Worker-78] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@10f3cd2
+2013-01-28 10:51:32,939 [Worker-78] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 10:58:24,578 [Worker-71] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@f6c86c
+2013-01-28 10:58:24,579 [Worker-71] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 10:59:46,514 [Worker-85] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@8672a3
+2013-01-28 10:59:46,515 [Worker-85] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:00:46,291 [Worker-88] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@100cdae
+2013-01-28 11:00:46,292 [Worker-88] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:02:32,659 [Worker-71] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@688f7b
+2013-01-28 11:02:32,660 [Worker-71] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:04:41,123 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@3beeb5
+2013-01-28 11:04:41,124 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:10:43,406 [Worker-91] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1e760a6
+2013-01-28 11:10:43,407 [Worker-91] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:11:32,558 [Worker-95] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@6a91b7
+2013-01-28 11:11:32,559 [Worker-95] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:12:55,736 [Worker-99] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@15527ec
+2013-01-28 11:12:55,737 [Worker-99] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:14:06,268 [Worker-100] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@9da064
+2013-01-28 11:14:06,269 [Worker-100] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 11:14:40,315 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-28 12:01:46,994 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-28 12:01:57,106 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-28 12:02:06,256 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-28 12:48:16,495 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-28 12:48:26,571 [Device List Monitor] ERROR class com.motorola.studio.android.adt.DDMSFacade - Error executing shell command getprop at device 3035A5BEA5BD00EC
+com.android.ddmlib.AdbCommandRejectedException: device not found
+	at com.android.ddmlib.AdbHelper.setDevice(AdbHelper.java:752)
+	at com.android.ddmlib.AdbHelper.executeRemoteCommand(AdbHelper.java:373)
+	at com.android.ddmlib.Device.executeShellCommand(Device.java:462)
+	at com.motorola.studio.android.adt.DDMSFacade.executeShellCmd(DDMSFacade.java:934)
+	at com.motorola.studio.android.adt.DDMSFacade.execRemoteApp(DDMSFacade.java:898)
+	at com.motorola.studio.android.adt.DDMSFacade.getDeviceProperties(DDMSFacade.java:978)
+	at com.motorola.studio.android.handset.HandsetPlugin.createInstance(HandsetPlugin.java:133)
+	at com.motorola.studio.android.handset.HandsetPlugin.access$0(HandsetPlugin.java:126)
+	at com.motorola.studio.android.handset.HandsetPlugin$2.run(HandsetPlugin.java:66)
+	at com.motorola.studio.android.adt.StudioAndroidEventManager$7.run(StudioAndroidEventManager.java:198)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.motorola.studio.android.adt.StudioAndroidEventManager.fireEvent(StudioAndroidEventManager.java:194)
+	at com.motorola.studio.android.adt.DDMSFacade.deviceConnected(DDMSFacade.java:384)
+	at com.motorola.studio.android.adt.StudioDeviceChangeListener.deviceChanged(StudioDeviceChangeListener.java:66)
+	at com.android.ddmlib.AndroidDebugBridge.deviceChanged(AndroidDebugBridge.java:857)
+	at com.android.ddmlib.Device.update(Device.java:602)
+	at com.android.ddmlib.DeviceMonitor.updateDevices(DeviceMonitor.java:364)
+	at com.android.ddmlib.DeviceMonitor.processIncomingDeviceData(DeviceMonitor.java:325)
+	at com.android.ddmlib.DeviceMonitor.deviceMonitorLoop(DeviceMonitor.java:193)
+	at com.android.ddmlib.DeviceMonitor.access$000(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$1.run(DeviceMonitor.java:84)
+2013-01-28 12:48:26,579 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-28 12:48:26,588 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-28 13:00:36,065 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-28 13:00:46,251 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-28 13:00:52,283 [Worker-106] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@378630
+2013-01-28 13:00:52,285 [Worker-106] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 13:06:22,399 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-28 13:51:26,031 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-28 13:51:36,218 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-28 13:57:35,177 [Worker-109] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1f95ad6
+2013-01-28 13:57:35,179 [Worker-109] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:00:47,260 [Worker-109] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@19cae19
+2013-01-28 14:00:47,261 [Worker-109] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:01:52,514 [Worker-111] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@61442e
+2013-01-28 14:01:52,517 [Worker-111] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:03:18,280 [Worker-117] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1504990
+2013-01-28 14:03:18,282 [Worker-117] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:04:08,956 [Worker-109] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@8c77b5
+2013-01-28 14:04:08,958 [Worker-109] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:09:34,637 [Worker-123] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@3c6064
+2013-01-28 14:09:34,639 [Worker-123] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:14:31,129 [Worker-123] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@5e09f4
+2013-01-28 14:14:31,132 [Worker-123] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 14:17:36,459 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-28 17:18:06,320 [Device List Monitor] DEBUG Studio for Android - Device connected: 3035A5BEA5BD00EC
+2013-01-28 17:18:16,486 [Device List Monitor] DEBUG Studio for Android - Device changed: 3035A5BEA5BD00EC
+2013-01-28 17:18:35,672 [Worker-161] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@11bb195
+2013-01-28 17:18:35,674 [Worker-161] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 17:34:22,849 [Worker-174] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@16f5ef6
+2013-01-28 17:34:22,851 [Worker-174] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 17:41:58,853 [Worker-180] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@f3fffb
+2013-01-28 17:41:58,855 [Worker-180] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 17:51:35,732 [Worker-190] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1d8af8
+2013-01-28 17:51:35,733 [Worker-190] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 3035A5BEA5BD00EC
+2013-01-28 17:54:02,838 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 3035A5BEA5BD00EC
+2013-01-28 17:55:21,068 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-28 17:55:31,149 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-28 17:55:45,536 [Worker-192] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1c0ccac
+2013-01-28 17:55:45,537 [Worker-192] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 17:57:02,004 [Worker-192] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@cecd9a
+2013-01-28 17:57:02,006 [Worker-192] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 18:02:49,372 [Worker-200] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@ba831
+2013-01-28 18:02:49,373 [Worker-200] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 18:08:13,953 [Worker-203] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@14ec700
+2013-01-28 18:08:13,955 [Worker-203] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 18:10:27,260 [Worker-206] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1346c86
+2013-01-28 18:10:27,262 [Worker-206] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:11:40,355 [Worker-2] DEBUG class java.lang.Class - Starting MOTODEV Android Common Plugin...
+2013-01-28 19:11:40,355 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Plugin...
+2013-01-28 19:11:40,770 [Worker-2] DEBUG class java.lang.Class - MOTODEV Android Common Plugin started.
+2013-01-28 19:11:40,770 [Worker-2] DEBUG class java.lang.Class - Starting MOTODEV Android Device Services Plugin...
+2013-01-28 19:11:40,770 [Worker-2] DEBUG class java.lang.Class - MOTODEV Android Device Services Plugin started.
+2013-01-28 19:11:40,772 [main] DEBUG class java.lang.Class - MOTODEV Android Plugin started.
+2013-01-28 19:11:40,887 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Emulator Plugin...
+2013-01-28 19:11:42,566 [main] DEBUG class java.lang.Class - MOTODEV Android Emulator Plugin started.
+2013-01-28 19:11:42,599 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Handset Plugin...
+2013-01-28 19:11:42,599 [main] DEBUG class java.lang.Class - MOTODEV Android Handset Plugin started.
+2013-01-28 19:11:42,602 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin...
+2013-01-28 19:11:42,602 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Remote Device Plugin started.
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2013-01-28 19:11:42,664 [Worker-2] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2013-01-28 19:11:42,821 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: OFF
+2013-01-28 19:11:42,822 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: OFF
+2013-01-28 19:11:42,823 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: OFF
+2013-01-28 19:11:42,828 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 19:11:42,828 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 19:11:42,828 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.notavailable
+2013-01-28 19:11:55,283 [Worker-0] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2013-01-28 19:11:55,894 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Galaxy_Nexus Status: com.motorola.studio.android.emulator.status.offline
+2013-01-28 19:11:56,302 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_Nexus_S Status: com.motorola.studio.android.emulator.status.offline
+2013-01-28 19:11:56,341 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD_for_Nexus_S_by_Google Status: com.motorola.studio.android.emulator.status.offline
+2013-01-28 19:29:00,658 [Worker-16] DEBUG class java.lang.Class - Starting MOTODEV Android Launch Plugin...
+2013-01-28 19:29:00,658 [Worker-16] DEBUG class java.lang.Class - MOTODEV Android Launch Plugin started.
+2013-01-28 19:29:09,406 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 01498B2B1700F002
+2013-01-28 19:29:12,974 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-28 19:29:23,093 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-28 19:29:35,087 [Worker-14] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@122d95b
+2013-01-28 19:29:35,089 [Worker-14] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:30:17,779 [Worker-18] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1d9cbd9
+2013-01-28 19:30:17,780 [Worker-18] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:30:28,552 [Worker-15] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1c24bd8
+2013-01-28 19:30:28,553 [Worker-15] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-28 19:30:28,569 [Worker-15] ERROR class com.motorola.studio.android.launch.LaunchUtils - An error occurred trying to parse AndroidManifest
+java.lang.NullPointerException
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.startEmuInstance(StudioAndroidConfigurationDelegate.java:729)
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:450)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:697)
+	at com.motorola.studio.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:90)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-01-28 19:30:35,598 [Worker-13] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1bcdb04
+2013-01-28 19:30:35,599 [Worker-13] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:35:15,300 [Worker-22] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@ceb6ae
+2013-01-28 19:35:15,301 [Worker-22] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:36:29,017 [Worker-20] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@6d14e3
+2013-01-28 19:36:29,018 [Worker-20] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:38:55,836 [Worker-21] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@14b2fc5
+2013-01-28 19:38:55,837 [Worker-21] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:42:29,640 [Worker-31] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1b893f2
+2013-01-28 19:42:29,642 [Worker-31] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:45:24,167 [Worker-35] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@16011bf
+2013-01-28 19:45:24,169 [Worker-35] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:46:19,919 [Worker-37] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@118532a
+2013-01-28 19:46:19,920 [Worker-37] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:46:59,038 [Worker-37] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@14a9ba1
+2013-01-28 19:46:59,040 [Worker-37] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:48:55,309 [Worker-36] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@115652b
+2013-01-28 19:48:55,310 [Worker-36] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:56:29,099 [Worker-47] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1d2cdc8
+2013-01-28 19:56:29,100 [Worker-47] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:58:43,775 [Worker-49] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1b6b8c4
+2013-01-28 19:58:43,776 [Worker-49] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 19:59:41,476 [Worker-55] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1756c77
+2013-01-28 19:59:41,477 [Worker-55] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:06:54,961 [Worker-63] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1f96e2d
+2013-01-28 20:06:54,962 [Worker-63] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:08:50,570 [Worker-65] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@14a0d2d
+2013-01-28 20:08:50,571 [Worker-65] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:09:27,707 [Worker-69] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@19a87a9
+2013-01-28 20:09:27,709 [Worker-69] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:11:36,912 [Worker-72] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@10b678d
+2013-01-28 20:11:36,913 [Worker-72] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:12:57,210 [Worker-75] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1a75c24
+2013-01-28 20:12:57,211 [Worker-75] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:14:02,931 [Worker-67] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@19c200f
+2013-01-28 20:14:02,932 [Worker-67] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:27:15,534 [Worker-84] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@e79801
+2013-01-28 20:27:15,535 [Worker-84] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:28:17,319 [Worker-84] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@12dd773
+2013-01-28 20:28:17,321 [Worker-84] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:28:43,039 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@112c880
+2013-01-28 20:28:43,040 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:30:26,303 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@10a9b75
+2013-01-28 20:30:26,304 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:34:41,321 [Worker-91] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@f49c77
+2013-01-28 20:34:41,322 [Worker-91] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:37:37,955 [Worker-87] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@3fbd1b
+2013-01-28 20:37:37,956 [Worker-87] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:39:35,522 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@7fa32
+2013-01-28 20:39:35,523 [Worker-89] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:40:25,774 [Worker-84] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1f1c6fc
+2013-01-28 20:40:25,775 [Worker-84] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:46:22,028 [Worker-104] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@d6c1c6
+2013-01-28 20:46:22,030 [Worker-104] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:46:39,879 [Worker-103] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@38982
+2013-01-28 20:46:39,881 [Worker-103] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:48:38,598 [Worker-104] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@39a1b6
+2013-01-28 20:48:38,599 [Worker-104] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 20:48:52,083 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 01498B2B1700F002
+2013-01-28 20:57:22,087 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-28 20:57:26,992 [Worker-119] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@14a1f68
+2013-01-28 20:57:26,993 [Worker-119] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-28 20:57:26,993 [Worker-119] ERROR class com.motorola.studio.android.launch.LaunchUtils - An error occurred trying to parse AndroidManifest
+java.lang.NullPointerException
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.startEmuInstance(StudioAndroidConfigurationDelegate.java:729)
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:450)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:697)
+	at com.motorola.studio.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:90)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-01-28 20:57:32,176 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-28 20:57:37,461 [Worker-117] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1bbbfec
+2013-01-28 20:57:37,462 [Worker-117] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-28 20:57:37,462 [Worker-117] ERROR class com.motorola.studio.android.launch.LaunchUtils - An error occurred trying to parse AndroidManifest
+java.lang.NullPointerException
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.startEmuInstance(StudioAndroidConfigurationDelegate.java:729)
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:450)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:697)
+	at com.motorola.studio.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:90)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-01-28 20:57:51,647 [Worker-115] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1bd5f30
+2013-01-28 20:57:51,648 [Worker-115] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-28 21:46:50,337 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 01498B2B1700F002
+2013-01-28 21:47:14,560 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-28 21:47:24,625 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-29 01:03:48,896 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 01498B2B1700F002
+2013-01-29 07:58:43,749 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-29 07:58:53,946 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-29 09:41:39,992 [Worker-130] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@31429c
+2013-01-29 09:41:39,992 [Worker-130] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 09:45:02,850 [Worker-135] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@c18fd4
+2013-01-29 09:45:02,852 [Worker-135] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 09:46:36,271 [Worker-142] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@d2bed7
+2013-01-29 09:46:36,273 [Worker-142] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 09:50:39,606 [Worker-142] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@3e84a2
+2013-01-29 09:50:39,607 [Worker-142] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 09:51:24,926 [Worker-149] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@19b5f37
+2013-01-29 09:51:24,927 [Worker-149] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 09:52:15,002 [Worker-150] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@4b71e
+2013-01-29 09:52:15,003 [Worker-150] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 09:52:39,067 [Worker-146] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@5aa9d5
+2013-01-29 09:52:39,068 [Worker-146] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 10:01:05,480 [main] DEBUG class java.lang.Class - Starting MOTODEV Android Code Utils Plugin...
+2013-01-29 10:01:05,480 [main] DEBUG class java.lang.Class - MOTODEV Android Code Utils Plugin started.
+2013-01-29 11:06:26,106 [Worker-163] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1773d72
+2013-01-29 11:06:26,107 [Worker-163] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 11:11:05,622 [Worker-189] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@a97f24
+2013-01-29 11:11:05,623 [Worker-189] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 11:16:00,027 [Worker-187] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen Galaxy_Nexus mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@dfc3c5
+2013-01-29 11:16:00,028 [Worker-187] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2013-01-29 11:16:00,028 [Worker-187] ERROR class com.motorola.studio.android.launch.LaunchUtils - An error occurred trying to parse AndroidManifest
+java.lang.NullPointerException
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.startEmuInstance(StudioAndroidConfigurationDelegate.java:729)
+	at com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:450)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:697)
+	at com.motorola.studio.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:90)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-01-29 11:16:06,110 [Worker-196] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@556d6c
+2013-01-29 11:16:06,111 [Worker-196] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 11:22:31,033 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 01498B2B1700F002
+2013-01-29 11:36:35,084 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-29 11:36:46,691 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-29 14:08:37,193 [Worker-325] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@cc2611
+2013-01-29 14:08:37,194 [Worker-325] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 14:09:24,080 [Worker-331] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@2d5485
+2013-01-29 14:09:24,082 [Worker-331] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 14:10:05,828 [Worker-334] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@8cb299
+2013-01-29 14:10:05,830 [Worker-334] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 15:10:36,091 [Device List Monitor] DEBUG Studio for Android - Device disconnected: 01498B2B1700F002
+2013-01-29 15:58:03,861 [Device List Monitor] DEBUG Studio for Android - Device connected: 01498B2B1700F002
+2013-01-29 15:58:13,960 [Device List Monitor] DEBUG Studio for Android - Device changed: 01498B2B1700F002
+2013-01-29 15:58:20,685 [Worker-408] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1015bb3
+2013-01-29 15:58:20,686 [Worker-408] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:05:11,703 [Worker-412] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@5293c
+2013-01-29 16:05:11,705 [Worker-412] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:07:22,721 [Worker-413] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@129a249
+2013-01-29 16:07:22,722 [Worker-413] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:09:38,734 [Worker-413] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@116ebdd
+2013-01-29 16:09:38,735 [Worker-413] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:10:32,831 [Worker-419] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@882fd8
+2013-01-29 16:10:32,833 [Worker-419] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:11:46,020 [Worker-413] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@137a1f5
+2013-01-29 16:11:46,021 [Worker-413] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:13:57,518 [Worker-425] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1a7cab9
+2013-01-29 16:13:57,520 [Worker-425] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:15:24,049 [Worker-419] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@183053c
+2013-01-29 16:15:24,050 [Worker-419] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:17:31,682 [Worker-423] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@12818b6
+2013-01-29 16:17:31,684 [Worker-423] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:32:42,868 [Worker-440] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@328e65
+2013-01-29 16:32:42,869 [Worker-440] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:33:21,088 [Worker-437] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@8a1580
+2013-01-29 16:33:21,090 [Worker-437] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:41:43,654 [Worker-445] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1e902ee
+2013-01-29 16:41:43,655 [Worker-445] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:43:31,271 [Worker-443] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@11de83
+2013-01-29 16:43:31,273 [Worker-443] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:45:58,925 [Worker-450] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@173f344
+2013-01-29 16:45:58,926 [Worker-450] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 16:49:56,168 [Worker-452] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@57bbf1
+2013-01-29 16:49:56,170 [Worker-452] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:13:49,218 [Worker-465] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@83d180
+2013-01-29 17:13:49,220 [Worker-465] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:15:45,200 [Worker-468] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1704e5a
+2013-01-29 17:15:45,201 [Worker-468] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:17:30,275 [Worker-470] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1da2c57
+2013-01-29 17:17:30,277 [Worker-470] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:18:38,796 [Worker-470] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@f38ce8
+2013-01-29 17:18:38,798 [Worker-470] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:19:21,159 [Worker-468] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:debug launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1ec30ae
+2013-01-29 17:19:21,161 [Worker-468] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:20:18,535 [Worker-468] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@564608
+2013-01-29 17:20:18,536 [Worker-468] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:22:32,834 [Worker-478] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@13fefc6
+2013-01-29 17:22:32,836 [Worker-478] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:24:36,977 [Worker-479] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@e1c951
+2013-01-29 17:24:36,978 [Worker-479] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:31:13,573 [Worker-483] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1a63d24
+2013-01-29 17:31:13,574 [Worker-483] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:32:46,156 [Worker-482] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@196bd1d
+2013-01-29 17:32:46,158 [Worker-482] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:33:08,466 [Worker-482] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@cb4a56
+2013-01-29 17:33:08,468 [Worker-482] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:35:34,982 [Worker-494] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1211099
+2013-01-29 17:35:34,984 [Worker-494] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:37:36,596 [Worker-499] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@12112c7
+2013-01-29 17:37:36,598 [Worker-499] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:38:54,087 [Worker-500] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1a51747
+2013-01-29 17:38:54,089 [Worker-500] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:39:44,386 [Worker-504] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@135c4a7
+2013-01-29 17:39:44,388 [Worker-504] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:40:47,801 [Worker-498] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@1c41726
+2013-01-29 17:40:47,802 [Worker-498] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:41:33,627 [Worker-502] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: Fastavappen mode:run launch: com.android.ide.eclipse.adt.internal.launch.AndroidLaunch@188cef6
+2013-01-29 17:41:33,628 [Worker-502] INFO  class com.motorola.studio.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: 01498B2B1700F002
+2013-01-29 17:42:44,650 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Core Plugin...
+2013-01-29 17:42:45,075 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-29 17:42:45,076 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-29 17:42:45,076 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://468.fwk4974936/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/com.motorola.studio.android.common_5.0.0.201212111145.jar
+2013-01-29 17:42:45,076 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Program Files (x86)\eclipse\configuration\org.eclipse.osgi\bundles\468\1\.cp\res\androidjdbc.jar
+2013-01-29 17:42:45,103 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Core Plugin started.
+2013-01-29 17:42:45,104 [main] DEBUG class java.lang.Class - Starting MOTODEV Studio for Android Database Devices Support Plugin...
+2013-01-29 17:42:45,109 [main] DEBUG class java.lang.Class - MOTODEV Studio for Android Database Devices Support Plugin started...
+2013-01-29 17:42:47,403 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2013-01-29 17:42:47,410 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2013-01-29 17:42:47,597 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2013-01-29 17:42:47,597 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2013-01-29 17:42:47,597 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN

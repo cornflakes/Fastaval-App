@@ -5,7 +5,7 @@
     android:background="@android:color/black"
     android:clickable="true"
     android:orientation="vertical"
-    android:paddingLeft="40dp"
+    android:paddingLeft="20dp"
     tools:context=".MainActivity" >
 
     <LinearLayout
@@ -22,7 +22,7 @@
             android:contentDescription="@string/app_name" />
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/tv_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"

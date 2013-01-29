@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NewsFeedBox">
+        <attr name="android:title" />
+        <attr name="content" format="string" />
+        <attr name="date" format="number" />
+        <attr name="month" format="number" />
+    </declare-styleable>
+</resources>

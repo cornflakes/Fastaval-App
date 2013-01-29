@@ -1,0 +1,17 @@
+package dk.fastaval.fastavappen.data;
+
+public class GroupRowData implements Comparable<GroupRowData> {
+	public String Title;
+	public int day;
+	public int hour;
+	
+	@Override
+	public int compareTo(Object o) {
+		if (!(o instanceof GroupRowData))
+		      throw new ClassCastException();
+		
+		GroupRowData e = (GroupRowData) o;
+		
+		return Title.compareTo(e.Title);
+	}
+}

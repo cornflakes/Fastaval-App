@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NewsFeedBox">
+        <attr name="title" format="string" />
+        <attr name="content" format="string" />
+        <attr name="date" format="int" />
+        <attr name="month" format="int" />
+    </declare-styleable>
+</resources>

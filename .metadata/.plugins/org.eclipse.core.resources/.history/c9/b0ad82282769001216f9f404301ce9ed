@@ -1,0 +1,39 @@
+package dk.fastaval.fastavappen.data;
+
+public class ProgramActivity {
+	public int aktivitet_id;
+	public Afvikling afviklinger;
+	
+	public class Afvikling {
+		public int afvikling_id;
+		public int aktivitet_id;
+		public String lokale_id;
+		public String lokale_navn;
+		public Start start;
+		public End end;
+		
+		public class Start {
+			public String day;
+			public String month;
+			public String year;
+			public String h;
+			public String m;
+			public String date;
+			public String datetime;
+			public long timestamp;
+			public String mysql;
+		}
+
+		public class End {
+			public String day;
+			public String month;
+			public String year;
+			public String h;
+			public String m;
+			public String date;
+			public String datetime;
+			public long timestamp;
+			public String mysql;
+		}
+	}
+}

@@ -1,0 +1,22 @@
+1359366215480	Rename field 'groupItem'
+1359366592194	Rename field 'groupItem'
+1359366601075	Rename field 'mChildItem'
+1359391310405	Rename resource 'FastaProgram.fas'
+1359391363176	Rename resource 'FastaProgram.txt'
+1359396857837	Rename field 'childItem'
+1359397372375	Rename local variable 'ProgramActivities'
+1359448341967	Rename local variable 'text'
+1359448350571	Rename local variable 'Title'
+1359448355654	Rename local variable 'Type'
+1359448606071	Rename field 'tempChild'
+1359450052852	Delete element
+1359457913666	Move compilation unit
+1359462906899	Rename field 'mTimestamp'
+1359465252113	Rename type 'ProgramActivity'
+1359468208841	Copy file
+1359468234874	Copy file
+1359468264316	Rename resource 'in_from_right'
+1359468286411	Copy file
+1359469662256	Copy compilation unit
+1359469788880	Copy compilation unit
+1359472007793	Rename type 'NewsFlipperIntentService'

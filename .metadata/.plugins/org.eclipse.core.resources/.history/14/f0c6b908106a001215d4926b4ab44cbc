@@ -1,0 +1,59 @@
+package dk.fastaval.fastavappen.util;
+
+import android.content.Context;
+import android.content.res.TypedArray;
+import android.util.AttributeSet;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import dk.fastaval.fastavappen.R;
+
+public class NewsFeedBox extends LinearLayout {
+	
+	private long mTimestamp;
+	private View mNewsBox;
+	private TextView mDateField;
+	private TextView mMonthField;
+	private TextView mTitle;
+	private TextView mContent;
+
+	public NewsFeedBox(Context context) {
+		super(context);
+	}
+
+	public NewsFeedBox(Context context, AttributeSet attrs) {
+		super(context, attrs);
+		
+		LayoutInflater inflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+
+		mNewsBox = inflater.inflate(R.layout.newsfeedbox, this);
+		mDateField = mNewsBox.findViewById(R.id.tv_date_box_date);
+		mMonthField = mNewsBox.findViewById(R.id.tv_date_box_month);
+		mTitle = mNewsBox.findViewById(R.id.tv_news_title);
+		mContent = mNewsBox.findViewById(R.id.tv_news_content);
+	}
+	
+	private void updateDate() {
+		mNewsBox.f
+	}
+	
+	public void setDate(long timestamp){
+		mTimestamp = timestamp;
+	}
+
+	private void init(AttributeSet attrs) {
+		TypedArray a = getContext().obtainStyledAttributes(attrs,
+				R.styleable.NewsFeedBox);
+
+		// Use a
+		Log.i("NewsFeedBox", a.getString(R.styleable.NewsFeedBox_android_title));
+		Log.i("NewsFeedBox", a.getString(R.styleable.NewsFeedBox_content));
+		Log.i("NewsFeedBox", "" + a.getInt(R.styleable.NewsFeedBox_date, 1));
+		Log.i("NewsFeedBox", "" + a.getInt(R.styleable.NewsFeedBox_month, 1));
+
+		// Don't forget this
+		a.recycle();
+	}
+}

@@ -1,7 +1,0 @@
-package dk.fastaval.fastavappen.fragments;
-
-import com.actionbarsherlock.app.SherlockFragment;
-
-public class ProgramFragment extends SherlockFragment {
-
-}

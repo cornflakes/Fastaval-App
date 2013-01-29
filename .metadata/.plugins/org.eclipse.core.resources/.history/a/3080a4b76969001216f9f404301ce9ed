@@ -1,0 +1,5 @@
+package dk.fastaval.fastavappen;
+
+public class Constants {
+	public static final String FASTA_PROGRAM_FILE = "FastaProgram.txt";
+}

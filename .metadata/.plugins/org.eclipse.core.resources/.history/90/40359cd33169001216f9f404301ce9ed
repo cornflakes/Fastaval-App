@@ -1,0 +1,4616 @@
+[
+{
+"aktivitet_id": 3,
+"afviklinger": [],
+"info": {
+"title_da": "Thorvald Stauning - Varulvejæger",
+"text_da": "Før rollen som landsfader…Før skandalerne…Før Nobelprisen…Før duellen…… bekæmpede Stauning og hans posse fra Kontrolministeriet overnaturlige trusler mod Gamle Danmark.Så grib krucifiks, sølvkugler og den treløbede haglspreder og kast dig ud i et okkult historierevisionistisk grind night scenarie, der med enkle regler gør Kjøbenhavn anno 1900 til kulisse for et actionfilmisk show down med prøjsiske varulve.Forventet Spilletid: Max 2 timerAntal spillere: 1 spilleder og 4 spillere.Genre: Faux-historisk monster actionSpillertype: Initiativrige og friske på at puste liv i en flok historiske karakterer og disses slag, nedpløkninger og kjølige replikker.Spilledertype: Scenesætter og fartholder. Du skal formidle scenariet i et hæsblæsende tempo og samtidig give spillerne mulighed for at skinne.Om forfatteren: Kristian er blandt Danmarks flittigste scenarieforfattere og skriver tit scenarier med inspiration fra film og populærkultur. Derudover er han tilknyttet forfatterkollektivet Jesus Bar Mitzvah og han har faktisk ikke set ”Abraham Lincoln: Vampire Hunter”.",
+"description_da": "",
+"title_en": "Thorvald Stauning ? Werewolf Hunter",
+"text_en": "",
+"description_en": "",
+"author": [
+"Kristian Bach Petersen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4687"
+}
+},
+{
+"aktivitet_id": 4,
+"afviklinger": [
+{
+"afvikling_id": 15,
+"aktivitet_id": 4,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 16,
+"aktivitet_id": 4,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 1:00",
+"timestamp": 1364601600,
+"mysql": "2013-03-30 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Dulce et decorum",
+"text_da": "Dulce et decorum est pro patria mori\\\"Det er sødt og passende at dø for fædrelandet\\\"-HoratsAf meget forskellige grunde har tre unge engelske soldater og en sygeplejerske meldt sig frivilligt til tjeneste på vestfronten under første verdenskrig. De håndterer krigens rædsler ved hjælp af venskab, og vender forandrede hjem – eller dør. Spillet udforsker tro og tvivl, og menneskelig kontakt i dødens skygge, på baggrund af pigtråd, gasmasker og knuste hjerter.Dulce et decorum bruger bipersonsspil, story game og fortællespil til at støtte op om karakterspillet. Gennem fælles fortællespil opbygger gruppen krigen og livet ved fronten, og bruger det til at sætte karaktererne under pres. Et simpelt mekanisk system former og følger fiktionen. Spillerne tager hånd om spillets virkemidler – kolde kendsgerninger og autentisk skyttegravspoesi. Forventet spilletid: Ca. 4½ time Antal spillere: Fire spillere og en spilleder Genre: Krigstragedie Spillertype: Du har lyst til at engagere dig i både fiktionen og din karakter, og nyder en grad af uvished som leveres af mekanikken. Og du synes at engelske digte om giftgasangreb og fortabt ungdom lyder skønt. Spilledertype: Du elsker spillerne, og har både lyst til at presse dem og til at hjælpe dem med at støtte og presse hinanden. Mudder og pigtråd ligger godt i munden på dig, og du kan være lidt nedrig. Om forfatteren: Troels ville ønske at han hed Erich Remarque. Eller måske Euripides. Plottet har han i alt fald lånt fra Euripides. Han tror heftigt på rollespillere som medskabere.",
+"description_da": "",
+"title_en": "Dulce et decorum",
+"text_en": "",
+"description_en": "",
+"author": [
+"Troels Ken Pedersen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk+engelsk",
+"wp_id": "4694"
+}
+},
+{
+"aktivitet_id": 5,
+"afviklinger": [
+{
+"afvikling_id": 21,
+"aktivitet_id": 5,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:30",
+"timestamp": 1364484600,
+"mysql": "2013-03-28 16:30:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 18:30",
+"timestamp": 1364491800,
+"mysql": "2013-03-28 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 22,
+"aktivitet_id": 5,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:30",
+"timestamp": 1364571000,
+"mysql": "2013-03-29 16:30:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 18:30",
+"timestamp": 1364578200,
+"mysql": "2013-03-29 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Er du Ok?",
+"text_da": "Er du Ok? handler om livet i en familie med skizofreni.Nogle gange sidder man juleaften og ser at julemanden der træder ind og begynder at dele gaver ud i virkeligheden er en russer fra Tjernobyl, han er her for at bestråle gaverne, jeres mad og alle jeres ting, men ingen i din familie kan se det. Du prøver at redde dit eget og deres liv, men de ender med holde dig fast og juleaften ender på den psykiatriske skadestue hvor mor sidder og græder.Dette er scenarie er et socialrealistisk drama, hvor du som spiller for lov at kigge ind i en familie hvor en almindelig hverdag kun er noget der sker for andre mennesker. Hvor det at opnå ’hverdag’ og ’det normale’ er en triumf.En intens og spændt atmosfære fremdrives med enkle spilteknikker, der benytter sig af hemmelige tegn og kropssprog, i scener hvor man i fællesskab forsøger at vinde over sindslidelsen.Karaktererne er den skizofrene og dennes familie, og scenerne veksler mellem hverdagsscener der potentielt, og sandsynligvis, bliver afsporet og scener der viser den indre kamp imellem virkelighed og vrangforestillinger, set fra den syge persons vinkel. Hvordan man håndterer at være sindssyg, klar over det, men ude af stand til at tackle det.Forventet spilletid: Cirka 2 timerAntal spillere: 4 spillere + 1 spillederSpilletype: Du kan lide close to home psykologisk drama og socialrealistiske scenarier, hvor det gerne må gøre lidt ondt.Spilledertype: Spillederrollen skal formidle scener, køre bipersoner og kunne klippe skarpt.Om forfatteren: Stefan er 33 år og er åbenbart nået den alder, hvor man skal skrive scenarier med færre halvorker og flere socialrealistiske problemstillinger, såsom skilsmisser og psykiske lidelser. Den dag han skriver et scenarie om opkonvertering af obligationslån, bliver han nok nødt til at hænge sig i et silkeslips.",
+"description_da": "",
+"title_en": "Are you alright?",
+"text_en": "",
+"description_en": "",
+"author": [
+"Stefan Lægteskov"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4708"
+}
+},
+{
+"aktivitet_id": 6,
+"afviklinger": [
+{
+"afvikling_id": 46,
+"aktivitet_id": 6,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:30",
+"timestamp": 1364484600,
+"mysql": "2013-03-28 16:30:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 18:30",
+"timestamp": 1364491800,
+"mysql": "2013-03-28 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 47,
+"aktivitet_id": 6,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:30",
+"timestamp": 1364657400,
+"mysql": "2013-03-30 16:30:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 18:30",
+"timestamp": 1364664600,
+"mysql": "2013-03-30 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Tabet",
+"text_da": "I det andet rum vågner printeren til live og begynder at spytte specialet ud, side for side. Hun strækker sig. Rejser sig fra computeren. Går hen bag ham. Han smiler. Lægger præstekjolen fra sig. Følger efter hende ind i soveværelset.Syv år senere. Trip-trap-stolen står der bare. Tom aften efter aften. Blød jazz lyder fra anlægget. Døren til barneværelset er lukket. Morten og Lene spiser aftensmad i tavshed. \\\"Tabet\\\" handler om sorg; om det man mister, når man mister sig selv, og om de tab, man ikke taler om. De tab, der gør for ondt. De tab, som kostede mere end man kan sætte ord på. Og om hvordan man måske kan komme ud på den anden side af sorgen. Scenariet fokuserer på at lade det usagte forblive usagt, og lader størstedelen af fortællingen udspille sig i de enkelte spilleres egne hoveder. Fysiske virkemidler understøtter de enkelte scener, for Tabet kan virkeligt hænge tungt på dine skuldre og nogle gange er smerten et slag i maven.Spilletid: 2 timerAntal spillere: 4 + 1 spillederGenre: Hverdagstragedie med lyspunkt til slut.Spillertype: For spillere, der kan lide selv at digte videre på historien, som nyder en knugende fornemmelse i maven, og som ikke er bange for at spille abstrakte begreber. Mekanikken rummer fysiske elementer, men ingen vil komme til skade.Spilledertype: Spilleder er både instruktør og forløser. Du sætter og klipper scener, pacer spillerne og forsøger at hjælpe Morten og Lene med at rejse sig som Fugl Fønix fra asken og lægge Tabet bag sig.Om forfatteren: Peter kan godt lide at beskue verden fra skæve vinkler. Med sine scenarier forsøger han at efterlade mærker på spillerne. For tiden henter han sin inspiration fra bl.a. instruktørerne Pedro Almodóvar og Jim Jarmusch og forfatterne Josefine Klougart og Christina Hesselholdt.",
+"description_da": "",
+"title_en": "The Loss",
+"text_en": "",
+"description_en": "",
+"author": [
+"Peter Fallesen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4714"
+}
+},
+{
+"aktivitet_id": 7,
+"afviklinger": [
+{
+"afvikling_id": 6,
+"aktivitet_id": 7,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 1:00",
+"timestamp": 1364428800,
+"mysql": "2013-03-28 01:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 95,
+"aktivitet_id": 7,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:00",
+"timestamp": 1364569200,
+"mysql": "2013-03-29 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Bidt",
+"text_da": "“Prøv lige at høre, hvad det er I sidder og siger?” Nikolaj lænede sig tilbage i stolen, og lagde armene over kors.  “Helt ærligt? Vampyr? Han har da bare drukket sig fuld i går!” Sebastian sad og krøb sammen i hjørnet med det 5. glas cola i hånden. Han så bleg og hærget ud. “Det er vel nemt at teste. Vampyrer kan ikke lide kors, vel?” Kristian tog sit kors af, og rakte det frem mod Sebastian. Sebastian så på korset, der glimtede i en pludselig solstråle. Med et råb kastede han sig baglæns, væk fra Kristian. Sara så på sin bror. Det er virkeligt rigtigt. Han ER blevet bidt, og nu er han syg. Bliver han til et monster? Kan jeg redde ham? Hvem ville tro på os?\\\"Bidt\\\" er et scenarie om teenagere. Det er en historie om, at være der for sine venner i en verden, der pludselig er meget større og farligere, end den var i går. En verden hvor alle problemer er et spørgsmål om liv og død og hvor den eneste, der forstår dig og tror dig, er din bedste ven. Samtidig er Bidt en rejse ind i en verden under overfladen beboet af beregnende forretningsvampyrer, moderne hekse og præster, med magt over ondskaben.Du vil ikke komme til at kaste terninger i Bidt, men derimod opdatere din spilpersons Facebookstatus. Spilstilen er en blanding mellem drama, fortællescener og investigation.Antal spillere: 5 spillere + en spilleleder Spiltid: 4-5 timer Genre: Teenage drama, Urban Fantasy Spillertype: Spillere som er (eller kan huske hvordan det er at) være teenagere, og som kan lide at lege med tanken om vampyrer og hekse i et moderne Danmark. Spilledertype: Du styrer setting og bipersoner, men samtidig formår du at skubbe til spillerne, så de store følelser folder sig ud.Om forfatterne: Terese har været kagedame på Fastaval i mange år, er ivrig læser af Urban Fantasy og forfatterdebutant. Mette har været arrangør på Fastaval i mange forskellige roller fra sandwichsmører til generalklon siden 1997. Har skrevet flere livescenarier, blandt andet \\\"Hva\\' kommer du tit her?\\\". ",
+"description_da": "",
+"title_en": "Bitten",
+"text_en": "",
+"description_en": "",
+"author": [
+"Mette Sejr Markert og Terese Damhøj Andersen:"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk+engelsk",
+"wp_id": "4724"
+}
+},
+{
+"aktivitet_id": 8,
+"afviklinger": [
+{
+"afvikling_id": 5,
+"aktivitet_id": 8,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 1:00",
+"timestamp": 1364428800,
+"mysql": "2013-03-28 01:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 83,
+"aktivitet_id": 8,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 1:00",
+"timestamp": 1364515200,
+"mysql": "2013-03-29 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Bamsers Mod",
+"text_da": "“Jeg vil have min familie tilbage...” hoster han svagt og kigger bedende på de fire brynjeklædte bamser. “Deres mareridt er ved at vinde, og jeg er bange for, hvad der vil ske dem, når jeg er væk. I bliver nød til at redde dem.” De fire bamser kigger usikkert på hinanden, en af dem træder frem og siger, “jamen det kan vi da ikke. Vi er bare bamser.” “I er krigere,” udbryder Anders. “Ja krigere, der beskytter dine drømme, et barns drømme. En bamse har aldrig bekæmpet en voksens mareridt,” forklarer en anden bamse. “I skal prøve, for min skyld.” Anders er ved at dø.Han har accepteret det, og vil blot få det bedst ud af den sidste tid, sammen med mor, far, bror og tvillingesøster. Men hans familie er knust af sorgen. De er utrøstelige og tynget af at skulle miste en søn eller en bror. Vægten af sorgen flyder over i skænderier, vrede og bitre ord, der aldrig kan tages tilbage.“Bamsers mod” er et scenarie om den værste tragedie, der kan ramme en familie: at et barn skal dø. Men det er også eventyret om fire bamser, der kæmper mod en overmagt af uhyrer i et mareridtsunivers skabt af fortvivlede voksne.Som spiller skal du både spille de heroiske bamser i deres kamp mod familiens mareridt. Men du skal også spille et medlem af familien og derigennem vise, hvordan sorgen og bamsernes kamp påvirker dem. Scenariets udfordringer løses gennem kreativ fælles fortælling. Scenerne i scenariet veksler mellem spil omkring bordet, når man er på eventyr med bamserne og semilive, når man følger familiens udvikling, hvor spillerne kommer ud på gulvet og gennemspiller små scener fra familiens hverdag.Spillere er velkommen til at medbringe egen bamse til scenariet, men bare rolig, der vil være bamser til låns til alle, hvis ikke man har sin egen med.Spilletid: 5 timerAntal spillere: 4 spillere + 1 spillederGenre: Fantasifuld bittersød actiontragedie.Spillertype: Skal kunne leve sig ind i historien og have en legende fortællelysSpilledertype: Skal udfordre, opmuntre og medrive spillerne. Skal kunne sætte, instruere og klippe scenerne i semilive og malende beskrive scenerne i bordrollespil.Om forfatteren: Bamsen Sneleopard lægger beroligende sin pote på Simons hånd, som for at sige: “Slap af, der er alligevel ingen, som tager afsnittet om forfatteren alvorligt. Det er lige meget, hvad du skriver.”",
+"description_da": "",
+"title_en": "The Courage of Teddies",
+"text_en": "",
+"description_en": "",
+"author": [
+"Simon James Pettitt"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk+engelsk",
+"wp_id": "4729"
+}
+},
+{
+"aktivitet_id": 9,
+"afviklinger": [
+{
+"afvikling_id": 14,
+"aktivitet_id": 9,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "22",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 22:00",
+"timestamp": 1364590800,
+"mysql": "2013-03-29 22:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 0:00",
+"timestamp": 1364598000,
+"mysql": "2013-03-30 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Dræbersvin 2",
+"text_da": "Tophemmeligt genmanipuleret grisefoder fra Amerika.En grådig svineavler fra Sønder Snedum.Og så har vi balladen.\\\"Dræbersvin 2\\\" er en to timers Grind Night tour de force i klichefyldt, griseinfesteret, baconlugtende, hovedet under armen, sømmet i bund, humorfyldt hyldest til de gamle dage, da man kunne lave rigtige horrorfilm, og ikke at forglemme en kærlig mishandling af samtlige jyske provinshuller nord for Limfjorden. Der bliver eksploderende tankstationer, kamp om grill’en, blod på bingopladen, ombygning af skolebussen til grisedræbermaskine (montage) og en vanvittig afslutning hvor man laver en gylletank om til verdens største molotov cocktail.Det bliver en grusom rejse fra halbal til grisefest… Spilletid: 2 timerAntal spillere: 5 spillereGenre:  Dræbersvin 2 er et tongue in cheek råk’n rål monstersmadre scenarie. Punktum.Spillertype: Du er til bacon, råk\\'n rål og topseje one liners.Spilledertype: Du er et dumt svin, eller kan i hvert fald tænke som et ondt ildelugtende kæmpestort svin, der elsker at gnaske på stakkels jyske provinstabere.Om forfatteren: ”Råk\\'n Rål Til Folket” er René Tofts motto, og med scenarier som Ragnarok, Paria, 9000 Beton, Jackpot, Zombies.DK og nu Dræbersvin 2, har han gjort sit for at leve op til det. ",
+"description_da": "",
+"title_en": "Killer Pigs 2",
+"text_en": "",
+"description_en": "",
+"author": [
+"René Toft"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4733"
+}
+},
+{
+"aktivitet_id": 10,
+"afviklinger": [
+{
+"afvikling_id": 40,
+"aktivitet_id": 10,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 0:00",
+"timestamp": 1364598000,
+"mysql": "2013-03-30 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 41,
+"aktivitet_id": 10,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 15:00",
+"timestamp": 1364652000,
+"mysql": "2013-03-30 15:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Skabt for Hinanden",
+"text_da": "Skabt For Hinanden er et sødt scenarie om kærlighed. Det handler om universitetsstuderende, der forelsker sig på trods af dem selv og deres bagage. Det starter med et breakup og ender forhåbentlig med nye, spirende forhold.Scenariet er ukønnet, præcis lige som kærligheden.Spillet består af en række scener mellem hovedpersonerne, der udforsker deres forhold til hinanden og små intermezzoer med bipersoner hvor deres indre følelser og tvivl kommer frem. Den første del af scenariet har ingen af spilpersonerne køn. Det bestemmes og afsløres først halvvejs igennem spillet. Tanken er at give mere plads til kærligheden til de indre værdier, lade spillerne udforske deres egen stilling i forhold til køn og se hvordan det ændrer sig når spilpersonerne får køn og seksualitet.Forventet spilletid: 3-4 timerSpillerantal: 4 + en spillederGenre: Kønsløst hverdagshistorie.Spillertype: har lyst til at spille  tæt spil uden køn og til at lave en dejlig fortælling om kærlighed.Spilledertype:  er med for at holde spillets rammer på plads og hjælpe spillerne med det kønsløse spil.Om forfatteren: Oliver er enten svenskerfeminist eller en ondskabsfuld misogynist afhængig af hvem du spørger. Dette er hans første selvstændige Fastaval-scenarie, selv om han sidste år lavede Tørke og noget med disco-vampyrer.",
+"description_da": "",
+"title_en": "Made for each other",
+"text_en": "",
+"description_en": "",
+"author": [
+"Oliver Nøglebæk"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4737"
+}
+},
+{
+"aktivitet_id": 11,
+"afviklinger": [
+{
+"afvikling_id": 54,
+"aktivitet_id": 11,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 1:00",
+"timestamp": 1364428800,
+"mysql": "2013-03-28 01:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 55,
+"aktivitet_id": 11,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 1:00",
+"timestamp": 1364515200,
+"mysql": "2013-03-29 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Vélo",
+"text_da": "De sidste meters hårde tråd op af den nådesløse stigning. Han har et solidt forspring til forfølgerne, men tvivlen om sejrens sikkerhed er altid til stede. Hele kroppen gør ondt efter dagens umenneskelige slid. \\\"Hvorfor gør jeg det her mod mig selv?\\\" tænker han, men han kender godt svaret: fordi han ikke kunne forestille sig nogen anden tilværelse. Han ser sig tilbage: som skikkelser kan han fornemme resten af holdet bag sig. En tåre presser sig på, de har sikret ham sejren. Og i det øjeblik bliver verden omkring ham helt stille. Alting foregår i slowmotion og da han passerer målstregen med armene hævet over hovedet har han kun een klar tanke i hovedet: at han elsker sine holdkammerater af hele sit hjerte. Vær med til at skabe den fantastiske fortælling om tre cykelryttere og personerne i deres liv. Den aldrende kaptajn, den ambitiøse løjtnant og den forsmåede sprinter har hver deres mål, håb og drømme, som skal forløses af spillerne over tre hæsblæsende forårsklassikere. Med temaer som kammeratskab, kærlighed og ambition er scenen sat for et klassisk drama med bromance i centrum. Enkle regler belønner det dramatiske og driver historien fremad, men det er spillerne der beslutter, hvem der smager sejrens sødme og hvem der må lide sviende nederlag.Vélo er ikke kun et scenarie om cykelsport – det er et scenarie om kærlighed. Spilletid: 4-5 timer inklusiv opvarmningAntal spillere: 4 spillere og 1 spillederGenre: Bromance, dramaSpillertype: Spillere, der kan lide at spille kærlighedsdrama på en anderledes måde og som ikke er bange for at anvende små regler til at skabe en stor fortælling. Kendskab til professionel cykelsport ikke et krav, men giver spillet en ekstra dimension.Spilledertype: Spilledere, der ikke er bange for at lade spillerne bestemme over scenariet og som ser det at lede historien på vej som deres hovedopgave.Om forfatterne: Thor og Jonas er begge entusiastiske cykelfans med en hang til store personligheder og heltebedrifter. Thor er en del af ”Jesus Bar Mitzvah”. De har begge tidligere bidraget til Fastaval og er selv tilhængere af et godt drama.",
+"description_da": "",
+"title_en": "Vélo",
+"text_en": "",
+"description_en": "",
+"author": [
+"Thor Fejerskov Jensen og Jonas Sanberg Jensen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk+engelsk",
+"wp_id": "4741"
+}
+},
+{
+"aktivitet_id": 12,
+"afviklinger": [
+{
+"afvikling_id": 51,
+"aktivitet_id": 12,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:30",
+"timestamp": 1364484600,
+"mysql": "2013-03-28 16:30:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 18:30",
+"timestamp": 1364491800,
+"mysql": "2013-03-28 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 52,
+"aktivitet_id": 12,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:30",
+"timestamp": 1364571000,
+"mysql": "2013-03-29 16:30:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 18:30",
+"timestamp": 1364578200,
+"mysql": "2013-03-29 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Ud over Dig",
+"text_da": "Kærlighed er som en skovbrand. Altfortærende, men flygtig.Kærlighed er som en flamme, der aldrig går ud. Tændt af den første gnist.Kærlighed er som at have haft varme fødder så længe, at du har glemt hvordan de føles kolde. Fire mennesker sidder på et advokatkontor. De er kaldt sammen, på grund af et tvetydigt testamente. ”Til dig, som jeg elsker mest af alle, til dig efterlader jeg alting.” Sådan står der, og nu er manden død og alle hans penge, skal gives til nogen. Tre menneskers navne, kan tage plads på den stiplede linje. De sidder foran skrivebordet, forsøger at se alle andre steder hen, end på hinanden.  Mandens bedste ven ser på advokaten. ”Og hvad er det meningen, at jeg skal gøre?” Spørger han. ”Hjælpe mig med at vurdere.” Svarer advokaten.”\\\"Ud over dig\\\" er et scenarie der handler om kærlighed og om at vinde. Både materielt og psykisk. Tre af spillerne skal sætte scener som fortæller deres historie om at elske og være elsket. Den sidste vil spille med i scenerne og skal være med til at bedømme hvor kærligheden er størst.Der vil være et element at fysisk kontakt i scenariet.Spilletid: ca. 2-3 timerAntal spillere: 4 + 1 spillederGenre: en kærlighedshistorie med flere tabere end vindere.Spillertype: Du skal ville investere dig selv i spillet og du skal synes det er sjovt at fortælle historier og sætte scener ud fra minimale oplæg.Spilledertype: som spilleder til dette scenarie skal du observere, stille kritiske spørgsmål og hjælpe spillerne med at sætte scener, hvis de selv går i stå.   Om forfatteren: \\\"Ud over dig\\\" er Maries andet scenarie. Hun er svært glad for de små historier i de almindeliges liv.",
+"description_da": "",
+"title_en": "Besides You",
+"text_en": "",
+"description_en": "",
+"author": [
+"Marie Oscilowski"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4745"
+}
+},
+{
+"aktivitet_id": 13,
+"afviklinger": [
+{
+"afvikling_id": 53,
+"aktivitet_id": 13,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "22",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 22:00",
+"timestamp": 1364590800,
+"mysql": "2013-03-29 22:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 0:00",
+"timestamp": 1364598000,
+"mysql": "2013-03-30 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Vampires vs. Zombies",
+"text_da": "Af Jesper Stein Sandal»Sulten er alt, hvad der er tilbage. Mennesker vil slå hinanden ihjel for den sidste citronmåne, de har gravet frem af ruinerne af en benzintank, selv mens zombierne omringer dem, draget af deres sult efter menneskekød. Og vi sulter efter menneskenes blod, men zombierne står mellem dem og os.«I Vampires vs. Zombies kan du både drikke blod og nakke zombier. Hovedpersonerne er ganske vist kommunefarvede forstadsvampyrer, men de bliver tvunget til at tage affære, da zombierne kommer, og der ikke er mere blod i køleskabet.Scenariet vil lægge vægt på lettere overdreven action med et glimt i øjet, og det er en fordel, hvis du er fan af zombiegenren og tør give dens klichéer dit helt eget særpræg.Det meget enkle regelsystem vil belønne dig for at smøre ekstra tykt på. Hvis du ikke bare kvaser en zombie, men ligefrem udser dig zombie-quarterbacken fra den rivaliserende high-schools football-hold, river gearstangen ud af hans \\'67 Mustang og borer den gennem hans øje, mens du brøler: »Touchdown!« - så får du bogstaveligt flere terninger at rulle med.Varighed: Ca. 2 timerAntal spillere: 4 + 1 spillederGenre: Action/KomedieSpillertype: Du tør sætte din rolle på spil for at gøre spillet vildere, og du er ikke bange for terninger, men hænger dig ikke i regler eller realisme.Spilledertype: Du kan improvisere og både udnytte spillernes fejltrin og deres vanvittige indfald. Du skal kunne håndtere actionscener, men dramatik og klipning er vigtigere end terninger.Om forfatteren: Jesper har skrevet en lang række scenarier til Fastaval og er især kendt for sine komedier. Vampires vs. Zombies er Jespers første forsøg inden for vampyrgenren, og det er også hans første scenarie til Fastavals Grind Night. Han hævder selv, at han aldrig har spillet Vampire, selvom han er rollespiller af 1990\\'erne.",
+"description_da": "",
+"title_en": "Vampires vs. Zombies",
+"text_en": "",
+"description_en": "",
+"author": [
+"Jesper Stein Sandal"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4749"
+}
+},
+{
+"aktivitet_id": 14,
+"afviklinger": [
+{
+"afvikling_id": 3,
+"aktivitet_id": 14,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "2",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 2:00",
+"timestamp": 1364605200,
+"mysql": "2013-03-30 02:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 4,
+"aktivitet_id": 14,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "17",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 17:00",
+"timestamp": 1364659200,
+"mysql": "2013-03-30 17:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Theatre of the oppressed",
+"text_da": "Scenen er Brasilien sidst i 70\\'erne. President Ernesto Geisel har løsnet militærdiktaturets politiske kontrol en smule og erklæret, at Brasiliens mål er demokrati, men der er lang vej endnu.En gruppe politiske aktivister fra São Paulo er på vej til en landsby langt ude på landet for at hjælpe til med dens politiske opdragelse. Værktøjet er forumteater - the theatre of the oppressed. En formidabel form for politisk teater udviklet af Brasiliens klare revolutionære stemme - Augusto Boal.Forude venter den uforvarende landsby. Et mikrokosmos, der har sine egne historier, problemer og drømme. Der er så meget man ikke taler om til dagligt, men bare må leve med, lige fra forbrydelser og bagtalelse til begær og forsmået kærlighed. Besøget udefra letter på låget og noget kommer frem, andet forbliver skjult.Vi ved, at der vil blive spillet et teaterstykke og at dagen på et tidspunkt får ende og den sidste må gå hjem i seng, men hvad der sker under vejs står åbent.Hver spilperson er involveret i flere af landsbyens og aktivisternes problemstillinger. Scenariet er tilrettelagt således at alle de forskellige problemstillinger kan, men ikke skal komme frem.I forum-teater er publikum meget aktive og kan afbryde handlingen, komme med forslag og selv gå på scenen, men hvad kommer det til at handle om? Og måske vigtigere, hvad kommer det ikke til at handle om?I første akt spilles frit som i et sandkasse-scenarie, historien tager form efter roller og spillere.I andet akt er vi midt i forum-teatret, der styres af en spilleder (ingen forudsætninger nødvendige).I tredje akt går dagen på hæld, nogle er tilfredse, flere er skuffede. Ved hjælp af jeep-form teknikker udforsker vi både dagens konsekvenser og en række ”hvad-nu-hvis” scenarier mens natten falder på.Scenariet er for 19 spillere, der både udfylder aktivisternes og landsbyboernes roller.Scenariet spilles med fuld åbenhed om roller og plots. Al information er til rådighed for spillerne. Der er klare muligheder for at fordybe sig i sin rolle undervejs, men det er en vigtig faktor, at man også er opmærksom tilskuer til de andre figurers udvikling og skæbne.Indledende workshops, pauser og afsluttende evaluering er en del af scenariets fortællingsstruktur og kan aktivt udnyttes af spillerne til at øge deres udbytte fra akterne.Form: Live (plug and play - ingen forberedelse hjemmefra, men sommerkjoler, kortærmede skjorter, T-shirts og lyse bukser er velkomne)Spilletid: 6 timerDeltagerantal: 19Genre: DramaSpillertype: Spillere, der kan lide at spændingen i en realistisk setting. Spillere, der er interesserede i form såvel som fortælling.Spilledertype: Folk med interesse for og gerne lidt erfaring med enten forum-teater eller jeep-form.Om forfatteren: Malik har skrevet ret forskellige scenarier og larps til Fastaval og andre steder, for eksempel en trilogi om moderne japanske myter, et Vigge og Rasmussen inspireret larp og et erotisk brevrollespil. Malik har skrevet scenarier til Fastaval siden Fastaval 2 - dog med en del pauser",
+"description_da": "",
+"title_en": "Theatre of the oppressed",
+"text_en": "",
+"description_en": "",
+"author": [
+"Malik Hyltoft"
+],
+"price": 0,
+"min_player": 19,
+"max_player": 19,
+"type": "live",
+"play_hours": 6,
+"language": "dansk+engelsk",
+"wp_id": "4757"
+}
+},
+{
+"aktivitet_id": 15,
+"afviklinger": [
+{
+"afvikling_id": 44,
+"aktivitet_id": 15,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "17",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 17:00",
+"timestamp": 1364572800,
+"mysql": "2013-03-29 17:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 45,
+"aktivitet_id": 15,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "3",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 3:00",
+"timestamp": 1364691600,
+"mysql": "2013-03-31 03:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Søn af Landet",
+"text_da": "En 17-årig knægt sidder i en bunker ud for den lille fiskerlandsby Courseulles-sur-Mer. Han klaprer tænder, for noget er ved at ske. Kontakten til de andre bunkere langs Hitlers såkaldte Atlanterhavsmur er røget for nogle timer siden, men lyden af bombardementerne taler deres utvetydige sprog: De Allierede er gået til angreb.Skjult i bunkeren sidder også en anden, der kun er få år ældre, men som allerede er krigsveteran. Det er ham, der har saboteret kommunikationslinjerne til de andre bunkere. Han er agent for fjenden.Han er min far.Min far blev født i Berlin i 1923, og han er jøde. Dette er historien om hans liv.Det er en karusseltur gennem det 20. århundrede. En tur, der vil føre dig tværs over Europa, til Palæstina og tilbage igen - igennem krig, vold og hævn.Selvom der kun er én hovedperson i denne fortælling, er der to, der spiller ham: En helt og en skurk. De to andre spillere står for bipersongalleriet, sammen med spillederen.Hvornår var min far den heltemodige hævner? Og hvornår var han den hadefulde skurk? Det er op til spillerne selv at bedømme. Det er dig, der skal træde den snævre sti mellem god og ond. Den bliver meget smal, når krigen raser.Scenariet lægger op til en semi-live spillestil, der foregår på en afmærket scene i rummet. Du skal være opmærksom på, at spillestilen er fysisk, og at det er del af spilmekanikken, at der skal skubbes og hives.Bemærk også at der er meget læsemateriale, og der kræves forberedelse af spillerne. Materialet udsendes inden Fastaval, og der er derfor kun forhåndstilmelding mulig.Spilletid: 6 timerAntal spillere: 4 + 1 spillederGenre: Psykologisk drama/historisk dramaSpillertype: Spillere med fokus på den gode fortællingSpilledertype: Spilledere, der godt kan lide en god udfordring - du skal både have det historiske overblik, spille biperson og agere instruktør.Om forfatteren: Sanne har skrevet kongresscenarier siden 1995. Dette er hendes “store fortælling”, som hun altid har gået og taget sig sammen til at skrive.",
+"description_da": "",
+"title_en": "Son of Israel",
+"text_en": "",
+"description_en": "",
+"author": [
+"Sanne Harder"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 6,
+"language": "dansk+engelsk",
+"wp_id": "4766"
+}
+},
+{
+"aktivitet_id": 16,
+"afviklinger": [
+{
+"afvikling_id": 36,
+"aktivitet_id": 16,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:30",
+"timestamp": 1364571000,
+"mysql": "2013-03-29 16:30:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 18:30",
+"timestamp": 1364578200,
+"mysql": "2013-03-29 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 37,
+"aktivitet_id": 16,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:30",
+"timestamp": 1364657400,
+"mysql": "2013-03-30 16:30:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 18:30",
+"timestamp": 1364664600,
+"mysql": "2013-03-30 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Operation H.A.S.T.E.",
+"text_da": "Et dybt, dybt, rystende drøn vækker dig. Du når lige at få det obligatoriske smil på, inden teleskærmen ved dit hovedgærde blinker til live og en servicestemme lyder:  \\\"Tillykke, Borger! Din ven, Computeren, har udvalgt dig! Du skal frivilligt melde dig som Trouble-Shooter på Operation H.A.S.T.E., der er af yderste vigtighed for den! Du er forventet i briefinglokale 1-337 om -1 min og 23 sekunder!\\\"Du skal på en mareridtstur gennem en hel sektor fuld af kommunister og andre forrædere med Computeren vågende over dig på en mission, du ikke har autoritet til at vide noget om. Hvis du så bare kunne stole på dine hold-\\\"kammerater\\\"...Setting er Paranoia - en forkvaklet fremtid, hvor Computeren har skabt den bedste af alle verdener, og hvis det ikke er tilfældet, så må det være kommunister, mutanter og andre forræderes skyld. Smil, Borger. Den bedste måde at overleve på er ved at tørre skylden af på de andre - og måske endda selv blive forfremmet.System er hjemmelavet - simpelt og uretfærdigt.Medbring gerne egen d20.Spilletid: 2 timerAntal spillere: 4 spiller + 1 spillederGenre: Backstabbing humor  Spillertype: Dig, der kan grine over, at din tredje, fjerde og femte klon bliver skudt, henrettet og blæst til atomer. Kendskab til settingen er forræderi og straffes med øjeblikkelig henrettelse. Spilledertype: Computeren søger folk, der er reaktionære, skrankepaver og sadistiske. Skadefro smil og gnæggende grin er plusord. Kendskab til settingen er ikke nødvendigt.Om forfatter: Ryan Rohde Hougaard, der fik en aflagt Paranoia-bog i gave og forelskede sig. Så tog han til Fastaval og spillede Paranoia, og nu skriver han selv Paranoia til Vallen. I mellemtiden har han fordrevet tiden med at skrive andre scenarier - oftest krøllede og humoristiske.",
+"description_da": "",
+"title_en": "Operation H.A.S.T.E.",
+"text_en": "",
+"description_en": "",
+"author": [
+"Ryan Rohde Hougaard"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4770"
+}
+},
+{
+"aktivitet_id": 17,
+"afviklinger": [
+{
+"afvikling_id": 35,
+"aktivitet_id": 17,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "22",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 22:00",
+"timestamp": 1364590800,
+"mysql": "2013-03-29 22:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 0:00",
+"timestamp": 1364598000,
+"mysql": "2013-03-30 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Naboerne",
+"text_da": "“Du er en lort af en idiot. Du er det dummeste, der nogensinde har sat sine ben på jorden. Jeg foragter alt ved dig. Jeg vil bekæmpe dig. Jeg kender din slags. Sådan nogen som dig, skal sættes på plads med magt og vold. Du skal have gift. Rottegift. Lige i røven!”   “Næste gang, der spreder sig rucula fra din lortehave over til min, så er det slut!”  Naboerne er et kort, intenst og potentielt meget blodigt scenarie. Det handler om fire naboer, der hader hinanden. Det starter med småkonfrontationer og ender med, at de forsøger at slå hinanden ihjel på blodigste og mest makabre vis.  Spil en af de fire dybt usympatiske naboer, synk så langt ned i hadet som muligt gennem din karakter og find på de mest groteske måder at forulempe de andre på.   I \\\"Naboerne\\\" får du lov til at gøre det ved dine naboer, du normalt kun tør tænke!Spilletid: 1½ timeAntal spillere: 4 + 1 spilleder  Genre: Grum situationskomedie (Grind Night)Spillertyper: Gerne folk med en masse indestængte aggressioner.Spilledertyper: Spilledere med sans for timing og dramaturgi.  Om forfatteren: Johannes Daa er en kamæleon i dansk rollespil. Læs mere her: http://johannesdaa.wordpress.com/",
+"description_da": "",
+"title_en": "The Neighbors",
+"text_en": "",
+"description_en": "",
+"author": [
+"Johannes Daa"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4774"
+}
+},
+{
+"aktivitet_id": 18,
+"afviklinger": [
+{
+"afvikling_id": 33,
+"aktivitet_id": 18,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 34,
+"aktivitet_id": 18,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 1:00",
+"timestamp": 1364601600,
+"mysql": "2013-03-30 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Klip en hæl og hug en tå",
+"text_da": "Denne bog var ikke som de andre rejsebeskrivelser, der var dumpet ned fra hullet i paddehatten over Nimbuuksens hytte. Forfatteren var dens absolutte yndling, Thotvalius Plø, den berømte Klyngenkender, legenden der havde sat sin fødder overalt på Klyngen.Bogen,som var blevet kastet i Utroværdighedens Hul af Ord Arsenalet., beskrev 3 historier, som på forunderligvis blev vævet sammen til et storslået eventyr på en megetuforudsigelig dag i Kræmmerby.Tag med på eventyr og oplev de dovne skokkeskubbere, der er blevet sendt til byen for at købe løgposer, men som i stedet har lagt en snedig plan om, at bruge alle pengene til at købe flamboyant tøj, og skifte navne til deres helte: Ghungas Gumbanik og det beskidte slæng. Hvis de altså lige kan komme af med bondemandens nevø, som er sendt med for at holde øje med dem.Oplev, hvordan kødsnedkeren Mester Mesterhaks samsurlinge har fået en genial ide til at få deres elskede og ret så talentløse mester øverst i det nepotistiske kødsnedkerhierarki. De vil slå byens absolut hotteste cirkustrup ihjel, men først skal de lige ud af Kødbyen og over lambruskoernes bro.Og sidst, men ikke mindst, træd ind i manegen med B-truppen fra Cirkus Let På Tå, som prøver, med livet som indsats, at gøgle sig igennem en spektakulær forestilling for at tilfredsstille Klyngens absolut farligste bande: Ghungas Gumbanik og det beskidte slæng, fordi den rigtige cirkustrup på mystisk vis, aldrig dukkede op. Men først skal de lige overbevise de blodtørstige kødnsedkere, som har hyret Cirkus Let På Tå, om at de rent faktisk har noget med cirkusset at gøre. Og så lige finde ud af, hvordan de får transporteret artillerinissens kæmpe kanon ind i manegen.\\\"Klip en hæl og hug en tå\\\" er en blanding af almindeligt rollespil, hvor spillerne har ansvaret for, at drive eventyret frem via deres roller, og fortællerrollespil, hvor spillerne selv skal bidrage med input til verdenen. Spilletid: 3-5 timerAntal spillere: 4 spillere og 1 spillelederGenre: EventyrSpillertype: Modne spillere, som har lyst til at være drivkraften i eventyret og tage et stort ansvar i den fælles oplevelse for at bringe Klyngen til live.Spilleledertype: Erfaren spilleleder, der kan improvisere på stedet og holde den strenge disciplin det kræver at bevare alvoren i en eventyrlig verden.Om forfatteren: Michael har skrevet en masse scenarier i alle mulige genre. Dette er det andet scenarie som foregår i den eventyrlige og skøre verden Klyngen.",
+"description_da": "",
+"title_en": "Heel and toe, cut and go",
+"text_en": "",
+"description_en": "",
+"author": [
+"Michael Sonne-Jørgensen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk+engelsk",
+"wp_id": "4784"
+}
+},
+{
+"aktivitet_id": 19,
+"afviklinger": [
+{
+"afvikling_id": 25,
+"aktivitet_id": 19,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 15:00",
+"timestamp": 1364479200,
+"mysql": "2013-03-28 15:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 26,
+"aktivitet_id": 19,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 0:00",
+"timestamp": 1364684400,
+"mysql": "2013-03-31 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Forsmåelse",
+"text_da": "en Absurth-produktionDu har gjort så meget. Og du har fået alt, alt for lidt igen. For sandheden er jo at det var dig der var først med stort set alle de ting der er på mode i improteaterverdenen lige nu. Dig, som trofast må klappe, ikke den talentløse nar der står på scenen og bruger alt for lang tid på at takke for en pris han ikke har fortjent. Dig, som sidder alene i et hjørne af baren, ikke ham der står og giver autografer til unge fans til trods for han åbenlyst bare er en wannabe uden noget på hjerte. Dig som gang på gang bliver forbigået til fordel for en eller anden du dårligt nok kender. Og du har ingen grund til at tro at årets festival på nogen måde bliver anderledes.\\\"Forsmåelse\\\" er en rollespilssitcom om at være sin egen værste fjende. Og om hvor galt det kan gå når det altid er de andres skyld.Spilletid: 3-4 timerAntal spillere: 5 + 1 spillederGenre: Komedie med en snert af tragedieSpillertype: Du skal turde gå efter situationen fremfor indlevelsen og klar til at dele hovedrollen med de andre spillere. Men du behøver ikke være sjov, det skal scenariet nok få dig til at være.Spilledertype: Må gerne have en lille instruktør i maven. Behøver heller ikke selv være sjov, men må gerne have fornemmelse for det der humor.Om forfatteren: Mads er en del af forfattergruppen Absurth og har skrevet flere Fastaval-scenarier som har vundet overraskende få Ottoer. Forsmåelse er hans første scenarie længe helt uden spilmekanik.",
+"description_da": "",
+"title_en": "Unrecognised",
+"text_en": "",
+"description_en": "",
+"author": [
+"Mads Brynnum"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4789"
+}
+},
+{
+"aktivitet_id": 20,
+"afviklinger": [
+{
+"afvikling_id": 10,
+"aktivitet_id": 20,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 0:00",
+"timestamp": 1364425200,
+"mysql": "2013-03-28 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 11,
+"aktivitet_id": 20,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 0:00",
+"timestamp": 1364511600,
+"mysql": "2013-03-29 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Depereo",
+"text_da": "Depereo er et scenarie om kontrol og kærlighed. Om store egoer og passioneret kaos. Om en amoralsk diktator og en egocentreret anarkist. Om Theo og Alexi. Og om en verden der ikke kan rumme dem.I Depereo deles 2 spillere om 1 rolle. Hver rolle rummer to aspekter der kæmper indbyrdes med og mod alle om at sin vilje. Igennem små episoder udforsker I surrealistiske og groteske historier. Mellem episoderne udkæmper Alexi og Theo samtidig en magtkamp om den sidste by i verden. Det kan kun blive en helt speciel fortælling.Spilletid: Omkring 4 timer.Antal spillere: 1 spilleder og 4 spillere.Genre: XSpillertype: Du investerer i, og kæmper for, din karakter. Du har ikke noget imod at tage kontrollen fra andre, og at andre tager kontrollen fra dig. Du foretrækker at karaktererne er i centrum af fortællingen.Spilledertype: Du har lyst til at tage ejerskab over dele af universet, og har ikke noget imod at dele af fortællingen og scenesætningen er i spillernes hænder. Du skubber til karaktererne og fremmaner stemning. Du er villig til at bruge tid før scenariet skal spilles på at arbejde med det.Kort om forfatteren: Asbjørn kæmper for frihed, eller hvad fanden det nu var, og gør næsten alt hvad hen kan for at vælte diktatoren der styrer verden.",
+"description_da": "",
+"title_en": "Depereo",
+"text_en": "",
+"description_en": "",
+"author": [
+"Asbjørn Olsen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4797"
+}
+},
+{
+"aktivitet_id": 21,
+"afviklinger": [
+{
+"afvikling_id": 17,
+"aktivitet_id": 21,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 0:00",
+"timestamp": 1364511600,
+"mysql": "2013-03-29 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 18,
+"aktivitet_id": 21,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 15:00",
+"timestamp": 1364652000,
+"mysql": "2013-03-30 15:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "En Dag på Kontoret",
+"text_da": "Du drejer fra den endeløse bilkø, og kører ind på parkeringspladsen foran den antracitgrå kontorbygning. Du låser dig ind med nøglekortet, og tager elevatoren op til kontoret. Endnu en mandag. Endnu en uge på kontoret. Da du kommer ind i storrumskontoret, kan du mærke at noget ikke er som det plejer. Stemningen er hektisk, med hvisken i krogene og nervøse blikke. Der er noget i gære. Kontorrokade? Fyringsrunde? Problemer med kunder? Du sukker, og går ned mod dit skrivebord. Det tegner til at blive en interessant dag. Forbandet.“En dag på kontoret” handler om en sammenbragt projektgruppe i en stor dansk IT-virksomhed. Det handler om deadlines, møder, workshops og teambuilding. Det handler om at tage sig godt ud over for chefen, undgå at hænge på de dårlige opgaver, og ikke at få skylden for fejl (uagtet hvem der har begået dem). Kollegaerne er ikke venner - i bedste fald kan de være allierede, i værste fald trusler. I den skånselsløse IT-verden er der vindere og tabere, og alle ved hvad der sker med tabere. Det handler om at overleve i kontorjunglen. En dag ad gangen.Viden om IT-miljøet og kontorliv er ikke nødvendigt.Spilletid: 4 timerAntal spillere: 5 + 1 spillederGenre: Dramatisk sort intrigekomedieSpillertype: Du kan lide at være på, og spille op imod de andre spillere i gruppen. Derudover ved du, at det i sidste ende handler om at fortælle den bedst mulige historie, ikke at vinde, og derfor er de bedste hemmeligheder dem der bliver opdaget.Spilledertype: Du er instruktøren der pacer historien, og ved hvornår det er tid til sceneskift. Derudover kan du lide at spille nogle farverige biroller, som er med til at udbygge fortællingen.Om forfatteren: Piotr har været til Fastaval siden senhalvfemserne, men debuterede først som forfatter sidste år med “Bødlerne”. Han elsker stadig intrigescenarier, og det interne spil de skaber. Til hverdag arbejder han med IT, i en stor antracitgrå kontorbygning.",
+"description_da": "",
+"title_en": "A Day at the Office",
+"text_en": "",
+"description_en": "",
+"author": [
+"Piotr Duda-Dziewierz"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4803"
+}
+},
+{
+"aktivitet_id": 22,
+"afviklinger": [
+{
+"afvikling_id": 31,
+"aktivitet_id": 22,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 0:00",
+"timestamp": 1364511600,
+"mysql": "2013-03-29 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 32,
+"aktivitet_id": 22,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 15:00",
+"timestamp": 1364652000,
+"mysql": "2013-03-30 15:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Kampen om Evigheden",
+"text_da": "»De små pingviner trykkede sig tæt ind til hinanden. Vinden fik den tørre pulver-sne til at fyge sidelæns henover overfladen og lange vandrette striber af sne gjorde sigtbarheden dårlig. Det var en kold dag, faktisk alt for kold til at være uden for Karthagos uigennemtrængelige klippemurer. Men det var nødvendigt. På toppen af bakken af is stod han. Helten Apollo. De så ham først som en svag silhuet gennem den fygende sne, og blot synet af hans grå skygge fik dem til at sænke tempoet, for Karthago-pingvinerne var uvante med helte.  De havde ikke brug for helte. Ikke før nu.«Dette er historien om Peleus. Om helte.  Om storhed & fald.  Om kulde, fortvivlelse og bedrag.Da den lille pingvin-stamme Karthago bliver overfaldet af søleoparder i deres hemmelige by er det et stort chok for alle. Som den fredelige stamme de er, har de ingen krigere, ingen helte. Ingen melder sig frivilligt til til den altoverskyggende vigtige mission det er at få hævnet overfaldet og forhindre fremtidige angreb. For ingen ønsker at skilde sig ud. Ingen vil være helt. Ingen pånær den unge ivrige han Peleus. Stammens Ældste tilkalder heltepingviner fra nær og fjern og en brogede gruppe bliver sammen sat. Helte med tvivlsomme forhistorier og deres egne dagsordner, som sammen skal redde Karthago. Men hvem redder hvem, når dagen er omme?  I \\\"Kampen om Evigheden\\\" spiller man en gruppe pingviner i en episk fantasy-setting på Antarktis. Det er en hård, kold, trøstesløs, dyster, barsk verden med temaer som broderskab, håb, loyalitet, idoldyrkelse, selvopofrelse, fortvivlelse, tab, sorg, død og bedrag. Scenariet er inspireret af bogen \\'Evighedens Dal\\', men spillere og spilledere behøver ikke kende bogen.Der vil blive brugt simple regler, rolleskema og terninger til spillet, men dog med historien 100% i fokus og vægten lagt på fortællingen frem for terningeslag.  Forventet spiltid: 3-4 timer Antal spillere: 5 + 1 spillederGenre: Pingvin - fantasy.  Drama.Spillertyper: Drama og intrigespillere som gerne både vil rulle en terning og være med til at skabe den gode dilemmafyldte historie.Spilledertype: Den klassiske spilleder, som både kan holde styr på handlingsflowet, reglerne og terningerne, uden at fjerne fokuset fra den gode historie.Om forfatterne: Daniel er nok Danmarks rareste rollespiller og har skrevet et hav af prisvindende og populære scenarier. Denne gang har han allieret sig med Daniel, bedre kendt som Gøfle, der scenariedebuterer på Fastaval 2013. ",
+"description_da": "",
+"title_en": "The Fight for Eternity",
+"text_en": "",
+"description_en": "",
+"author": [
+"Daniel Benjamin Clausen & Kasper Viborg Nielsen"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4807"
+}
+},
+{
+"aktivitet_id": 23,
+"afviklinger": [
+{
+"afvikling_id": 29,
+"aktivitet_id": 23,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 30,
+"aktivitet_id": 23,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 1:00",
+"timestamp": 1364688000,
+"mysql": "2013-03-31 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Jonas Hjorts Fantasy Gangster",
+"text_da": "Du bevæger sig igennem et væv af mørke gyde, der lugter af kneppeaffald. Du hører trommer, der kalder dig til kamp. Du er sammen med dine fire bedste venner plus de beskidte kaniner. I har en alliance med kaninerne. Du går med jeres banner, et hestehoved på en knækket lanse og har fået syet nyt smart rødt og grønt tøj til dagen. Svinefedt i håret eller høj hat og kappe. Low Darok hvisker noget til sin kæleabekat. Det skal nok gå.Gadekamp på torvet! Modstanderne har sværd og økser med - det var ikke aftalen. Dumme svin. I har kun knive med og ham den store fra de beskidte kaniner er blevet hugget ned, men du ser at Den Niperkanazza begynder at mumle på et ældgammelt og forbudt sprog. Det skal nok gå. Du smiler allerede.Samme aften, efter du har været hjemme og besøge din mor i slummen, bryder du ind hos Hakakims og snitter halsen på hans kone og begge døtre. Hakakims tog dem ikke med, da han drog i skjul.Så kan han lære det. Spilletid: 4-5 timerAntal spillere: 5 spillere og 1 GMGenre: Pænt gangster. Sygt nok fantasy.Spillertype: Du skal synes det er sjovt at være fantasy gangster og samtidigt kunne tage det seriøst, selv når det er over the top.Spilledertype: Du skal synes det er topsejt at se dine spillere være de vildste fantasy gangsters. Giv dem spotlight, love og retning.Om forfatteren: Jonas har været udsendt og bor nu i Thy, hvor han er i lære som slagter. Han drømmer om en fremtid som naturvejleder i Canada.",
+"description_da": "",
+"title_en": "Jonas Hjort?s Fantasy Gangster",
+"text_en": "",
+"description_en": "",
+"author": [
+"Jonas Hjort"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk+engelsk",
+"wp_id": "4814"
+}
+},
+{
+"aktivitet_id": 24,
+"afviklinger": [
+{
+"afvikling_id": 19,
+"aktivitet_id": 24,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:30",
+"timestamp": 1364571000,
+"mysql": "2013-03-29 16:30:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "29-3-2013",
+"datetime": "29-3-2013 18:30",
+"timestamp": 1364578200,
+"mysql": "2013-03-29 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 20,
+"aktivitet_id": 24,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:30",
+"timestamp": 1364657400,
+"mysql": "2013-03-30 16:30:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 18:30",
+"timestamp": 1364664600,
+"mysql": "2013-03-30 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "En Forelskelse",
+"text_da": "Blikket. Mødet. Tegninger af en krop. Fingre der glider gennem hår. Blødt. Kærtegnet, der let betyder mere. Det uskyldsrene blik. Det samme sted.Farten. Brusen. Forelskelsen. At kaste sig ud, der hvor man ikke bør springe ud. Mærke skummet skylle over sig. Lade sig rive med i brændingen. Holde vejret. En. To. Tre. Ånd ind.Mærk mig. Flå min verden itu. Vis mig at du også tør. Jeg er ikke den samme som før. Jeg er forelsket.En forelskelse bliver en lille intense oplevelse for deltagerne, der gennem de 2 timer spillet bliver taget med gennem hele forelskelsen, fra det spæde første blik til den endelige forløsning.Spilletid: 2 timerAntal spillere: 2 og 1 spillederGenre: DramaSpillertype: Improvisation og fortællerevner er godt at have med sig ind til spillet.Spilledertype: Scenariet er nemt at køre, du skal for det meste sætte scenen for spillerne og være klar med en afsluttende kommentar.Om forfatteren: Rasmus Høgdall har primært arbejdet med at lave larps som Delirium, System Danmarc og Totem. Hans comeback til de skrevne scenarier var med forfattergruppen SWB og scenariet De Usynlige til Forum sidste år.",
+"description_da": "",
+"title_en": "Falling in Love",
+"text_en": "",
+"description_en": "",
+"author": [
+"Rasmus Høgdall"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 2,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4818"
+}
+},
+{
+"aktivitet_id": 25,
+"afviklinger": [
+{
+"afvikling_id": 23,
+"aktivitet_id": 25,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:30",
+"timestamp": 1364484600,
+"mysql": "2013-03-28 16:30:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 18:30",
+"timestamp": 1364491800,
+"mysql": "2013-03-28 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 24,
+"aktivitet_id": 25,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:30",
+"timestamp": 1364657400,
+"mysql": "2013-03-30 16:30:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 18:30",
+"timestamp": 1364664600,
+"mysql": "2013-03-30 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Fleggaard tur/retur",
+"text_da": "”Så\\' der tre minutters rygepause” annoncerer Robert mens han triller den halvtomme bus ind på rastepladsen ved Vejle.”Jeg trænger sa\\'gu\\'melme også til en smøg” smiler Pia til de to lyshårede gymnasiepiger, der sender et skævt smil tilbage. De er  tydeligvis ikke faste busdeltagere, men dem er der selvfølgelig heller ikke mange tilbage af.  Mens hun ryger tjekker hun grundigt tilbudskataloget fra Fleggaard: Knorr-saucer, flæskesvær til en 5\\'er, 2 flasker sprut for 100 kroner. Hun har sat ring om det vigtige hjemmefra.Da bussen fortsætter ned igennem Jylland starter Peter og Arthur fællessang af ”Der er noget galt i Danmark”. Flere sange følger og går hånd i hånd med den ene øl efter den anden. Det er festligt selvom de snart er løbet tør for øl. ”Så\\' det godt vi snart er ved Fleggaard, så skal der tankes op, du”.I ”Fleggaard tur/retur” kan du møde Pia, Peter, Robert og de andre, der holder liv i de traditionsrige busture, for at handle billigt i Tyskland, men også for at komme hinanden lidt mere ved. Vi skal følge de nære og hyggelige situationer der opstår når man er sammen 2x4 timer i en bus med venner og dåseøl som følgesvend.Spilletid: Cirka to timerAntal spillere: 4 og 1 spillederGenre: Feel-good bipersons hverdagsdrama.Spillertype: Scenariet er for spillere der kan lide hygge, fællesskab og tør fordybe sig i (og nyde) ”verden på vrangen”.Spilledertype: Som chauffør sætter du rammen om turen, sætter scener og maler billeder og stemning.Om forfatteren: Til hverdag filosoferer Kasper over ”rigtigt” og ”forkert”, mens han hemmeligt drømmer sig væk til villa, volvo og vov-hund. Han tager jævnligt på bustur til Kupfermühle og er ret vild med ”blå cola”. Er med i spillerkollektivet planB og forfatterkolletivet ”Svend Åges Drenge”",
+"description_da": "",
+"title_en": "Fleggaard, there and back",
+"text_en": "",
+"description_en": "",
+"author": [
+"Kasper Mosekjær"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "4823"
+}
+},
+{
+"aktivitet_id": 26,
+"afviklinger": [
+{
+"afvikling_id": 38,
+"aktivitet_id": 26,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 39,
+"aktivitet_id": 26,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 1:00",
+"timestamp": 1364601600,
+"mysql": "2013-03-30 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Plexiglas",
+"text_da": "I 1982 fik teaterinstruktøren Edvard Fehmerling sit store gennembrud som dramatiker og instruktør med stykket ”Plexiglas” om individets isolation og fremmedgørelse i  det moderne samfund. Stykket blev fremført af fem personer, der gennem hele forestillingen var indespærret i hver sin glasmontre. Replikkerne kunne udelukkende høres forvrængede gennem samtaleanlæg, telefoner, etc. Det hele blev suppleret af en stor fjernsynsskærm, der hang over scenen og  bombarderede folk med stressende sanseindtryk.I 1981 samlede en ung og optændt Edvard Fehmerling fem betroede skuespillere til en tur i sommerhus for at foretage de indledende forstudier til stykket.I 2013 arbejder en gruppe rollespillere med at leve sig ind i stykkets roller og tematik, så det gøres relevant for samtiden.Fokus i fortællingen ligger på prøveforløbet og rollernes kamp om at få en plads i forestillingens centrale scene. Som midler i denne kappestrid presser skuespillerne sig selv og hinanden gennem indlevelsesteknikker, intriger og ren voksenmobning.De fleste scener spilles live eller semi-live og centrerer sig om skuespillernes arbejde med roller og scener. En del vil tage udgangspunkt i teaterøvelser i indlevelse og nærvær inspireret af William Esper Studio (teaterskole i New York).Spilletid: 4-5 timerAntal spillere: 5 + 1 spillederGenre: Drama og metafiktion. Der vil forekomme morsomme scener, men scenariet er ikke en komedie.  Spillertype: Scenariet henvender sig til udadvendte spillere, der er okay med at balance indlevelse og fortælling.Spilledetype: Spillederrollen er meget dominerende, styrende af fortællingen og aktiv i forhold til deltagelse i scenerne. Der er stor frihed til at præge spilseancen, men det kræver forberedelse. Scenariet kan ikke køres fra bladet.Om forfatteren: Morten er nok Fastavals bedst klædte forfatter. Han har skrevet en lang række roste scenarier og \\\"Plexiglas\\\" er det tredje der cirkler om figuren Edvard Fehmerling.",
+"description_da": "",
+"title_en": "Plexiglass",
+"text_en": "",
+"description_en": "",
+"author": [
+"Morten Jaeger"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 5,
+"language": "dansk",
+"wp_id": "4827"
+}
+},
+{
+"aktivitet_id": 27,
+"afviklinger": [
+{
+"afvikling_id": 1,
+"aktivitet_id": 27,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "2",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 2:00",
+"timestamp": 1364518800,
+"mysql": "2013-03-29 02:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 2,
+"aktivitet_id": 27,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "17",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 17:00",
+"timestamp": 1364572800,
+"mysql": "2013-03-29 17:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Sarabande",
+"text_da": "Victor træder ind ad døren til den lille cafe, han kender så godt. Som altid hilser han på Albert, mens han, forsvundet i sine egne tanker, bevæger sig frem mod den vante plads. Skridt for skridt bærer hans ben ham frem, som havde de deres egen vilje, indtil hans øjne møder hendes. Et kort øjeblik slår det pusten ud af ham, tankerne flyver igennem hans hoved, følelserne bruser igennem hans blod. Alle de drømme og planer, han har undfanget, fylder ham til bristepunktet med den uforløste længsel, som han ikke magter at handle på. Hans krop følger bare den vante rutine, trin som var de koreograferede, bringer ham frem til den ensomhed, han er fanget i. Men i morgen, der bliver det anderledes…  Sarabande er et livescenarie med krop, følelser og musik i centrum. Du skal være med til at udleve et dusin menneskers følelsesliv og personlige dramaer med kroppen frem for hovedet. Gennem musik og bevægelse skabes roller, relationer og konflikter, og gennem musik og bevægelse bringes rollernes indre liv frem.Spilletid: 6 timer inklusiv opvarmningAntal spillere: 12 spillere Genre: Musisk-kropsligt dramaSpillertype: Det er et scenarie for modige spillere, der tør arbejde med krop og bevægelse som virkemidler. Og for spilleren der hellere vil arbejde rollen frem end at læse sig til den. Deltagere vil blive kontaktet før Fastaval om evt. at medbringe simpelt grundkostume.  Om forfatterne: Maria og Jeppe elsker dramatisk rollespil. De har begge spillet og arrangeret livescenarier i årevis og har bl.a. skrevet Stormen til Fastaval 2008 sammen med Jonas Sanberg Jensen.",
+"description_da": "",
+"title_en": "Sarabande",
+"text_en": "",
+"description_en": "",
+"author": [
+"Jeppe og Maria Bergmann Hamming"
+],
+"price": 0,
+"min_player": 12,
+"max_player": 12,
+"type": "live",
+"play_hours": 6,
+"language": "dansk",
+"wp_id": "4829"
+}
+},
+{
+"aktivitet_id": 28,
+"afviklinger": [
+{
+"afvikling_id": 12,
+"aktivitet_id": 28,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 23:00",
+"timestamp": 1364508000,
+"mysql": "2013-03-28 23:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 13,
+"aktivitet_id": 28,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 14:00",
+"timestamp": 1364648400,
+"mysql": "2013-03-30 14:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Det Sidste Eventyr",
+"text_da": "Når deres voldelige, alkoholiserede forældre er gået i brædderne, flygter børnene sammen med deres usynlige ven til Drømmeøen. Her tager de på eventyr og overvinder gang på gang hans ærkefjende. Livet på Drømmeøen er sorgløst og fuld af drengestreger.  Men det er umuligt at flygte fra hverdagen, og snart begynder fantasi og virkelighed at flyde sammen. Det bliver klart for børnene, at de er nødt til at vælge.  Spillerne skaber sammen den verden, børnene flygter ind i. Familiens hjem er tegnet op med kridtstreger fra start, og under spillet tegner spillerne Drømmeøen oven på. Drømmeøen er både børnenes tilflugtssted og det sted, de bearbejder hverdagen.   \\\"Det sidste eventyr\\\" er en rørende og tragisk fortælling om de glemte børns hverdag.Scenariet er semi-live. Når scenariet går i gang, er der ingen pauser eller metasnak, men der er en traditionel spilleder. Scenariet indeholder antydet vold/overgreb mod børn.Spilletid: 3 timerAntal spillere: 4 + 1n spillederSpillertype: For spillere med hang til indlevelse og lyst til at bruge deres fantasi. Du forstår mere end det barn, du spiller, og kan udtrykke børnenes naive måde at forholde sig til deres uudholdelige hverdag.Spilledertype: Du er spilskabende i birollerne som faren og kaptajnen, samtidig med at du med korte og præcise instruktioner sætter scener, fletter spillernes bidrag ind i fortællingen og klipper scenerne.Om forfatteren: Med Det sidste eventyr fuldender Max den trilogi om familien, som han vendte tilbage til rollespil for at skrive. De to andre scenarier er \\\"Familien\\\" fra Fastaval 2011 og \\\"Tilbagefald\\\" fra Fastaval 2012.",
+"description_da": "",
+"title_en": "The Last Adventure",
+"text_en": "",
+"description_en": "",
+"author": [
+"Max Møller"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 3,
+"language": "dansk+engelsk",
+"wp_id": "4831"
+}
+},
+{
+"aktivitet_id": 29,
+"afviklinger": [
+{
+"afvikling_id": 8,
+"aktivitet_id": 29,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 14:00",
+"timestamp": 1364562000,
+"mysql": "2013-03-29 14:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 9,
+"aktivitet_id": 29,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 23:00",
+"timestamp": 1364680800,
+"mysql": "2013-03-30 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "De Gamles Hjem",
+"text_da": "Husker du din første karakter, hvordan hun så ud, hvordan han var som en forlængelse af dig selv. Kan du huske hans største eventyr, hendes første drab, hans første møde med kærligheden og hendes fald ned I vanvidet. De er som små parallelle liv vi har levet, som venner vi aldrig rigtig har glemt. De er en del af os for altid.\\\"De gamles hjem\\\" udspiller sig på et alderdomshjem for Alzheimersramte rollespillere, der kæmper med et syndrom der kaldes Past Character Regression.Varighed:  2 timerAntal spillere: 4-6 + 1 spillederGenre:  TragikomedieSpillertype:  Du skal være god til at improvisere og ikke være bange for at tabe.Spilledertype:  Scenariet er ultranemt at køre. Du skal kunne sætte scener og jonglere med at give spillerne mange forskellige roller, thats it.Om forfatteren:  Frederik skriver progressive rollespil der blander cutting edge spildesign med uventede vinkler på der kan fortælles om. Frederik har tidligere skrevet blockbustere som Fat Man Down, Previous Occupants og Bondemænd og Biavlere.",
+"description_da": "",
+"title_en": "A Home for the Old",
+"text_en": "",
+"description_en": "",
+"author": [
+"Frederik Berg Østergaard"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 6,
+"type": "rolle",
+"play_hours": 3,
+"language": "dansk+engelsk",
+"wp_id": "4833"
+}
+},
+{
+"aktivitet_id": 30,
+"afviklinger": [
+{
+"afvikling_id": 42,
+"aktivitet_id": 30,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 15:00",
+"timestamp": 1364479200,
+"mysql": "2013-03-28 15:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 43,
+"aktivitet_id": 30,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 0:00",
+"timestamp": 1364684400,
+"mysql": "2013-03-31 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Suldrup",
+"text_da": "Af Mikkel Bækgaard\\\"Min kone er død. Hun er blevet slået ihjel. Hun har fået halsen skåret over, og det er min datter, der har gjort det.\\\"Sådan lyder det hos alarmcentralen kl. 3.10 en kvælende varm sommernat i 2006.Opkaldet kommer fra et hus på landet, lidt uden for Suldrup i Nordjylland. Til stede i huset er lægen Jan Flachmeyer, hans kone Hanne og deres voksne datter Louise. Hvad der præcist sker i huset finder man aldrig ud af. Kun at Hanne er død, dræbt af knivstik. Og at de to andre beskylder hinanden for drabet.\\\"Suldrup\\\" er en intens familietragedie baseret på virkelige hændelser. Drabet er omdrejningspunktet for et trist og dystert drama om en families forfald og tragiske opløsning. Drabet bliver aldrig opklaret - heller ikke i scenariet - men de blodige begivenheder sætter rammen for fortællingen om tre menneskers vej mod det uundgåelige mørke.De tre spillere skal gennem flashbacks, scener på selve drabsnatten og skiftende vidneforklaringer trænge ind i den tragiske historie om drabet i Suldrup. To af spillerne spiller henholdsvis Far og Datter, som beskylder hinanden for drabet. Den tredje spiller den afdøde og en række vidner i en slags retsag, hvor fokus er på følelser og drama og ikke på at opklare sagen.Varighed: 3-4 timerAntal spillere: 3 spillere og en spillederGenre: Tragisk familiedramaSpillertype: Du elsker at improvisere og skabe en bagvedliggende historie, samtidig med at du holder af at opdage mere og mere om din rolle i løbet af spillet.Spilledertype: Du er instruktøren, der sørger for, at det hele ikke løber af sporet, og samtidig anklageren, der sikrer fremdrift ved at søge efter svaret på, hvem der slog Hanne ihjel - velvidende, at du aldrig får det at vide.Om forfatteren: Mikkel Bækgaard har de senere år søgt ind i det nordjyske mørke i scenarier som Løgstør, Vasen og Bette Liverpool. Mikkel er sært fascineret af alt det, vi ikke ved, og som vi aldrig finder ud af. For ham er det uvisse ofte langt mere interessant end alt det, vi rent faktisk ved.",
+"description_da": "",
+"title_en": "Suldrup",
+"text_en": "",
+"description_en": "",
+"author": [
+"Mikkel Bækgaard"
+],
+"price": 0,
+"min_player": 3,
+"max_player": 3,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4719"
+}
+},
+{
+"aktivitet_id": 31,
+"afviklinger": [
+{
+"afvikling_id": 7,
+"aktivitet_id": 31,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 0:00",
+"timestamp": 1364425200,
+"mysql": "2013-03-28 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 96,
+"aktivitet_id": 31,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 1:00",
+"timestamp": 1364688000,
+"mysql": "2013-03-31 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Cirkus uden Grænser",
+"text_da": "Af Danny Meyer Wilson”Er du sikker på du vil det her?” Mannequindukkerne står tavst imellem dem. Hårtotterne ligger spredt rundt om hende. En kort stilhed, så svaret. ”Det er det her jeg vil” ”Cirkus uden grænser” er et psykologisk gyserscenarie om et ungt par, der genopdager glemte usynlige barndomsvenner, da de flytter ind i en afdød kostumemagers lejlighed på Frederiksberg. Legene får gradvist en mere dyster tone, da de usynlige venner tager mere og mere af kontrollen.Scenariet er en kombination af karakterspil, stemningsorientet fortællespil, samt berøring og fysisk stilling til at udtrykke relationerne.To spiller parret, imens de to andre spiller de usynlige barndomsvenner. Fokus er på karaktererne og de sammenbrud de gennemgår. Nogle af scenerne fokuserer på parrets forhold, stille middage og blød sex i spisestuen. Andre scener fokuserer på legene med vennerne i den rodede lejlighed. Det ender ikke godt.Scenariet er en gyserfortælling med voksne temaer. Der er derfor en aldersbegrænsning på 18 år for deltagerne.Varighed: 4 timerAntal spillere: 4 spillere + 1 spillederGenre: Psykologisk GyserSpillertype: For dig er en aften brugt på at skabe en forfærdelig oplevelse for dig selv og andre godt brugt. Du har ikke noget imod berøring og tæt fysisk spil.Spilledertype: Instruktøren. Du kan lide at skabe stemning, lægge pres på spillerne, og have kontrollen med rammen og mekanikken i scenariet.Forfatteren: Danny elsker når han bliver rørt af rollespil, specielt steder han ikke vidste han ville røres.",
+"description_da": "",
+"title_en": "Circus without Boundaries",
+"text_en": "",
+"description_en": "",
+"author": [
+"Danny Meyer Wilson"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "4704"
+}
+},
+{
+"aktivitet_id": 32,
+"afviklinger": [
+{
+"afvikling_id": 27,
+"aktivitet_id": 32,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 0:00",
+"timestamp": 1364425200,
+"mysql": "2013-03-28 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 28,
+"aktivitet_id": 32,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 15:00",
+"timestamp": 1364565600,
+"mysql": "2013-03-29 15:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Hyakumonogatari Kaidankai (A Gathering of One Hundred Weird Tales)",
+"text_da": "By Julia Ellingboe\r\n\r\nIn Hyakumonogatari Kaidankai, players tell the story of the Fisherman, his Wife, and the Yokai (demons) and Yurei (ghosts) they meet when they are apart; and how they reconcile their associations with the Yokai when the Fisherman returns home. The setting is Japan, the Edo or Tokugawa period (1600-1868). It is summer, the usual time of year for a Japanese ghost story.\r\n\r\nThis is a ?live-action? version of a table-top role-playing game called Tales of the Fisherman?s Wife. Where players in the table-top version create their characters on the fly, the scenario features twelve pre-generated characters and six interwoven stories. Both games draw from Japanese folktales, anime, manga, and Japanese film from the mid-sixties to the present.\r\n\r\nThis scenario uses a format similar to improvisational theater. There is no ?combat? mechanic or randomized conflict resolution mechanic (common in American parlor-style larps). We will resolve each scene dramatically. The storytelling relies on the collaboration of a core ensemble of players in each storyline, with descriptive input from off-screen players (?the audience?). For each scene, a couple of characters use a short script consisting of a few details to introduce a story, while two other characters act out a story. In these scenes, some of the action is pre-determined, but the actors determine the outcome of the scene. The job of the actors is to show how the stories relate to the fears and concerns of the human characters, and how their fears, as manifested by yokai and yurei, affect the spouses and their relationships. What happens is less important than how things happen and what fallout these events cause.\r\n\r\nDuration: 4 hours\r\n\r\nNumber of players: 12 ideally, though players can take on dual roles to accommodate  just 6 players. One game master\r\n\r\nGenre: Japanese folktales, ghost stories\r\n\r\nType of Players: Players who like theater, fantasy as allegory for greater human condition. The course of the game is structured in acts and scenes like a play.\r\n\r\nType of game master: A GM who will enjoy egging players on behind the scenes. The GM is a passive character who seems to know a lot about the characters, but does little interaction other than to tease out their issues. There are a few small NPC roles played by the GM as well.\r\n\r\nAbout the author: Julia B. Ellingboe writes roleplaying games (both table top and live action) and short fiction. She was Guest of Honor at Fastaval in 2010. She has written three scenarios and collaborated on three more?two with Otto Award winning writer Emily Boss. She lives in Greenfield, Massachusetts, USA.",
+"description_da": "",
+"title_en": "Hyakumonogatari Kaidankai (A Gathering of One Hundred Weird Tales)",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 6,
+"max_player": 6,
+"type": "rolle",
+"play_hours": 4,
+"language": "engelsk",
+"wp_id": "4779"
+}
+},
+{
+"aktivitet_id": 33,
+"afviklinger": [
+{
+"afvikling_id": 48,
+"aktivitet_id": 33,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 15:00",
+"timestamp": 1364565600,
+"mysql": "2013-03-29 15:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 49,
+"aktivitet_id": 33,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 0:00",
+"timestamp": 1364684400,
+"mysql": "2013-03-31 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "The Curse",
+"text_da": "By Lizzie Stark\r\n\r\nWould you cut out healthy body parts if you thought it might save your life?\r\n\r\nRita and Elle bear a heavy legacy: a mother who developed breast cancer at 30 and died of ovarian cancer 20 years later. When it comes to their family tree, that's just the tip of the tumor. There's a BRCA mutation lurking in the family DNA, an inherited genetic error that dramatically ups a woman's chances of developing aggressive breast and ovarian cancer at unusually young ages. After they test positive for the family mutation, they can choose to live with their fear or cut it out.\r\n\r\nWill they mutilate themselves to avoid their mother's fate, or stay strong and face down dread? How, exactly, should their partners deal with the news? And will this condition mutate their romantic relationships as well?\r\n\r\nThis game is about making life-altering decisions in uncertain circumstances and passing on the horror of that choice to the next generation. A scenario about fear of death, vanity, and relationships under pressure.\r\n\r\nDuration: About 4 hours\r\n\r\nNumber of players: 4 +1 game master\r\n\r\nGenre: Cancer narratives, relationship drama, realism\r\n\r\nType of players: You want to explore some challenging emotional territory, including cancer, unclear consequences, and amputating body parts you're fond of. And you don't mind talking about breasts. 18+ only, please.\r\n\r\nType of game master: You'll be the players' guide and teach the techniques of the game. You're equally happy pushing the players when they need it, or standing back and watching them twitch like fish on hooks.\r\n\r\nAbout the author: Lizzie Stark is a nonfiction author and first-time game designer. Her first book, Leaving Mundania, explored the world of larp in the states and abroad. Her second tackles hereditary breast cancer from medical, legal, and personal perspectives.",
+"description_da": "",
+"title_en": "The Curse",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 4,
+"max_player": 4,
+"type": "rolle",
+"play_hours": 4,
+"language": "engelsk",
+"wp_id": "4753"
+}
+},
+{
+"aktivitet_id": 34,
+"afviklinger": [
+{
+"afvikling_id": 81,
+"aktivitet_id": 34,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 0:00",
+"timestamp": 1364425200,
+"mysql": "2013-03-28 00:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 1,
+"aktivitet_id": 34,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 15:00",
+"timestamp": 1364479200,
+"mysql": "2013-03-28 15:00:00"
+},
+"linked": "81"
+},
+{
+"afvikling_id": 2,
+"aktivitet_id": 34,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 0:00",
+"timestamp": 1364511600,
+"mysql": "2013-03-29 00:00:00"
+},
+"linked": "81"
+},
+{
+"afvikling_id": 3,
+"aktivitet_id": 34,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 15:00",
+"timestamp": 1364565600,
+"mysql": "2013-03-29 15:00:00"
+},
+"linked": "81"
+},
+{
+"afvikling_id": 4,
+"aktivitet_id": 34,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 0:00",
+"timestamp": 1364598000,
+"mysql": "2013-03-30 00:00:00"
+},
+"linked": "81"
+},
+{
+"afvikling_id": 5,
+"aktivitet_id": 34,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 15:00",
+"timestamp": 1364652000,
+"mysql": "2013-03-30 15:00:00"
+},
+"linked": "81"
+},
+{
+"afvikling_id": 6,
+"aktivitet_id": 34,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 0:00",
+"timestamp": 1364684400,
+"mysql": "2013-03-31 00:00:00"
+},
+"linked": "81"
+}
+],
+"info": {
+"title_da": "Hinterlandet",
+"text_da": "På kanten til ødemarken, som folket i Kejserriget kalder Hinterlandet, ligger en ensom fæstning, som skal beskytte riget mod barbarer og trolde. Sjældent har der været nogen trussel, men noget har ændret sig. Dybt under jorden er en ældgammel ondskab vågnet, og den er begyndt at sende skarer af monstre mod fæstningen. Fæstningens Kommandant Lucinius har hidkaldt kejserrigets unge og håbefulde helte, eventyrere og lykkeriddere for at prøve lykken med at skabe sig et navn og standse ondskabenMen hvad ingen ved er, at hvad der i dag er en vidtstrakt ødemark, var en gang en mægtig hovedstad i en længst glemt civilisation, og mellem træer og buske står rester af mure og knækkede søjler, og under jorden er kældrene og katakomberne endnu. I de mørke gange er lichkongen vågnet og sender sit kald til ondskab ud over landet. Orker og gobliner flokkes til Hinterlandet, og kommandant Lucinius får snart brug for brave helte.HelConHelcon på Fastaval er i år et kæmpe fantasy-scenarie, hvor man løbende kan deltage mellem de andre rollespil og udforske huler og kæmpe mod monstre. Det kan spilles over en eller flere blokke og holder man sin karakter i live, kan den bruges i de efterfølgende spilblokke. HelCon er også Fastaval rollespillergilde, og des mere erfaren gildespiller man er, des sejere ting kan man lave i rollespillet. Din karakter stiger således level, når du spiller Hinterlandet, mens du bliver sejere som gildespiller ved at deltage i Fastaval gildet.Arrangeret af Fastaval rollespillergildeHinterlandet er en mega-fantasy dungeon crawl oldschool turnering arrangeret af Fastaval rollespillergilde. I begyndelsen af hver spilblok begynder en ny årstid, og der begynder nye ekspeditioner. Har din karakter overlevet tidligere ekspeditioner eller stammer fra tidligere conner, kan karakteren gå på nye ekspeditioner, stige flere levels og få bedre grej.Fastaval gilde har en gildestue, hvor I kan mødes mellem scenarierne, planlægge missioner, udveksle kort og udstyr og komme med røverhistorier om jeres oplevelser.Om reglerneHinterlandet er baseret på en forsimplet variant af Dungeons & Dragons (kaldet Dungeons & Dragons næsten eller D&Dn). Regelkendskab er ikke et krav, kun lysten til at udforske huler og kaste med terninger. Regler, karakterark og andet godt, kan snart hentes ned herfra. Følg udviklingen af Hinterlandet og HelCon her.PraktiskDu kan forhåndstilmelde dig og være sikker på en plads, men har du en ledig blok, eller var du ikke heldig i reservekøen, kan du også deltage i en runde i Hinterlandet.Du kan både være spilleder og spiller på Hinterlandet. Er du spilleder, optjener du bonuspoint til de blokke, hvor du er spilleder, som kommer dig til gavn, når du er spiller.",
+"description_da": "",
+"title_en": "The Hinterland",
+"text_en": "",
+"description_en": "",
+"author": [
+"Morten Greis Petersen"
+],
+"price": 0,
+"min_player": 1,
+"max_player": 100,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "5128"
+}
+},
+{
+"aktivitet_id": 35,
+"afviklinger": [],
+"info": {
+"title_da": "The Fastaval Re-Allocation Project",
+"text_da": "The Fastaval Re-Allocation ProjectGiv noget væk – modtag intet igen!Kender du ikke det der med at have en masse bræt- og rollespil stående på din hylde? Du får dem jo egentlig ikke rigtigt spillet, enten var det aldrig helt et spil du kunne lide, eller også så har du bare fundet andre spil at kaste din glæde på efterhånden. Du kunne selvfølgelig sætte dem til salg på dba.dk, men det er så besværligt, og at smide et spil ud er jo absolut tabu.Frygt ikke – løsningen er på Fastaval. Giv det væk – modtag intet igen...udover selvfølgelig:1) at gøre et andet menneske helt utroligt glad – ja, selv spil du måske selv synes er crap, kan være en anden persons yndlingsspil2) at se dit spil LEVE igen, istedet for at stå og samle støv på din hylde og egentlig bare være i vejen for nye eventyr; taking up space.”The Fastaval Re-Allocation Project” er funderet i en tankegang om at spil dør hvis de får lov til bare at ligge i deres kasser, eller på hylden med urørte sider uden æselører. Sæt dit spil fri, ryd op i dine eventyr, og lad andre udleve dem. Det er ren win-win.Ok, jeg er fanget – det er jo en gal idé, men jeg vil være med. Hvordan gør jeg?Tag det du gerne vil donere væk med på Fastaval 2012. Brætspil, rollespil eller andet nørderi (nej, ikke møbler, stavblendere og andet mærkværdigt...kun nørderi, tak). Indlever det I Informationen og få et lille klistermærke i spillet. Skriv dit navn på dette – kys spillet farvel og ønsk det held og lykke på rejsen.Hvad får jeg så for det?Absolut ingenting....og så alligevel; glæden ved at se gamle eventyr leve igen er ubeskrivelig for nogle, andre er bare glad for at få hyldeplads igen. Det er individuelt. Men helt konkret får du intet fysisk/services/løfter igen – overhovedet. Det er IKKE en noget-for-noget deal.Hvem får spillene?Alle spil bliver samlet i Informationen på Fastaval 2012 og delt ud Lørdag i Fællesområdet. Uddelingen foregår ved simpel lodtrækning (spillene fordeles jævnt – det er intet lotteri - vi prøver at få nok til alle). Alle kan være med, ligegyldigt om de har doneret et spil eller ej.Er der ellers andet jeg bør vide?Ja. Hvis du modtager et spil så må du ALDRIG sælge det videre for penge. Du må gerne give det væk (hvis det ikke lige var noget for dig eller hvis du vil glæde andre) eller udlodde det i en turnering (så længe turneringen ikke er ALT for alvorlig)Spred glæden!Hvad er historien bag (lang tekst)Omend at det at give ting væk og så spontant opdage glæden ved just dette, på ingen måde er original, så har lige præcis dette initiativ sine rødder i en uselvisk handling fra en enkelt navngiven person, der helt uforvarende kom til at danne grobund for en kædereaktion af crazyness; Ulrik Lehrskov-Schmidt skulle i foråret 2011 rejse til det store udland på mere eller mindre permanent basis og begyndte derfor at gøre sit bo op. Hvad skulle gemmes, hvad skulle sælges og hvad skulle smides ud? På hylderne stod intet mindre end en 30-40 brætspil – mange spritnye og nogle endda helt uspillede. Istedet for at sætte det til salg, så valgte Ulrik at donere hele stakken til Bastard Caféen (en fællesskab af løst-forbunde brætspilsnørder og freaks i København). Dette ville jo måske have været helt fint, hvis det ikke var fordi at Bastard Caféen allerede havde uendeligt mange spil i samlingen - ALT for mange til at de kunne nå at spille alle på jævnlig basis, hvorved de stod ved skillevejen ”skal vi kalde os gamers - eller collectors”? Så det blev besluttet at give spillene videre i en fjollet turnering - åben for alle - sammen med andre spil ”man da også lige havde liggende”, for både Bastard Caféen og mange af de deltagende bød ind. Og så kom åbenbaringen og dominobrikkerne begyndte at falde: ALLE har spil stående de af den ene eller anden grund ikke spiller, og de er dybest set lidt træt af det, men kan ikke smide dem ud (tabu) og gider ikke sælge et fede spil de har gode minder med for en skide 50’er på Den Blå Avis. Det er jo drømme og eventyr – det er sgu mere værd en 50 kroner. At give det væk til en person der absolut ikke lige havde tænkt at skulle få et spil – helt frit – er langt mere værd. Det er simpelt, det fungererer, det virker...hello ”gift economy”",
+"description_da": "",
+"title_en": "The Fastaval Re-Allocation Project",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "ottoviteter",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "5147"
+}
+},
+{
+"aktivitet_id": 36,
+"afviklinger": [
+{
+"afvikling_id": 74,
+"aktivitet_id": 36,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 56,
+"aktivitet_id": 36,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 23:00",
+"timestamp": 1364680800,
+"mysql": "2013-03-30 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "1244: The Fall of Montsegur",
+"text_da": "Af Frederik J. Jensen I marts 1244 overgav borgen Montsegur sig efter en mere end 9 måneder lang belejring. Borgen var hjemsted for katarerne, en religiøs gruppe med rødder i tidlig kristendom. Den belejrende hær var korsfarer, velsignede af den katolske kirke. Da Montsegur faldt fik de overlevende valget mellem at afsværge deres tro eller at brænde på bålet. Mere en 200 valgte at dø for deres tro.1244: Montsegurs fald er et strategisk brætspil inspireret af den historiske begivenhed. En spiller påtager sig opgaven som leder af korsfarerhæren. Den anden spiller påtager sig opgaven at forsvare Montsegur. Gennem en række ture kæmper spillerne for at få kontrol over området omkring Montsegur og om sjælene af katarerne, der er fanget inde i borgen. Ved belejringens slutning optælles sejrspoint for at afgøre om katartroen overlever Montsegurs fald. Historisk - StrategiKortspil - Områdekontrol  Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "1244: The Fall of Montsegur",
+"text_en": "\"In March 1244, the castle of Montsegur surrendered after a more than 9 month long siege. The castle was home of the Cathars, a group of people who followed a religion with roots in early Christianity. The besieging army was crusaders blessed by the Catholic Church. When Montsegur surrendered, the survivors were given the choice of renouncing their faith or being burnt at the stake. More than 200 chose death.\r\n\r\n1244: The Fall of Montsegur is a strategic board game inspired by the historical event. One player takes on the role of commanding the crusading army. The other player takes on the role of commanding the defense of Montsegur. In a series of turns the players fight to gain control of the area around Montsegur and the souls of the Cathars trapped inside the castle. At the end of the siege, victory points are scored to determine if the Cathar faith survives the fall.\"",
+"description_en": "",
+"author": [
+"Frederik J. Jensen"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 2,
+"type": "braet",
+"play_hours": 2.5,
+"language": "engelsk",
+"wp_id": "5177"
+}
+},
+{
+"aktivitet_id": 37,
+"afviklinger": [
+{
+"afvikling_id": 57,
+"aktivitet_id": 37,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 14:00",
+"timestamp": 1364475600,
+"mysql": "2013-03-28 14:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:30",
+"timestamp": 1364484600,
+"mysql": "2013-03-28 16:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 58,
+"aktivitet_id": 37,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 23:00",
+"timestamp": 1364594400,
+"mysql": "2013-03-29 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Adventures in the Old West",
+"text_da": "Af Ole Steiness Adventures in the Old West er et brætspil for 2-5 spillere, hvor spillere tager rollen som eventyrere i en klassisk western verden. Spillerne drager ud i landskabet og påtager sig tematiske udfordringer fra det Vilde Vesten: Tæm en vild hingst, nedkæmp efterlyste banditter, beskyt en hestevogn mod banditter, jag bøfler og bjørne, søg efter guld eller driv kvæg... Alt sammen foregår via unikke og tematiske minispil, som højst tager to minutter. For eksempel udkæmpes dueller (også mod spillere) ved hurtigst muligt at trække den rette typer \\\"patroner\\\" fra en stofpose, sætte dem på bordet foran sig, og råbe BANG! før sin modstander... Trænger man efterfølgende til et hvil, kan man besøge en af de tilfældig genererede byer, for at sælge ressourcer, købe udstyr, slappe af i Saloon\\'en eller røve banken...   Western - DystSimultan-handling - \\\"træk-hurtigst\\\" duel-mekanik  Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Adventures in the Old West",
+"text_en": "Adventures in the Old West er et brætspil for 2-5 spillere, hvor spillere tager rollen som eventyrere i en klassisk western verden. Spillerne drager ud i landskabet og påtager sig tematiske udfordringer fra det Vilde Vesten: Tæm en vild hingst, nedkæmp efterlyste banditter, beskyt en hestevogn mod banditter, jag bøfler og bjørne, søg efter guld eller driv kvæg... Altsammen foregår via unikke og tematiske minispil, som højst tager to minutter. For eksempel udkæmpes dueller (også mod spillere) ved hurtgist muligt at trække den rette typer \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"patroner\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" fra en stofpose, sætte dem på bordet foran sig, og råbe BANG! før sin modstander... Trænger man efterfølgende til et hvil, kan man besøge en af de tilfældig genererede byer, for at sælge ressourcer, købe udstyr, slappe af i Saloon\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'en eller røve banken...",
+"description_en": "",
+"author": [
+"Ole Steiness"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 5,
+"type": "braet",
+"play_hours": 2.5,
+"language": "dansk",
+"wp_id": "5193"
+}
+},
+{
+"aktivitet_id": 38,
+"afviklinger": [
+{
+"afvikling_id": 59,
+"aktivitet_id": 38,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 23:00",
+"timestamp": 1364421600,
+"mysql": "2013-03-27 23:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 60,
+"aktivitet_id": 38,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "13",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 13:00",
+"timestamp": 1364472000,
+"mysql": "2013-03-28 13:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Collegia Magnissima",
+"text_da": "Af Elias Helfer I den store by er der mange kollegier. Ærværdige, gamle institutioner der igennem generationer har uddannet rigernes vigtige mænd og kvinder. Men som det gamle ordsprog lyder: \\\"\\\"døde alumner donerer ikke.\\\"\\\" Derfor kappes kollegiernes dekaner om at uddanne de bedste studerende. For glorværdige alumner er lig med nye, dygtige studerende, fede donationer og – vigtigst af det hele – praleret når alle kollegierne mødes til de årlige festligheder ved Åndens Ydmygheds Festival. Collegia Magnissima er et deck deconstruction-spil – et spil hvor du får point for de kort du skiller dig af med. Så beholder du dit gode kort i håbet om at spille det en gang til, eller skiller du dig af med det for at få point for det? Fantasy - Deck deconstruction game Tag stik -  Sats Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Collegia Magnissima",
+"text_en": "Throughout the great city, colleges tower above their neighbours - honourable, ancient institutions that have educated the grand men and women of the state throughout generations. But as the saying goes: ?Dead alumni donate little.? And so the deans of the colleges all strive to produce the best graduates. Because glorious alumni equal new, talented students, juicy donations and ? most importantly ? bragging rights when all the colleges meet for the annual Feast for the Humility of Spirit.\r\nCollegia Magnissima is a deck deconstruction game ? a game in which you score points for the cards you get rid of. So will you hold on to your best card in hopes of playing it again, or do you get rid of it to score it",
+"description_en": "",
+"author": [
+"Elias Helfer"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 4,
+"type": "braet",
+"play_hours": 1,
+"language": "engelsk",
+"wp_id": "5202"
+}
+},
+{
+"aktivitet_id": 39,
+"afviklinger": [
+{
+"afvikling_id": 92,
+"aktivitet_id": 39,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:30",
+"timestamp": 1364657400,
+"mysql": "2013-03-30 16:30:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "30-3-2013",
+"datetime": "30-3-2013 18:30",
+"timestamp": 1364664600,
+"mysql": "2013-03-30 18:30:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 61,
+"aktivitet_id": 39,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 23:00",
+"timestamp": 1364680800,
+"mysql": "2013-03-30 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Dunkelwald",
+"text_da": "Af Martin Bødker Enghoff Løb fra Mørket Løb i en fart Løb for dit liv det er her snartDet er efter din Mor og efter din far Og når de er væk er det dig det tar’Én gang i hver generation kommer Mørket frem fra skovens sorte hjerte. Langsomt men uundgåeligt kryber det mod landsbyen og dræner livet fra alle der krydser dets vej. Kun i kirken hvor den gamle tro holder Mørket fra døren kan man vide sig sikker. Byens ældre siger at sådan har det altid været, men hvorfor det sker ved de ældre ikke. I Dunkelwald har hver familie sin egen historie og hver generation må overkomme sit eget Mørke.Du og de andre spillere er de modige landsbyboere der prøver at redde resten af Dunkelwalds beboere fra denne generations Mørke. I arbejder sammen mod spillet hvor timeglas bliver brugt til at styre Jeres handlinger og spillets udvikling. Der er tre tematiske kapitler i spillet, som bliver mere og mere intenst efterhånden som Mørket spreder sig over spilbrættet. Kan I redde nok landsbyboere til at sikre Dunkelwalds fremtid? Stemningsspil - Horror Real-time - Co-op - Terninger   Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Dunkelwald",
+"text_en": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Run from the Dark\r\nit feeds on your fear\r\nRun for your life\r\nit?s almost here\r\n\r\nIt comes for your Momma\r\nyour Daddy too\r\nAnd when they are gone\r\nit comes for you\r\n\r\nOnce in every generation the Darkness comes to feed on the lives of the unwary. From the deep, dark heart of the forest it creeps towards the village of Dunkelwald to claim its due. The only sanctuary is the village church where the power of the old faith keeps the villagers safe.\r\nThe elders say that it has always been so, but why it happens the elders do not know. In Dunkelwald every family has its own story and every generation must face their own Darkness.\r\n\r\nYou and the other players take the role of brave villagers that must try to save enough people for the village to survive the Darkness of this generation. \r\nThe game is co-operative and player actions as well as the flow of the game are timed by hour-glasses. You play through three thematic chapters, each getting more and more intense as the Darkness covers the game board. Can you save enough villagers to ensure the future of Dunkelwald?",
+"description_en": "",
+"author": [
+"Martin Bødker Enghoff"
+],
+"price": 0,
+"min_player": 3,
+"max_player": 4,
+"type": "braet",
+"play_hours": 1,
+"language": "engelsk",
+"wp_id": "5210"
+}
+},
+{
+"aktivitet_id": 40,
+"afviklinger": [
+{
+"afvikling_id": 62,
+"aktivitet_id": 40,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 23:00",
+"timestamp": 1364508000,
+"mysql": "2013-03-28 23:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 77,
+"aktivitet_id": 40,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:00",
+"timestamp": 1364569200,
+"mysql": "2013-03-29 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Heirs",
+"text_da": "[caption id=\\\"\\\" align=\\\"alignright\\\" width=\\\"196\\\"] Dovne Robert anno meget gamle dage[/caption]Af Tina Christensen, Morten Andersen, Robert Bonde Jensen, Lone Gram Larsen & Troels Vastrup  Heirs handler om at bringe din familie til ære og værdighed i et europæisk feudal-samfund. - og om hvordan alle kneb gælder når du skal sørge for at netop din familie vil blive husket i historiebøgerne!Alle starter med blot dynastiets grundlæggere, men igennem spillet udvikler man hver sin familie og samler et stadigt større stamtræ. Alle personer har sine evner, man kan føre krig, tjene penge, få bortgiftet sine døtre og meget mere.Hver person/ægtepar har actions og kan frit vælge mellem op til 4 forskellige samlinger af actions. Ægtepar lægger deres evner sammen, så en del af spillet er jagten på de rigtige koner der komplimenterer evnerne hos ens sønner (herunder ikke mindst døtre fra familier der kan give en god medgift). Da dele af familien med tiden bliver gamle og dør, så er det essentielt at sørge for, at den mandlige linje videreføres. Et historisk ”farmilie-spil” komplet med tvangsægteskaber fra dengang kvinder stod bag deres mænd (helt bogstaveligt). Historisk  - Eurogame Kortspil - Resource management Simpelt   KompliceretHeld       Dygtighed[caption id=\\\"attachment_5810\\\" align=\\\"alignleft\\\" width=\\\"512\\\"] Nederst: En familie/stamtræ. De kort der ligger under mænd er disses koner. Man kan ikke rigtigt se gifte kvinder, men mændene drager nytte af deres evner (de grå kasser i højre side).Øverst: De lande familierne bl.a. kæmper om med deres hære (kuber).Prototype medio januar 2013   [/caption]",
+"description_da": "",
+"title_en": "Heirs",
+"text_en": "\\\\\\\\\\\\\\\"Heirs is a card game about leading your family to power and glory in a European feudal society. Use every trick to make sure that your family is the one the history books will remember!\r\n\r\nEveryone starts with just two founding members of the dynasty, but during the game each player develops their family and builds an ever growing family tree. Every person has their own special abilities, defining what sort of actions they can do. They can, for instance, wage war, earn money, marry off their daughters and much more.\r\n\r\nEach person/couple can each turn choose freely between up to 4 different series of actions. Married couples combine their abilities, so the hunt for the right brides to complement the abilities of you sons is part of the game, as is the capability of the bride?s family to provide a proper dowry. Parts of the family will in time grow old and die, so it is essential to make sure the male lineage can continue.\r\n\r\nHeirs is a historical ?family? game, complete with forced marriage, from a time when women were literally behind their men.\\\\\\\\\\\\\\\"",
+"description_en": "",
+"author": [
+"Tina Christensen",
+" Morten Andersen",
+" Robert Bonde Jensen",
+" Lone Gram Larsen & Troels Vastrup"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 4,
+"type": "braet",
+"play_hours": 2.5,
+"language": "engelsk",
+"wp_id": "5217"
+}
+},
+{
+"aktivitet_id": 41,
+"afviklinger": [
+{
+"afvikling_id": 79,
+"aktivitet_id": 41,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 15:00",
+"timestamp": 1364652000,
+"mysql": "2013-03-30 15:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Brætspils erfaringsworkshop",
+"text_da": "Arrangør Troels Vastrup Sysler du med med at lave brætspil selv? Har du tænkt på at gøre det? Så kom til \\'brætspils workshop\\', det eneste sted hvor du kan høre om andres erfaringer med design, layout og udgivelser. Lyt og hver med når vi takler alt fra grafisk design, Kickstarter kampagner, konstruktion af prototyper, branding, brevfletning, indieudgivelser og en del mere!",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+"Troels Vastrup"
+],
+"price": 0,
+"min_player": 6,
+"max_player": 50,
+"type": "workshop",
+"play_hours": 4,
+"language": "dansk",
+"wp_id": "5222"
+}
+},
+{
+"aktivitet_id": 42,
+"afviklinger": [
+{
+"afvikling_id": 63,
+"aktivitet_id": 42,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 23:00",
+"timestamp": 1364508000,
+"mysql": "2013-03-28 23:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 64,
+"aktivitet_id": 42,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 14:00",
+"timestamp": 1364562000,
+"mysql": "2013-03-29 14:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:00",
+"timestamp": 1364569200,
+"mysql": "2013-03-29 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Hot Pursuit",
+"text_da": "Af Morten Lund Hot Pursuit kigger nærmere på biljagter, baseret på ydeevne og fysik fra den virkelige verden. Flugtruten bliver bygget op af spillerne under spillet, hvilket giver et nyt layout hver gang. Spillere er nødt til at balancere hvor meget  de vil presse deres bil for at få den bedste ydelse ud ad den, samtidig med de prøver at undgå prøver at undgå farer, der kan skade deres bil. Tilfældige begivenheder undervejs på ruten kan smide en kæp i hjulet på begge parter, og hurtigt. Jo mere hasarderet de flygtende kører, jo flere ekstra ressourcer vil politiet have til deres rådighed, herunder vejspærringer, sømmåtter eller endda en helikopter. Flugtbilisterne forsøger at slipe væk fra politiet, eller i det mindste nå så langt som muligt,mens politiet forsøger at stoppe de flygtende så hurtigt som muligt uden nogen kommer til skade, ved hjælp af alle til rådighed stående midler. Spillerne skiftes til at spille hver side for at se, hvem der kan få det bedste resultat.Kom og vis Steve McQueen hvordan det skal gøres! Action - Racing Simulation - Risk Taking - Tile Laying Simpelt   KompliceretHeld       Dygtighed  ",
+"description_da": "",
+"title_en": "Hot Pursuit",
+"text_en": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Hot Pursuit takes a closer look at car chases based on real world performance and physics. The route taken is built by the players during play, giving a new layout every game. Players have to balance pushing their car to its limit to get the best performance from it, while trying to avoid hazards that could damage their car. Random events along the route can throw a spanner in the works, quickly. \r\nThe more dangerous the fugitives driving, the better means the police will get at their disposal, including roadblocks, spike strips or even a helicopter. The fugitives try to a clean getaway, or go as far as possible, while the police tries to stop the fugitives as quickly as possible without anybody getting hurt, using all available means at their disposal. Players take turns as each side to see who can get the best result.\r\n\r\nCome show Steve McQueen how it\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s done!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+"description_en": "",
+"author": [
+"Morten Lund"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 2,
+"type": "braet",
+"play_hours": 1,
+"language": "dansk+engelsk",
+"wp_id": "5227"
+}
+},
+{
+"aktivitet_id": 43,
+"afviklinger": [
+{
+"afvikling_id": 65,
+"aktivitet_id": 43,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "13",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 13:00",
+"timestamp": 1364472000,
+"mysql": "2013-03-28 13:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 66,
+"aktivitet_id": 43,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 23:00",
+"timestamp": 1364594400,
+"mysql": "2013-03-29 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Kroket - a cardboard game",
+"text_da": "Af Mads Havshøj Kroket er et ældgammelt, nobelt spil, hvor der kun er plads til den mest uhumske, luskede, tyranniserende og nederdrægtige stodder øverst på sejrsskamlen. Spillet fordrer en delikat balanceakt mellem sindrige skud af egen kugle i næsten-umulige zikzak-baner mod slutpinden samt absurde krokeringer af modspillernes kugler mod langt pokker i vold. Alle kneb gælder. Med sejren følger den altafgørende håneret - så lad for guds skyld være med at glemme dine kugler derhjemme! Er du til spil som Roborally, Golfmania og Family Business, så er Kroket – a cardboard game lige noget for dig. Humor - LightKortdrevet brætspil  Simpelt   KompliceretHeld       Dygtighed",
+"description_da": "",
+"title_en": "Croquet - a cardboard game",
+"text_en": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Croquet is an ancient, noble game, in which the winner is the filthiest, sneakiest, most vexatious and vile bastard of them all. The game requires a delicate balancing act between ingenious shots of your own ball in nigh-impossible zikzak lanes towards the end pin, and absurd croquets of the opponents\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\' balls all the way to Hell. Anything goes. With the victory comes the all-important bragging rights ? so for goodness sake, don?t forget your balls at home!\r\nIf you like games like Roborally, Golfmania and Family Business, then \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Croquet - a cardboard game\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" is a game for you\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+"description_en": "",
+"author": [
+"Mads Havshøj"
+],
+"price": 0,
+"min_player": 3,
+"max_player": 4,
+"type": "braet",
+"play_hours": 1,
+"language": "dansk",
+"wp_id": "5230"
+}
+},
+{
+"aktivitet_id": 44,
+"afviklinger": [
+{
+"afvikling_id": 67,
+"aktivitet_id": 44,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 20:00",
+"timestamp": 1364410800,
+"mysql": "2013-03-27 20:00:00"
+},
+"end": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 23:00",
+"timestamp": 1364421600,
+"mysql": "2013-03-27 23:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 68,
+"aktivitet_id": 44,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 23:00",
+"timestamp": 1364680800,
+"mysql": "2013-03-30 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Last Stand",
+"text_da": "Af Morten Andersen Året er 2089....klima-forandringerne var meget større end selv de værste skræk-scenarie forudsagde. Ozon-laget er næste forsvundet; verden bliver hærget af alt-ødelæggende orkaner og en ubarmhjertig sol...menneskeheden er bragt i knæ.Over 90% af jordens befolkning er døde og de få overlevende er krøbet sammen i små enklaver i et desperat forsøg på at overleve vejrets hærgen, de omstrejfende mutant-dyr og den evige sult.Dette er historien om en af disse enklaver, dette er historien om \\'Last Stand\\'Last Stand fortæller historien om hvordan enklaven enten bryder sammen eller hvordan en spiller rejser sig af støvet som den endelige leder.Hver spiller indtager rollen som en af enklavens ledere. Hver har deres egne hemmelige planer med enklaven som de prøver at opnå samtidig med at de forsøger at få enklaven til at overleve.Spillet handler om at byde indflydelse på enklavens fraktioner for, i det mindste for en tid, at have adgang til deres dyrebare resurser, både i form af mandskab, mad og våben. Og det handler om at bruge de resurser til egen gavn eller fælles bedste. For at overleve og for at vinde. Post-apokalyptisk - OverlevelseBidding - Worker Placement Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Last Stand",
+"text_en": "\\\\\\\\\\\\\\\"The year is 2089.....the climate changes have been much greater than even the worst scenarios predicted. The ozone layer is almost gone; the world is ravaged by destructive storms and a merciless sun..humanity has been brought to its knees.\r\n\r\nWith over 90% of the worlds population dead the people that are left have huddled together in small enclaves trying desperately to survive against the onslaught of  the weather , the mutated animals roaming the wastelands and against the constant threat of starvation.\r\n\r\nThis is the tale of one such enclave this is the tale of Last Stand.\r\n\r\nLast Stand tells the story of how the enclave either breaks apart or the story of one players rise to power depending on the outcome.\r\nEach player takes the role of one of the enclave leaders.\r\nEach have their own hidden agenda that they are trying to work towards while still having to make sure the enclave doesn\\\\\\\\\\\\\\'t colapse. \r\n\r\nThe game works by bidding influence on the enclaves factions in order to gain control of at least some of their resources and to use them as you see fit, for personal gain or the common good; to survive or to win.\\\\\\\\\\\\\\\"",
+"description_en": "",
+"author": [
+"Morten Andersen"
+],
+"price": 0,
+"min_player": 3,
+"max_player": 6,
+"type": "braet",
+"play_hours": 2.5,
+"language": "dansk",
+"wp_id": "5237"
+}
+},
+{
+"aktivitet_id": 45,
+"afviklinger": [
+{
+"afvikling_id": 69,
+"aktivitet_id": 45,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 23:00",
+"timestamp": 1364508000,
+"mysql": "2013-03-28 23:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 70,
+"aktivitet_id": 45,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 14:00",
+"timestamp": 1364562000,
+"mysql": "2013-03-29 14:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:00",
+"timestamp": 1364569200,
+"mysql": "2013-03-29 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Monsterland",
+"text_da": "Af Kasper Lapp En bande troldmænd har skabt en midlertidig portal til ”Monsterland” – en dimension, der vrimler med alverdens monstre.De har nemlig opdaget, at zoologiske haver vil give mange penge for monstre – jo mere sensationelle, jo flere penge. Så de opfindsomme troldmænd har fundet en måde at bruge deres magi til at splejse forskellige monstre sammen for at skabe nye, unikke arter. Hvorfor nøjes med en enhjørning, når man kan få hovedet fra en kyklop, overkroppen fra en drage og underkroppen fra en kæmpeskorpion?Nu gælder det for troldmændene om at samle så mange værdifulde monstre som muligt, før portalen til dimensionen lukker sig igen. Deres grådighed har dog for længst sat en stopper for deres sammenhold. Nu er det alles kamp mod alle, og de bekæmper og bestjæler hinanden det bedste de har lært. De skal dog passe på, at grådigheden ikke løber af med dem, for portalen til dimensionen kan lukke, før de ved af det. Og det er ikke rart at blive fanget i Monsterland! Humor - Fantasy Kortspil - Terninger - Monster building  Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Monsterland",
+"text_en": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"A gang of wizards have created a temporary portal to ?Monsterland? - a dimension filled with all kinds of monsters. They have realized that zoos will pay well for monsters ? the more sensational, the greater the pay. So the wizards have found a way to use their magic to splice different monsters together to create new, unique species. Why settle for a unicorn when you can get the head of a cyclops, the body of a dragon and the body of a giant scorpion?\r\n\r\nNow it?s up to the wizards to collect as many valuable monsters as possible before the portal to the dimension closes again. But their greed have put an end to their unity. It has turned into an all out war, and they fight and steal from each other whenever they get a chance. They must be careful though: The portal to the dimension may close before they know it. And you don?t wanna get caught up in Monsterland!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"",
+"description_en": "",
+"author": [
+"Kasper Lapp"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 7,
+"type": "braet",
+"play_hours": 1,
+"language": "dansk+engelsk",
+"wp_id": "5239"
+}
+},
+{
+"aktivitet_id": 46,
+"afviklinger": [
+{
+"afvikling_id": 78,
+"aktivitet_id": 46,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:00",
+"timestamp": 1364569200,
+"mysql": "2013-03-29 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 71,
+"aktivitet_id": 46,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 23:00",
+"timestamp": 1364594400,
+"mysql": "2013-03-29 23:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Planet Run",
+"text_da": "Af Allan Fjord Jacobsen En ny planet er fundet! Og ligesom land runs i det oldgamle Vilde Vest, skal der løbes om kap. Det første rumskib, der kommer til Euelpis, får alle dens rigdomme. I Planet Run gælder det kort sagt om at komme først – og gøre livet surt for dine modspillere. Ved taktisk at placere dit mandskab rigtigt på dit eget rumskib, kan du komme tættere på planeten. Men selvfølgelig kan du også placere en sabotør på de andres rumskibe, sende pirater og asteroider efter dem eller spille actionkort, der kan hjælpe dig eller bremse dine modstandere. Planet Run er et taktisk worker placement-spil, men i modsætning til andre spil i genren, er der stor mulighed for at irritere dine modstandere – faktisk er det nødvendigt for at vinde. Science FictionWorker Placement  - Action kort Simpelt   KompliceretHeld       Dygtighed  ",
+"description_da": "",
+"title_en": "Planet Run",
+"text_en": "A new planet has been discovered! And just as the land runs in the ancient Old West, you have to race for it. The first spaceship to arrive at Euelpis, can claim all its riches. In short, Planet Run is about being the first to reach the middle ? and make life tough for your opponents. By carefully placing your crew on your own spaceship, you can advance towards the planet ? of course you can place saboteurs, give pirates and asteroids to your opponents or play action cards, that will either help you or slow your opponents. Planet Run is a tactic worker placment game, but unlike other games in the genre, you can really irritate your opponents ? in fact, that is necessay, if you want to win.",
+"description_en": "",
+"author": [
+"Allan Fjord Jacobsen"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 4,
+"type": "braet",
+"play_hours": 2.5,
+"language": "engelsk",
+"wp_id": "5243"
+}
+},
+{
+"aktivitet_id": 47,
+"afviklinger": [
+{
+"afvikling_id": 72,
+"aktivitet_id": 47,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 14:00",
+"timestamp": 1364475600,
+"mysql": "2013-03-28 14:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 73,
+"aktivitet_id": 47,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "13",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 13:00",
+"timestamp": 1364558400,
+"mysql": "2013-03-29 13:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Stock Bubbles",
+"text_da": "Af Jeppe Norsker Stock Bubbles kombinerer strategi og behændighed i en nervepirrende blanding af bankaktier og klodsmajor.  Hver banks værdi afspejles i en stabel af klodser. Det gælder om at købe billigt og sælge dyrt uden at ryste på hånden. Insiderviden om specifikke banker giver dig mulighed for at handle før de andre, og gennem bestyrelsesposter kan du opnå store bonusser, hvis aktieværdierne bliver høje nok. Den der hurtigst skaber den største formue vinder spillet. At vinde kræver ikke kun, at du kan stable skæve klodser. Du skal sprede din risiko, kende dine begrænsninger og handle strategisk. Reglerne er meget overskuelige og spillet er lige til at gå til.  Behændighed - Investering Aktiespil - Stablespil - Risikostyring   Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Stock Bubbles",
+"text_en": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Stock Bubbles combines strategy and dexterity in a thrilling mix of bank shares and Jenga. Each bank value is reflected in a stack of blocks. The objective is to buy cheap and sell expensive without shaking your hand. Inside information allow you to act before others, and as a boardmember you will recieve big bonuses if the stock value gets high enough. If you make more money than your opponents you win.\r\nWinning requires not only that you can stack uneven blocks. You must spread your risk, know your limitations and act strategically.\r\nThe game is easy to learn and rules in english will be provided.\r\n\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"like\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" the facebook page at www.facebook.com/norskergames if you want to follow the development. Rules will be available from www.norskergames.com a few days before Fastaval.\r\nAbout the designer: Jeppe has participated in Fastaval since 1992. He enjoys sophisticated game mechanics and simple rules. Alongside the development of Stock Bubbles  Jeppe is working on a new version of his earlier board game \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Red Ocean: Africa\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\".",
+"description_en": "",
+"author": [
+"Jeppe Norsker"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 4,
+"type": "braet",
+"play_hours": 1.5,
+"language": "dansk+engelsk",
+"wp_id": "5249"
+}
+},
+{
+"aktivitet_id": 48,
+"afviklinger": [
+{
+"afvikling_id": 75,
+"aktivitet_id": 48,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 11:00",
+"timestamp": 1364464800,
+"mysql": "2013-03-28 11:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+},
+{
+"afvikling_id": 76,
+"aktivitet_id": 48,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 1:00",
+"timestamp": 1364688000,
+"mysql": "2013-03-31 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Windrose Island",
+"text_da": "Af Hans Lerche Hver kaptajn begynder spillet med en skude, et beskedent mandskab, nogle få varetønder samt en drøm om at mangedoble indholdet i skattekisten. Skuden ligger for anker ved Windrose Island, omgivet af et øhav af rigdomme. Spillets omdrejningspunkt er mandskabet. Nyt mandskab kan hyres i havnene, for jo stærkere mandskab desto flere handlingsmuligheder. Og der er meget at gøre om bord på skuden! Vinden slår ofte om og sejlene skal sættes derefter før skuden kan skyde en god fart. For at være på forkant med vindens lune, kan kaptajnen foretage en vejrudsigt, og er sigtbarheden på havet ringe må kort, kompas og sekstant tages i brug. I kabyssen laves mad til mandskabet, og laves der ikke nok, får kaptajnen skylden. På havet færdes også andre fartøjer, nogle er stærke orlogsskibe, andre er købmandskaraveller. I jagten på rigdom skal skaffes og sælges en mængde varetønder, og hver kaptajn må vurdere om det skal gøres som ærlig og redelig købmand eller som fribytter. Hver spillestil kræver sin type mandskab. Fjendtlig kanonild, voldsomt uvejr og hungersnød ødelægger moralen, og kompenseres besætningen ikke med passende mængder rom, vil de til sidst begå mytteri og tvinge kaptajnen til at gå planken ud og svømme med hajerne! Tænkespil - Søfarer Mandskabsplacering - Simulation - Ressourcehåndtering  Simpelt   KompliceretHeld       Dygtighed ",
+"description_da": "",
+"title_en": "Windrose Island",
+"text_en": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Each captain begins the game with a ship, a minor crew, a few barrels of goods, some gold coins and a dream of prosperity. The ship is anchored at Windrose Island, surrounded by an ocean of riches.\r\nCentre of the game is the crew. New crew members are available for hire in each port and loads of things need to be done on board the ship! Winds are ever changing and sails should be adjusted accordingly. Weather forecasting can be a wise choice, and if visibility is poor, the use of map, compass and sextant is crucial. Food is cooked in the galley, and the captain better make sure the amounts suffice!\r\nOther vessels cruise the archipelago; strong warships as well as rich merchant caravels. In the quest for wealth, quantities of goods need to be claimed and sold; each captain will decide whether this is done by honest trade or by merciless piracy. Each playing style requires a different type of crew.\r\nEnemy cannon fire, violent storms and starvation all demoralize the crew, and should they not be adequately compensated in bottles of rum, the crew will commit mutiny and force the captain to walk the plank!",
+"description_en": "",
+"author": [
+"Hans Lerche"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 4,
+"type": "braet",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "5252"
+}
+},
+{
+"aktivitet_id": 49,
+"afviklinger": [
+{
+"afvikling_id": 80,
+"aktivitet_id": 49,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 11:00",
+"timestamp": 1364720400,
+"mysql": "2013-03-31 11:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "17",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 17:00",
+"timestamp": 1364742000,
+"mysql": "2013-03-31 17:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Fastaval Brætspil - Best of",
+"text_da": "Vi du prøve kræfter med årets Fastaval Brætspil, men har du ikke haft tid, eller kan du ikke beslutte dig? Så mød op søndag, så vi finder dem alle frem.Feltet er igen i år stærkt, med 12 meget forskellige spil.Du kan give en have kølle, brænde dæk med både biler og rumskibe, genopbygge civilisationen eller vælte aktiemarkedet. De kan forsøge at flygte fra mørket, brænde eller brændes på et bjerg, duellere i det vilde vest eller om at have det bedste kollegium. Du kan sejre verdenshavene tynde, bygge dit eget monster - eller hvis du tror det ender bedre - bygge din egen familie.",
+"description_da": "",
+"title_en": "Fastaval Boardgames - Best of",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 2,
+"max_player": 50,
+"type": "braet",
+"play_hours": 6,
+"language": "dansk+engelsk",
+"wp_id": "5602"
+}
+},
+{
+"aktivitet_id": 50,
+"afviklinger": [
+{
+"afvikling_id": 98,
+"aktivitet_id": 50,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "27-3-2013",
+"datetime": "27-3-2013 0:00",
+"timestamp": 1364338800,
+"mysql": "2013-03-27 00:00:00"
+},
+"end": {
+"day": "27",
+"month": "3",
+"year": "2013",
+"h": "23",
+"m": 30,
+"date": "27-3-2013",
+"datetime": "27-3-2013 23:30",
+"timestamp": 1364423400,
+"mysql": "2013-03-27 23:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Byg et brætspil",
+"text_da": "Har du altid drømt at designe et brætspil? Mangler du den fede ide? Eller måske har du bare ikke råd til at købe alle de nødvendige småting?Så er det nu, du skal tilmelde dig brætspilsdesignkonkurrencen på Fastaval. Ideen er direkte kopieret fra scenarieskrivningskonkurrencen. Du tilmelder dig før Fastaval, og på connen får du udleveret alt det nødvendige. Det er:Konkurrencens reglerOver 90 træbrikker i forskellige farverPapstumper til at lave et kort.Derefter har du det meste af Fastaval til at designe dit eget brætspil. Lørdag mødes juryen og kårer det bedste af de indleverede bidrag.Tanken bag konkurrencen er, at benspænd i form af bundne opgaver og tidspres fremmer den kreative proces. Du skal ikke sidde i dagevis og tænke over den perfekte mekanik, eller bruge lang tid på at finde/designe den flotteste brik. Du skal åbne din konkurrencekasse, og bruge det du finder!Vinderen får en fin lille præmie, men alle deltagere får en hel masse pap og træbrikker, som man kan bruge til alle sine andre brætspilsideer. Alene i dimser er konkurrencen et godt køb!Deltagerantal: 10",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 10,
+"type": "ottoviteter",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "5770"
+}
+},
+{
+"aktivitet_id": 51,
+"afviklinger": [
+{
+"afvikling_id": 94,
+"aktivitet_id": 51,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 16:00",
+"timestamp": 1364738400,
+"mysql": "2013-03-31 16:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "18",
+"m": 30,
+"date": "31-3-2013",
+"datetime": "31-3-2013 18:30",
+"timestamp": 1364747400,
+"mysql": "2013-03-31 18:30:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Svøm dig lækker til Ottofesten",
+"text_da": "Svøm dig lækker til Ottofesten. Igen i år har vi skaffet 60 hektoliter vand så alle kan leve sig ind i rollen som lækre pingviner før ottofesten.I omkring 2 timer  har du mulighed for at alt det vandpjask du kan drømme om, som feks. det andet Fastavalianske Mesterskab i Solo synkronsvømning (der er højtalere, så de skal bruges).Det er også en udmærket lejlighed lige til at få pudset manken inden det for alvor går løs til Ottofesten.Og så kan man også svømme.Alt dette kan blive dit for 20,-. Der er adgang til svømmehallen søndag fra kl. 16.00 - 18.30 (med forbehold for ændringer når aftalen kommer helt på plads). Sidste pingvin skal være ude af omklædningsrummet kl. 18.30.Svømmehallen indeholder:ét bassin på 12,5 x 25 m, vanddybde 0,9-4,0 m. temp. 28°ét bassin på 5 x 12,5 m, vanddybde 0,6 m. temp 30°tremetervippe.enmetervippe.vandpolobane og mål.undervandshøjttalere til synkronsvømning.handicaplift og badestole.omklædningsbrikse for handicappede.sauna i såvel dame- som herreomklædning.",
+"description_da": "",
+"title_en": "Swimming",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 20,
+"min_player": 0,
+"max_player": 70,
+"type": "ottoviteter",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "5968"
+}
+},
+{
+"aktivitet_id": 52,
+"afviklinger": [
+{
+"afvikling_id": 93,
+"aktivitet_id": 52,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 11:00",
+"timestamp": 1364720400,
+"mysql": "2013-03-31 11:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 16:00",
+"timestamp": 1364738400,
+"mysql": "2013-03-31 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Indierollespil på Fastaval",
+"text_da": "Vi inviterer til en hyggelige søndag eftermiddag med spil, fortællinger og sjov i form af en hel spilleblok fyldt med indie-rollespil. Kom og spil med.Hvis du er nysgerrig, hvis du holder af indie-spil eller hvis du vil prøve noget nyt, så deltag i indieblokken. Spillederne medbringer deres egne indie-spil, som de hver især har lyst til at præsentere, og vi har hvert år kunne præsentere en bred vifte af spændende nye rollespil. Blandt de ting, som der antageligvis vil være mulighed for at få prøvet er Mouse Guard, It\\'s Complicated, Apocalypse World, 3:16 Carnage Amongst the Stars, The Drifter\\'s Escape, A Penny for My Thoughts, In a Wicked Age, Dread, Shock: Social Science Fiction, men den præcise liste vil først blive offentliggjort søndag på Fastaval.Du kan melde dig som spiller og komme til at prøve et af de mange spændende spil, eller du kan melde dig som spilleder og medbringe dit eget favorit indiespil. Spilledere bedes tilmelde sig på forhånd (og vi skriver siden til jer for at høre, hvad I hver især medbringer). Spillere kan melde sig på forhånd og være sikret en plads eller dukke op ved arrangementets begyndelse. ",
+"description_da": "",
+"title_en": "Indiegames at Fastaval",
+"text_en": "",
+"description_en": "",
+"author": [
+"Morten Greis Petersen"
+],
+"price": 0,
+"min_player": 4,
+"max_player": 50,
+"type": "rolle",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "5161"
+}
+},
+{
+"aktivitet_id": 57,
+"afviklinger": [
+{
+"afvikling_id": 88,
+"aktivitet_id": 57,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 11:00",
+"timestamp": 1364720400,
+"mysql": "2013-03-31 11:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "15",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 15:00",
+"timestamp": 1364734800,
+"mysql": "2013-03-31 15:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Motorsports-spillet",
+"text_da": "Så skal der geares op for fart spænding og stress. Motorsports-spillet er et racer-spil hvor både biler og spillere skal have fart over feltet for at komme først i mål. Det er ikke et spil for folk der lider af analyse-paralyse da alle træk er på tid men så er der til gengæld også garanteret høj puls og forhåbentligt højt humør hele vejen igennem.",
+"description_da": "",
+"title_en": "",
+"text_en": "It\\\\\\'s time to get ready, set and go for speed and stress. Motorsports-spillet is a racing game where both cars and players need to be fast in order to cross the finish-line first. It is not a game for people that suffer from analysis paralasys as all moves are timed. We do guarantee an increased pulse and fun all the way though.",
+"description_en": "",
+"author": [
+"-"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 10,
+"type": "braet",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "6001"
+}
+},
+{
+"aktivitet_id": 58,
+"afviklinger": [
+{
+"afvikling_id": 89,
+"aktivitet_id": 58,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 14:00",
+"timestamp": 1364475600,
+"mysql": "2013-03-28 14:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Cafe-spil",
+"text_da": "Når man har lyst til lidt mere end at drukne sine sorger i fadøl er det rart at have et ikke alt for kompliceret spil at skylle efter med.Vi introducerer en håndfuld spil der egner sig specielt godt til den tanke-kraft man orker at stable på benene efter en travl dag.",
+"description_da": "",
+"title_en": "",
+"text_en": "When you want more than to just drown your sorrows in beer it is nice to have a casual game to help wash it down.\nWe introduce a handful of games that are particularly good if you don\\'t want to have to think too much after a busy day.",
+"description_en": "",
+"author": [
+"-"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 16,
+"type": "braet",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "6004"
+}
+},
+{
+"aktivitet_id": 59,
+"afviklinger": [
+{
+"afvikling_id": 90,
+"aktivitet_id": 59,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "0",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 0:00",
+"timestamp": 1364598000,
+"mysql": "2013-03-30 00:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Battlestar Galactica",
+"text_da": "Spillet er baseret på den nye “Battlestar Galactica”-serie men kan sagtens spilles af folk der ikke kender denne. I BSG gælder det om at samarbejde imod gentagne angreb fra Cylons, utilfredse arbejdere og stadigt svindende forsyninger. Men endnu værre måske er det ikke alle der arbejder lige entusiastisk, måske er præsidenten slet ikke på menneskenes side, måske er der en cylon iblandt jer!",
+"description_da": "",
+"title_en": "",
+"text_en": "The game is based on the new ?Battlestar Galactica?-series but even if you haven?t watched the show this game is great. BSG is all about cooperation against Cylon enemies, an unhappy crew and increasingly dwindling resources. But far worse than that..perhaps not everyone is one your side, is the president really working with you or is someone perhaps on the side of the Cylons?! \nIt will be possible to play with expansions.",
+"description_en": "",
+"author": [
+"-"
+],
+"price": 0,
+"min_player": 3,
+"max_player": 6,
+"type": "braet",
+"play_hours": 4,
+"language": "dansk+engelsk",
+"wp_id": "6007"
+}
+},
+{
+"aktivitet_id": 60,
+"afviklinger": [
+{
+"afvikling_id": 91,
+"aktivitet_id": 60,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "14",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 14:00",
+"timestamp": 1364648400,
+"mysql": "2013-03-30 14:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:00",
+"timestamp": 1364655600,
+"mysql": "2013-03-30 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Pandemic",
+"text_da": "Sygdommen spreder sig i år på Fastaval og kun i kan stoppe den!Pandemic er et samarbejdsspil hvor spillerne i fællesskab skal forsøge at stoppe viruser fra at sprede sig i verden inden de bliver umulige at stoppe. ",
+"description_da": "",
+"title_en": "",
+"text_en": "The plague is spreading at this years Fastaval and only you can stop it!\nPandemic is a cooperative game where the players work together in order to stop viruses from spreading across the globe before the outbreak will be impossible to stop.",
+"description_en": "",
+"author": [
+"-"
+],
+"price": 0,
+"min_player": 2,
+"max_player": 4,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk+engelsk",
+"wp_id": "6009"
+}
+},
+{
+"aktivitet_id": 61,
+"afviklinger": [],
+"info": {
+"title_da": "Artemis rumskibs-simulator",
+"text_da": "Har du nogensinde overvejet hvordan det er at være på kommandobroen af et rumskib? Nu har du muligheden. Artemis er en rumskibs-simulator. Du og fem andre spillere bemander en af seks poster på kommandobroen af SS Artemis.De seks poster som kommandobroen gør brug af er:1) Kaptajnen2) Videnskabsofficeren3) Kommunikationsofficeren4) Navigatøren5) Teknik og Ingeniør6) KanonérHver post har et ansvar for korrekt at udføre de ordrer kaptajnen giver, mens de skal kommunikere alle vigtige oplysninger videre til andres stationer. Det er hektisk, sjovt og en helt speciel oplevelse.",
+"description_da": "",
+"title_en": "Artemis Starship Simulator",
+"text_en": "",
+"description_en": "",
+"author": [
+"Thomas Mertz"
+],
+"price": 0,
+"min_player": 3,
+"max_player": 6,
+"type": "ottoviteter",
+"play_hours": 1,
+"language": "dansk+engelsk",
+"wp_id": "6133"
+}
+},
+{
+"aktivitet_id": 62,
+"afviklinger": [],
+"info": {
+"title_da": "Toasthalla",
+"text_da": "Fastavals helt egen fast food franchise, Toasthall, er selvfølgelig klar til Fastaval 2013. Igen i år kokkererer Absurth i Fastavals kiosk og laver lækre luksustoasts. Kom forbi og køb klassikere som Odin, Thor, Frej og Idun, samt sidste års premieresucces Tyr, en stærk toast, der er god at have ved hånden.Se mere på Toasthallas Facebookside.Hvem: AbsurthHvor: KioskenHvornår: Fredag 15.00 - 17.00",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "ottoviteter",
+"play_hours": 2,
+"language": "dansk+engelsk",
+"wp_id": "5960"
+}
+},
+{
+"aktivitet_id": 63,
+"afviklinger": [],
+"info": {
+"title_da": "Pathfinder Society",
+"text_da": "Hvor skal dit næste eventyr foregå?Drag ud i verden med Pathfinder Society, en loge af standhaftige eventyrere, arkæologer og lykkeriddere, som udforsker Golarions fjerne egne på en færd efter utrolige skatte og glemte riger. Du skal arbejde for logens mål, samtidigt med at du styrker dine egne agendaer.Pathfinder Society Organized Play er et verdenomspændende system, der gør du kan tilmelde dig arrangementer over alt i verden og spille med nye folk hver gang.Pathfinder Society spilles med Pathfinder-rollespillet, som en en videreudvikling af version 3.5 af verdens ældste rollespil, Dungeons & Dragons.Læs mere på www.pathfindersociety.dk,på www.pathfindersociety.dk/facebook eller kontakt os på pfsdenmark@gmail.com",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "ottoviteter",
+"play_hours": 0,
+"language": "dansk+engelsk",
+"wp_id": "6153"
+}
+},
+{
+"aktivitet_id": 64,
+"afviklinger": [],
+"info": {
+"title_da": "Scenarieskrivningskonkurrencen",
+"text_da": "Hvor svært kan det være at skrive et scenarie? Vi gør det lidt sværere – skriv et scenarie under Fastaval med bundne krav til form og indhold. Der er en præmie for bedste scenarie – og detaljeret feedback til alle, der afleverer. Tør du stille op?Opgaven udleveres torsdag morgen kl 10. Hvis du ikke har mulighed for at dukke op der, kan du efterfølgende afhente opgaven i Informationen. Du skal selv skaffe eller låne en computer til at skrive scenariet på. Scenariet skal afleveres senest søndag kl 10. Der er individual feedback til alle mellem kl 15 og kl 17. Vinderen kåres til Festen søndag aften.Der er 15 pladser. Tilmeld dig forud eller på selve Fastaval.",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 1,
+"max_player": 15,
+"type": "ottoviteter",
+"play_hours": 0,
+"language": "dansk+engelsk",
+"wp_id": "6130"
+}
+},
+{
+"aktivitet_id": 65,
+"afviklinger": [],
+"info": {
+"title_da": "Det store kultursammenstød -- fremmed i et fremmed spil",
+"text_da": "Det er svært at prøve nyt -- ikke bare nye scenarier, men helt nye måder at spille på. Nogen gange er problemet ikke scenariet eller spillerne, men de uskrevne antagelser i den givne spillestil. Kom og deltag i Fastaval veteranen Oliver Nøglebæk og den amerikanske forfatter Lizzie Starks diskussion om de skjulte kulturelle antagelser i freeform, indie, live og bordrollespil. Samt hvordan man oversætter antagelserne til udefrakommende spillere. Måske finder du noget guld uden for din tryghedssfære eller en ny indsigt i din egen måde at spille på.",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "ottoviteter",
+"play_hours": 1,
+"language": "engelsk",
+"wp_id": "6181"
+}
+},
+{
+"aktivitet_id": 66,
+"afviklinger": [],
+"info": {
+"title_da": "Fastaval Family (for familier med børn)",
+"text_da": "Et tilbud til dig, der både ønsker at komme på Fastaval og være sammen med familien i påsken.Uanset om I er to spillende forældre eller en spillende og en ikke, så kan det være, at I har lyst til at være i nærheden af hinanden og børnene i påsken.For samme overnatningspris som på selve Fastaval får familien stillet et værelse til rådighed med fire senge og eget bad og toilet. Værelset ligger på Østerskov Efterskole, der ligger ca. 500 meter fra selve Fastaval.Konceptet er, at vi tilstedeværende voksne skiftes til at passe vores børn, sådan at en del af os altid kan være på Fastaval. Det fungerer lettest for par, men vi kan også finde ud af det for folk, der kommer alene.I dagtimerne kan ca. halvdelen af de voksne komme på Fastaval mens resten hygger med børnene på skolen, tager på ture med dem og holder hus. Om aftenen er bemandingskravet mindre, hvis man kan leve med at passe hinandens børn.Giv besked hurtigst muligt, hvis I vil på Fastaval Family, så vi kan starte samarbejdet.Da vi ikke kan spise på Fastaval alle sammen, og tiderne heller ikke passer så godt med små børn, laver vi en madpulje på Fastaval Family for de, der vil være med.Kontakt for videre information: Malik Hyltoft, malikhyltoft@gmail.com",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "ottoviteter",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6187"
+}
+},
+{
+"aktivitet_id": 68,
+"afviklinger": [],
+"info": {
+"title_da": "The Posthuman\\'s Progress",
+"text_da": "She appears, at first, to be an ordinary woman. A bit weird, some may say, but ordinary. It is at the moment when her lover is threatened by certain harm that she suddenly transforms into the posthuman, a force of nature who will stop at nothing -- absolutely nothing -- to save him. But reality itself is still composed of many moving parts... The Posthuman\\'s Progress is a short freeform game based on Run Lola Run (Lola rennt, 1998), a film in which the protagonist resets time itself twice in order to set circumstances right to save her boyfriend. In the game, the players collaboratively establish the crisis scenario between a woman and a lover and then play to find out what happens. The first time, the posthuman cannot avert the crisis; the second time, disaster still strikes. But the third time, reality bends to the posthuman\\'s will, and players will be delighted to see what extreme solution is actually required to get through it all. Duration: 90-120 minutes (Novella)Number of players: 5 players + 1 gamemasterGenre: Action/MelodramaType of Players: You can improvise and think quickly on a meta-fictional level. You understand how to lead a lighter moment into a serious one, or vice versa, and can convincingly explore your character\\'s options even when the outcome seems pre-determined. You are comfortable with playing the character at the absolute center of the universe or just a by-stander with equal intensity.Type of Gamemaster: You are able to improvise. You can introduce rules and guidelines into a scene without interrupting its flow. You can actively engage all players most of the time.About the author: Evan Torner is a German film scholar and long-time gamemaster located in the United States. He visited Fastaval first in Spring 2010, and his first Fastaval submission \\\"Metropolis\\\" was nominated for Best Game Devices in 2012.",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+"Evan Torner"
+],
+"price": 0,
+"min_player": 5,
+"max_player": 5,
+"type": "rolle",
+"play_hours": 2,
+"language": "engelsk",
+"wp_id": "6199"
+}
+},
+{
+"aktivitet_id": 69,
+"afviklinger": [
+{
+"afvikling_id": 110,
+"aktivitet_id": 69,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 16:00",
+"timestamp": 1364482800,
+"mysql": "2013-03-28 16:00:00"
+},
+"end": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "17",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 17:00",
+"timestamp": 1364486400,
+"mysql": "2013-03-28 17:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Drafting 101",
+"text_da": "Foredrag i god draft strategi, der især henvender sig til mindre erfarne spillere",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "braet",
+"play_hours": 1,
+"language": "dansk",
+"wp_id": "6206"
+}
+},
+{
+"aktivitet_id": 70,
+"afviklinger": [
+{
+"afvikling_id": 103,
+"aktivitet_id": 70,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "28",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "28-3-2013",
+"datetime": "28-3-2013 20:00",
+"timestamp": 1364497200,
+"mysql": "2013-03-28 20:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "3",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 3:00",
+"timestamp": 1364522400,
+"mysql": "2013-03-29 03:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Standard",
+"text_da": "Format: StandardSystem: Swiss + Top spilPris: 50,- kr.Præmier: 4 booster pr. deltagere, fordelings nøgle afhængig af deltagere.NB! Decklister skal medbringesTurneringen er DCI SanctionedDeltagere: Min 8 , max 32Kan vare ca. 7 timer",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6209"
+}
+},
+{
+"aktivitet_id": 71,
+"afviklinger": [
+{
+"afvikling_id": 109,
+"aktivitet_id": 71,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 11:00",
+"timestamp": 1364551200,
+"mysql": "2013-03-29 11:00:00"
+},
+"end": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 16:00",
+"timestamp": 1364569200,
+"mysql": "2013-03-29 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Draft Gatecrash",
+"text_da": "Format: Draft GatecrashSystem: SwissPris: 100,- kr.Præmier: 1 booster pr. deltagere.Der spilles keeper draft, dvs. at man beholder de kort man drafter.Deltagere: min. 8 ingen maksTurneringen er DCI Sanctioned",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6212"
+}
+},
+{
+"aktivitet_id": 72,
+"afviklinger": [
+{
+"afvikling_id": 105,
+"aktivitet_id": 72,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 1:00",
+"timestamp": 1364601600,
+"mysql": "2013-03-30 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Modern",
+"text_da": "Format: ModernSystem: Swiss +1Pris: 50,- kr.Præmier: 2 booster pr. deltagereDecklister skal medbringesDeltagere: min 8, Maks 32",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 8,
+"max_player": 32,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6214"
+}
+},
+{
+"aktivitet_id": 73,
+"afviklinger": [
+{
+"afvikling_id": 106,
+"aktivitet_id": 73,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "29",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "29-3-2013",
+"datetime": "29-3-2013 20:00",
+"timestamp": 1364583600,
+"mysql": "2013-03-29 20:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 1:00",
+"timestamp": 1364601600,
+"mysql": "2013-03-30 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Commander Draft",
+"text_da": "Format: Commander DraftSystem: SwissPris: 30,- kr.Præmier: 1 booster pr. deltagereDette er en Phantom draft, dvs. at man ikke beholder de kort der bruges til draftenTurneringen er ikke DCI sanctioned.Regler er som normal Draft og Commander regler med flg. Undtagelser:Der draftes først 3 Commanders, hvor en af dem skal bruges som Commander for decket.Der draftes med 3 boosters pack, der hver indeholder 20 kortDer spilles med minimum 60 kort",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 8,
+"max_player": 0,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6217"
+}
+},
+{
+"aktivitet_id": 74,
+"afviklinger": [
+{
+"afvikling_id": 107,
+"aktivitet_id": 74,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "11",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 11:00",
+"timestamp": 1364637600,
+"mysql": "2013-03-30 11:00:00"
+},
+"end": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "16",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 16:00",
+"timestamp": 1364655600,
+"mysql": "2013-03-30 16:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Sealed (6 Gatecrash boosters)",
+"text_da": "Format: Sealed (6 Gatecrash boosters)System: Swiss +1Pris: 225,-Præmier: 4 booster pr. deltagere, fordelings nøgle afhængig af deltagere.Turneringen er DCI sanctionedDeltagere: Min 8, max 32Kan var ca.7 timer",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 8,
+"max_player": 32,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6219"
+}
+},
+{
+"aktivitet_id": 75,
+"afviklinger": [
+{
+"afvikling_id": 108,
+"aktivitet_id": 75,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 1:00",
+"timestamp": 1364688000,
+"mysql": "2013-03-31 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic: Commander Draft",
+"text_da": "Format: Commander DraftSystem: SwissPris: 30,- kr.Præmier: 1 booster pr. deltagereDette er en Phantom draft, dvs. at man ikke beholder de kort der bruges til draftenTurneringen er ikke DCI sanctioned.Regler er som normal Draft og Commander regler med flg. Undtagelser:Der draftes først 3 Commanders, hvor en af dem skal bruges som Commander for decket.Der draftes med 3 boosters pack, der hver indeholder 20 kortDer spilles med minimum 60 kort",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 0,
+"max_player": 0,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6221"
+}
+},
+{
+"aktivitet_id": 76,
+"afviklinger": [
+{
+"afvikling_id": 104,
+"aktivitet_id": 76,
+"lokale_id": null,
+"lokale_navn": null,
+"start": {
+"day": "30",
+"month": "3",
+"year": "2013",
+"h": "20",
+"m": 0,
+"date": "30-3-2013",
+"datetime": "30-3-2013 20:00",
+"timestamp": 1364670000,
+"mysql": "2013-03-30 20:00:00"
+},
+"end": {
+"day": "31",
+"month": "3",
+"year": "2013",
+"h": "1",
+"m": 0,
+"date": "31-3-2013",
+"datetime": "31-3-2013 1:00",
+"timestamp": 1364688000,
+"mysql": "2013-03-31 01:00:00"
+},
+"linked": 0
+}
+],
+"info": {
+"title_da": "Magic:  Draft (1 Scars of Mirrodin. 1 Mirrodin Besieged, 1 New Phyrexia)",
+"text_da": "Format: Draft (1 Scars of Mirrodin. 1 Mirrodin Besieged, 1New Phyrexia)System: SwissPris: 70,- kr.Præmier: 1 booster pr. deltagere fra Mirrodin blokken.Der spilles keeper draft, dvs. at man beholder de kort man drafter.Deltagere: min. 8 ingen maksTurneringen er DCI SanctionedFormat: Draft (Chaos, tilfældige boosters fra Rize of Eldrazi og frem efter)System: SwissPris: 75,- kr.Præmier: 1 booster pr. deltagere.Der spilles keeper draft, dvs. at man beholder de kort man drafter.Deltagere: min. 8 ingen maksTurneringen er ikke DCI Sanctioned",
+"description_da": "",
+"title_en": "",
+"text_en": "",
+"description_en": "",
+"author": [
+""
+],
+"price": 0,
+"min_player": 8,
+"max_player": 0,
+"type": "braet",
+"play_hours": 0,
+"language": "dansk",
+"wp_id": "6223"
+}
+}
+]

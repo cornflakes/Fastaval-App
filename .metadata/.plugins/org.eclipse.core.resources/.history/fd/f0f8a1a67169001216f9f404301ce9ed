@@ -1,0 +1,5 @@
+package dk.fastaval.fastavappen.data;
+
+public class GroupRowData {
+
+}

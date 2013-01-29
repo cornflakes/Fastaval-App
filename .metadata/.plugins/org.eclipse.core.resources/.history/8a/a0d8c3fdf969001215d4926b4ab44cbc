@@ -1,0 +1,65 @@
+package dk.fastaval.fastavappen;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import com.google.gson.JsonSyntaxException;
+
+import dk.fastaval.fastavappen.business.ProgramHelper;
+import dk.fastaval.fastavappen.data.GroupRowData;
+import android.app.IntentService;
+import android.content.Intent;
+import android.os.Bundle;
+import android.os.Message;
+import android.os.Messenger;
+import android.util.Log;
+
+public class ProgramIntentService extends IntentService {
+
+	public static final int GET_GROUPS = 0;
+	public static final int GET_CHILDS = 1;
+	
+	public ProgramIntentService() {
+		super("ProgramIntentService");
+	}
+
+	@Override
+	protected void onHandleIntent(Intent intent) {
+		// Get extras
+		Bundle extras = intent.getExtras();
+
+		if (extras != null) {
+
+			// Get messenger
+			Messenger messenger = (Messenger) extras.get(Constants.MESSENGER_EXTRA);
+
+			// Obtain message
+			Message msg = Message.obtain();
+			ProgramHelper PH = new ProgramHelper(this);
+
+			try {
+				switch (extras.getInt(Constants.JOB_EXTRA)) {
+				case GET_GROUPS:
+						msg.obj = PH.getTimeBlocks();
+					break;
+				case GET_CHILDS:
+					break;
+				default:
+					Log.d("ProgramIntentService", extras.getInt(Constants.JOB_EXTRA) + "");
+				}
+			} catch (JsonSyntaxException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+			try {
+				messenger.send(msg);
+			} catch (android.os.RemoteException e1) {
+				Log.w(getClass().getName(), "Exception sending message", e1);
+			}
+		}
+	}
+}
