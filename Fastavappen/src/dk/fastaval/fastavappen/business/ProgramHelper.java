@@ -7,9 +7,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Collections;
-import java.util.Date;
 
 import android.content.Context;
 import android.content.res.AssetManager;
@@ -23,46 +23,84 @@ import dk.fastaval.fastavappen.R;
 import dk.fastaval.fastavappen.data.GroupRowData;
 import dk.fastaval.fastavappen.data.ProgramActivityData;
 import dk.fastaval.fastavappen.data.ProgramActivityData.Afvikling;
+import dk.fastaval.fastavappen.data.ProgramData;
 
 public class ProgramHelper {
 
 	private Context mContext;
-
+	
+	private ArrayList<String> mExcludes = new ArrayList<String>();
+	private ArrayList<ProgramActivityData> mProgramActivities;
+	
 	public ProgramHelper(Context context) {
 		mContext = context;
 	}
 
-	public ArrayList<GroupRowData> getTimeBlocks() throws JsonSyntaxException, IOException {
+	public ProgramData getProgramData(String exclude) throws JsonSyntaxException, IOException {
+		
+		if(!exclude.isEmpty()) {
+			mExcludes = new ArrayList<String>(Arrays.asList((exclude.split(","))));
+		}
+		
 		Gson gson = new Gson();
 
 		Type listOfProgramActivity = new TypeToken<ArrayList<ProgramActivityData>>() {}.getType();
 
-		ArrayList<ProgramActivityData> ProgramActivities = gson.fromJson(readProgramFile(), listOfProgramActivity);
+		mProgramActivities = gson.fromJson(readProgramFile(), listOfProgramActivity);
+
+		ProgramData PD = new ProgramData();
+		PD.groupItems = getTimeBlocks();
+		PD.childItems = new ArrayList<ArrayList<ProgramActivityData>>();
+		
+		for(GroupRowData GRD : PD.groupItems) {
+			PD.childItems.add(getTimeBlocksElements(GRD));
+		}
+		
+		return PD;
+	}
+	
+	public ProgramActivityData getProgramActivityData(int id) throws JsonSyntaxException, IOException {
+
+		Gson gson = new Gson();
+
+		Type listOfProgramActivity = new TypeToken<ArrayList<ProgramActivityData>>() {}.getType();
+
+		mProgramActivities = gson.fromJson(readProgramFile(), listOfProgramActivity);
+		
+		for(ProgramActivityData PAD : mProgramActivities) {
+			if(PAD.aktivitet_id == id)
+				return PAD;
+		}
+		return null;
+	}
+	
+	private ArrayList<GroupRowData> getTimeBlocks() throws JsonSyntaxException, IOException {
 
 		ArrayList<GroupRowData> TimeBlocks = new ArrayList<GroupRowData>();
 
+		for (ProgramActivityData pa : mProgramActivities) {
 
-		for (ProgramActivityData pa : ProgramActivities) {
-
-			for (Afvikling a : pa.afviklinger) {
-				boolean insert = true;
-				GroupRowData GRD = new GroupRowData();
-				Calendar c = Calendar.getInstance();
-				
-				c.setTimeInMillis(a.start.timestamp*1000);
-
-				GRD.Title = IntToDay(c.get(Calendar.DAY_OF_WEEK)) + " " + c.get(Calendar.HOUR_OF_DAY) + ":00";
-				GRD.day = c.get(Calendar.DAY_OF_WEEK);
-				GRD.hour = c.get(Calendar.HOUR_OF_DAY);
-				GRD.timestamp = c.getTimeInMillis();
-
-				for (GroupRowData groupRowData : TimeBlocks) {
-					if (groupRowData.Title.matches(GRD.Title) && insert)
-						insert = false;
+			if(!mExcludes.contains(pa.info.type)) {
+				for (Afvikling a : pa.afviklinger) {
+					boolean insert = true;
+					GroupRowData GRD = new GroupRowData();
+					Calendar c = Calendar.getInstance();
+					
+					c.setTimeInMillis(a.start.timestamp*1000);
+	
+					GRD.Title = IntToDay(c.get(Calendar.DAY_OF_WEEK)) + " " + c.get(Calendar.HOUR_OF_DAY) + ":00";
+					GRD.day = c.get(Calendar.DAY_OF_WEEK);
+					GRD.hour = c.get(Calendar.HOUR_OF_DAY);
+					GRD.timestamp = c.getTimeInMillis();
+	
+					for (GroupRowData groupRowData : TimeBlocks) {
+						if (groupRowData.Title.matches(GRD.Title) && insert)
+							insert = false;
+					}
+					if (insert)
+						TimeBlocks.add(GRD);
+					c = null;
 				}
-				if (insert)
-					TimeBlocks.add(GRD);
-				c = null;
 			}
 		}
 		
@@ -71,27 +109,22 @@ public class ProgramHelper {
 		return TimeBlocks;
 	}
 
-	public ArrayList<ProgramActivityData> getTimeBlocksElements(GroupRowData GRD)
+	private ArrayList<ProgramActivityData> getTimeBlocksElements(GroupRowData GRD)
 			throws JsonSyntaxException, IOException {
-		Gson gson = new Gson();
-
-		Type listOfProgramActivity = new TypeToken<ArrayList<ProgramActivityData>>() {
-		}.getType();
-
-		ArrayList<ProgramActivityData> TempProgramActivities = gson.fromJson(
-				readProgramFile(), listOfProgramActivity);
-
+		
 		ArrayList<ProgramActivityData> ProgramActivities = new ArrayList<ProgramActivityData>();
 
-		for (ProgramActivityData pa : TempProgramActivities) {
-			for (Afvikling a : pa.afviklinger) {
-				Calendar c = Calendar.getInstance();
-				c.setTimeInMillis(a.start.timestamp*1000);
-
-				if (GRD.day == c.get(Calendar.DAY_OF_WEEK)
-						&& GRD.hour == c.get(Calendar.HOUR_OF_DAY)) {
-					ProgramActivities.add(pa);
-					break;
+		for (ProgramActivityData pa : mProgramActivities) {
+			if(!mExcludes.contains(pa.info.type)) {
+				for (Afvikling a : pa.afviklinger) {
+					Calendar c = Calendar.getInstance();
+					c.setTimeInMillis(a.start.timestamp*1000);
+	
+					if (GRD.day == c.get(Calendar.DAY_OF_WEEK)
+							&& GRD.hour == c.get(Calendar.HOUR_OF_DAY)) {
+						ProgramActivities.add(pa);
+						break;
+					}
 				}
 			}
 		}

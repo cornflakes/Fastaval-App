@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=Fastavappen/D:\/Development\/android-sdk\/platforms\/android-17\/android.jar&lt;android.view(View.class[View" modifiers="33" timestamp="1353496387677"/>
-<typeInfo handle="=Fastavappen/src&lt;dk.fastaval.fastavappen.service{ProgramIntentService.java[ProgramIntentService" modifiers="1" timestamp="1359465252013"/>
+<typeInfo handle="=Fastavappen/src&lt;dk.fastaval.fastavappen.service{ProgramIntentService.java[ProgramIntentService" modifiers="1" timestamp="1359556972843"/>
 <typeInfo handle="=Fastavappen/src&lt;dk.fastaval.fastavappen.presentation{MainActivity.java[MainActivity" modifiers="1" timestamp="1359012008406"/>
+<typeInfo handle="=Fastavappen/src&lt;dk.fastaval.fastavappen.presentation{ActivityViewActivity.java[ActivityViewActivity" modifiers="1" timestamp="1359562051739"/>
 </typeInfoHistroy>

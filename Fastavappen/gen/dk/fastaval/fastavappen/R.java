@@ -715,11 +715,15 @@ containing a value of this type.
         public static final int abs__bright_foreground_inverse_holo_dark=0x7f070006;
         public static final int abs__bright_foreground_inverse_holo_light=0x7f070007;
         public static final int abs__holo_blue_light=0x7f070008;
-        public static final int abs__primary_text_disable_only_holo_dark=0x7f07000a;
-        public static final int abs__primary_text_disable_only_holo_light=0x7f07000b;
-        public static final int abs__primary_text_holo_dark=0x7f07000c;
-        public static final int abs__primary_text_holo_light=0x7f07000d;
+        public static final int abs__primary_text_disable_only_holo_dark=0x7f07000e;
+        public static final int abs__primary_text_disable_only_holo_light=0x7f07000f;
+        public static final int abs__primary_text_holo_dark=0x7f070010;
+        public static final int abs__primary_text_holo_light=0x7f070011;
+        public static final int boardgame=0x7f07000b;
+        public static final int live=0x7f07000c;
+        public static final int other=0x7f07000d;
         public static final int pressed_fastaval_contamination=0x7f070009;
+        public static final int roleplay=0x7f07000a;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -987,7 +991,6 @@ containing a value of this type.
         public static final int tab_unselected_pressed_fastaval_contamination=0x7f020093;
     }
     public static final class id {
-        public static final int RelativeLayout1=0x7f050035;
         public static final int abs__action_bar=0x7f050022;
         public static final int abs__action_bar_container=0x7f050021;
         public static final int abs__action_bar_subtitle=0x7f050011;
@@ -1028,33 +1031,46 @@ containing a value of this type.
         public static final int abs__title=0x7f05001b;
         public static final int abs__titleDivider=0x7f05001c;
         public static final int abs__up=0x7f05000b;
-        public static final int childImage=0x7f050033;
+        public static final int childImage=0x7f050037;
         public static final int disableHome=0x7f050009;
         public static final int edit_query=0x7f050027;
-        public static final int et_participant_number=0x7f050038;
-        public static final int et_password=0x7f050039;
+        public static final int et_participant_number=0x7f05003f;
+        public static final int et_password=0x7f050040;
         public static final int homeAsUp=0x7f050006;
         public static final int listMode=0x7f050002;
-        public static final int ll_date_box=0x7f05003c;
-        public static final int menu_barcode=0x7f050042;
-        public static final int menu_logout=0x7f050044;
-        public static final int menu_map=0x7f050043;
+        public static final int ll_date_box=0x7f050043;
+        public static final int ll_selection_bar=0x7f050048;
+        public static final int menu_barcode=0x7f05004e;
+        public static final int menu_logout=0x7f050050;
+        public static final int menu_map=0x7f05004f;
         public static final int normal=0x7f050001;
-        public static final int pager=0x7f05003b;
-        public static final int pb_program=0x7f050041;
+        public static final int pager=0x7f050042;
+        public static final int pb_program=0x7f05004d;
+        public static final int scrollView1=0x7f050035;
         public static final int showCustom=0x7f050008;
         public static final int showHome=0x7f050005;
         public static final int showTitle=0x7f050007;
         public static final int tabMode=0x7f050003;
-        public static final int tv_date_box_date=0x7f05003e;
-        public static final int tv_date_box_month=0x7f05003d;
-        public static final int tv_exp_count=0x7f050037;
-        public static final int tv_exp_title=0x7f050036;
-        public static final int tv_news_content=0x7f050040;
-        public static final int tv_news_title=0x7f05003f;
-        public static final int tv_title=0x7f050034;
+        public static final int tgb_board=0x7f05004a;
+        public static final int tgb_live=0x7f05004b;
+        public static final int tgb_other=0x7f05004c;
+        public static final int tgb_role=0x7f050049;
+        public static final int tv_activity_auther=0x7f050034;
+        public static final int tv_activity_content=0x7f050036;
+        public static final int tv_activity_title=0x7f050033;
+        public static final int tv_date_box_date=0x7f050045;
+        public static final int tv_date_box_month=0x7f050044;
+        public static final int tv_exp_count=0x7f05003e;
+        public static final int tv_exp_title=0x7f050039;
+        public static final int tv_news_content=0x7f050047;
+        public static final int tv_news_title=0x7f050046;
+        public static final int tv_title=0x7f050038;
         public static final int useLogo=0x7f050004;
-        public static final int vf_news_feed=0x7f05003a;
+        public static final int v_board=0x7f05003b;
+        public static final int v_live=0x7f05003c;
+        public static final int v_other=0x7f05003d;
+        public static final int v_role=0x7f05003a;
+        public static final int vf_news_feed=0x7f050041;
         public static final int wrap_content=0x7f050000;
     }
     public static final class integer {
@@ -1084,14 +1100,15 @@ containing a value of this type.
         public static final int abs__search_dropdown_item_icons_2line=0x7f030014;
         public static final int abs__search_view=0x7f030015;
         public static final int abs__simple_dropdown_hint=0x7f030016;
-        public static final int childrow=0x7f030017;
-        public static final int grouprow=0x7f030018;
-        public static final int main_fragment=0x7f030019;
-        public static final int main_layout=0x7f03001a;
-        public static final int newsfeedbox=0x7f03001b;
-        public static final int program_fragment=0x7f03001c;
-        public static final int sherlock_spinner_dropdown_item=0x7f03001d;
-        public static final int sherlock_spinner_item=0x7f03001e;
+        public static final int activity_view=0x7f030017;
+        public static final int childrow=0x7f030018;
+        public static final int grouprow=0x7f030019;
+        public static final int main_fragment=0x7f03001a;
+        public static final int main_layout=0x7f03001b;
+        public static final int newsfeedbox=0x7f03001c;
+        public static final int program_fragment=0x7f03001d;
+        public static final int sherlock_spinner_dropdown_item=0x7f03001e;
+        public static final int sherlock_spinner_item=0x7f03001f;
     }
     public static final class menu {
         public static final int menu=0x7f0c0000;
@@ -1143,15 +1160,19 @@ containing a value of this type.
          */
         public static final int abs__shareactionprovider_share_with_application=0x7f0a0009;
         public static final int app_name=0x7f0a000f;
+        public static final int boardgame=0x7f0a0022;
         public static final int fastanews=0x7f0a0020;
         public static final int friday=0x7f0a001d;
+        public static final int live=0x7f0a0023;
         public static final int login=0x7f0a0012;
         public static final int menu_barcode=0x7f0a0017;
         public static final int menu_logout=0x7f0a0018;
         public static final int menu_map=0x7f0a0016;
         public static final int monday=0x7f0a0019;
+        public static final int other_activities=0x7f0a0024;
         public static final int participant_number=0x7f0a0010;
         public static final int password=0x7f0a0011;
+        public static final int roleplay=0x7f0a0021;
         public static final int saturday=0x7f0a001e;
         public static final int sunday=0x7f0a001f;
         public static final int thursday=0x7f0a001c;

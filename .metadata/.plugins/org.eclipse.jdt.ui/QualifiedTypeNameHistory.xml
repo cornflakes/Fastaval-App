@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.actionbarsherlock.app.ActionBar"/>
-<fullyQualifiedTypeName name="android.support.v4.app.FragmentTransaction"/>
-<fullyQualifiedTypeName name="com.actionbarsherlock.app.ActionBar.Tab"/>
-<fullyQualifiedTypeName name="android.support.v4.app.ListFragment"/>
-<fullyQualifiedTypeName name="android.R"/>
 <fullyQualifiedTypeName name="android.R.layout"/>
-<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.layout"/>
 <fullyQualifiedTypeName name="android.support.v4.app.FragmentManager"/>
 <fullyQualifiedTypeName name="com.actionbarsherlock.app.SherlockListFragment"/>
 <fullyQualifiedTypeName name="android.support.v4.app.Fragment"/>
@@ -20,13 +14,11 @@
 <fullyQualifiedTypeName name="android.widget.ImageView"/>
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.drawable"/>
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.data.ProgramActivity"/>
-<fullyQualifiedTypeName name="dk.fastaval.fastavappen.Constants"/>
 <fullyQualifiedTypeName name="android.os.AsyncTask"/>
 <fullyQualifiedTypeName name="android.os.Bundle"/>
 <fullyQualifiedTypeName name="android.os.Handler"/>
 <fullyQualifiedTypeName name="android.os.Message"/>
 <fullyQualifiedTypeName name="android.os.Messenger"/>
-<fullyQualifiedTypeName name="android.content.Intent"/>
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.ProgramIntentService"/>
 <fullyQualifiedTypeName name="android.util.Log"/>
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.R"/>
@@ -34,7 +26,6 @@
 <fullyQualifiedTypeName name="android.widget.LinearLayout"/>
 <fullyQualifiedTypeName name="android.view.View"/>
 <fullyQualifiedTypeName name="android.widget.TextView"/>
-<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.id"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.util.Locale"/>
 <fullyQualifiedTypeName name="android.graphics.Shader.TileMode"/>
@@ -50,8 +41,23 @@
 <fullyQualifiedTypeName name="dk.fastaval.fastavappen.service.NewsFeedIntentService"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
 <fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.id"/>
+<fullyQualifiedTypeName name="android.widget.CompoundButton.OnCheckedChangeListener"/>
+<fullyQualifiedTypeName name="android.widget.ToggleButton"/>
+<fullyQualifiedTypeName name="android.webkit.WebView.FindListener"/>
+<fullyQualifiedTypeName name="android.content.SharedPreferences.Editor"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.Constants"/>
+<fullyQualifiedTypeName name="android.content.SharedPreferences"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.data.ProgramData"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.actionbarsherlock.app.SherlockActivity"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.R.layout"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.business.ProgramHelper"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.data.ProgramActivityData"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="dk.fastaval.fastavappen.ActivityViewActivity"/>
 <fullyQualifiedTypeName name="android.text.Html"/>
 </qualifiedTypeNameHistroy>

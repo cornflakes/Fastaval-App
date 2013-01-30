@@ -1,0 +1,204 @@
+package dk.fastaval.fastavappen.business;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.lang.reflect.Type;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Calendar;
+import java.util.Collections;
+
+import android.content.Context;
+import android.content.res.AssetManager;
+
+import com.google.gson.Gson;
+import com.google.gson.JsonSyntaxException;
+import com.google.gson.reflect.TypeToken;
+
+import dk.fastaval.fastavappen.Constants;
+import dk.fastaval.fastavappen.R;
+import dk.fastaval.fastavappen.data.GroupRowData;
+import dk.fastaval.fastavappen.data.ProgramActivityData;
+import dk.fastaval.fastavappen.data.ProgramActivityData.Afvikling;
+import dk.fastaval.fastavappen.data.ProgramData;
+
+public class ProgramHelper {
+
+	private Context mContext;
+	
+	private ArrayList<String> mExcludes;
+	private ArrayList<ProgramActivityData> mProgramActivities;
+	
+	public ProgramHelper(Context context) {
+		mContext = context;
+	}
+
+	public ProgramData getProgramData(String exclude) throws JsonSyntaxException, IOException {
+		
+		if(!exclude.isEmpty()) {
+			mExcludes = new ArrayList<String>(Arrays.asList((exclude.split(","))));
+		}
+		
+		Gson gson = new Gson();
+
+		Type listOfProgramActivity = new TypeToken<ArrayList<ProgramActivityData>>() {}.getType();
+
+		mProgramActivities = gson.fromJson(readProgramFile(), listOfProgramActivity);
+
+		ProgramData PD = new ProgramData();
+		PD.groupItems = getTimeBlocks();
+		PD.childItems = new ArrayList<ArrayList<ProgramActivityData>>();
+		
+		for(GroupRowData GRD : PD.groupItems) {
+			PD.childItems.add(getTimeBlocksElements(GRD));
+		}
+		
+		return pd;
+	}
+	
+	private ArrayList<GroupRowData> getTimeBlocks() throws JsonSyntaxException, IOException {
+
+		ArrayList<GroupRowData> TimeBlocks = new ArrayList<GroupRowData>();
+
+		for (ProgramActivityData pa : mProgramActivities) {
+
+			if(!mExcludes.contains(pa.info.type)) {
+				for (Afvikling a : pa.afviklinger) {
+					boolean insert = true;
+					GroupRowData GRD = new GroupRowData();
+					Calendar c = Calendar.getInstance();
+					
+					c.setTimeInMillis(a.start.timestamp*1000);
+	
+					GRD.Title = IntToDay(c.get(Calendar.DAY_OF_WEEK)) + " " + c.get(Calendar.HOUR_OF_DAY) + ":00";
+					GRD.day = c.get(Calendar.DAY_OF_WEEK);
+					GRD.hour = c.get(Calendar.HOUR_OF_DAY);
+					GRD.timestamp = c.getTimeInMillis();
+	
+					for (GroupRowData groupRowData : TimeBlocks) {
+						if (groupRowData.Title.matches(GRD.Title) && insert)
+							insert = false;
+					}
+					if (insert)
+						TimeBlocks.add(GRD);
+					c = null;
+				}
+			}
+		}
+		
+		Collections.sort(TimeBlocks);
+
+		return TimeBlocks;
+	}
+
+	public ArrayList<ProgramActivityData> getTimeBlocksElements(GroupRowData GRD)
+			throws JsonSyntaxException, IOException {
+		
+		ArrayList<ProgramActivityData> ProgramActivities = new ArrayList<ProgramActivityData>();
+
+		for (ProgramActivityData pa : mProgramActivities) {
+			if(!mExcludes.contains(pa.info.type)) {
+				for (Afvikling a : pa.afviklinger) {
+					Calendar c = Calendar.getInstance();
+					c.setTimeInMillis(a.start.timestamp*1000);
+	
+					if (GRD.day == c.get(Calendar.DAY_OF_WEEK)
+							&& GRD.hour == c.get(Calendar.HOUR_OF_DAY)) {
+						ProgramActivities.add(pa);
+						break;
+					}
+				}
+			}
+		}
+		Collections.sort(ProgramActivities);
+
+		return ProgramActivities;
+	}
+
+	private String readProgramFile() throws IOException {
+		// TODO: Remove before ship!
+		FileInputStream fis = null;
+		try {
+			fis = mContext.openFileInput(Constants.FASTA_PROGRAM_FILE);
+		} catch (FileNotFoundException e) {
+			if (MoveFileFromAssets(Constants.FASTA_PROGRAM_FILE))
+				fis = mContext.openFileInput(Constants.FASTA_PROGRAM_FILE);
+			else
+				throw new FileNotFoundException();
+		}
+
+		String content = "";
+
+		byte[] input = new byte[fis.available()];
+		while (fis.read(input) != -1) {
+			content += new String(input);
+		}
+
+		return content;
+	}
+
+	private boolean MoveFileFromAssets(String FileName) {
+		AssetManager assetManager = mContext.getAssets();
+
+		InputStream in = null;
+		FileOutputStream out = null;
+		try {
+			in = assetManager.open(FileName);
+			out = mContext.openFileOutput(FileName, Context.MODE_PRIVATE);
+
+			copyFile(in, out);
+
+			in.close();
+			in = null;
+			out.flush();
+			out.close();
+			out = null;
+
+			return true;
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		return false;
+	}
+
+	private void copyFile(InputStream in, FileOutputStream out)
+			throws IOException {
+		byte[] buffer = new byte[1024];
+		int read;
+		while ((read = in.read(buffer)) != -1) {
+			out.write(buffer, 0, read);
+		}
+	}
+
+	private CharSequence IntToDay(int day) {
+		switch (day) {
+		case Calendar.MONDAY:
+			return mContext.getText(R.string.monday);
+
+		case Calendar.TUESDAY:
+			return mContext.getText(R.string.tuesday);
+
+		case Calendar.WEDNESDAY:
+			return mContext.getText(R.string.wednesday);
+
+		case Calendar.THURSDAY:
+			return mContext.getText(R.string.thursday);
+
+		case Calendar.FRIDAY:
+			return mContext.getText(R.string.friday);
+
+		case Calendar.SATURDAY:
+			return mContext.getText(R.string.saturday);
+
+		case Calendar.SUNDAY:
+			return mContext.getText(R.string.sunday);
+
+		default:
+			return null;
+		}
+	}
+}

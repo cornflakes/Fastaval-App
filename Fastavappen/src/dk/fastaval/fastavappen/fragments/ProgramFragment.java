@@ -1,10 +1,12 @@
 package dk.fastaval.fastavappen.fragments;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -14,53 +16,45 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
+import android.widget.CompoundButton;
+import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.ExpandableListView;
-import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.ToggleButton;
 import dk.fastaval.fastavappen.Constants;
 import dk.fastaval.fastavappen.R;
 import dk.fastaval.fastavappen.data.GroupRowData;
 import dk.fastaval.fastavappen.data.ProgramActivityData;
+import dk.fastaval.fastavappen.data.ProgramData;
+import dk.fastaval.fastavappen.presentation.ActivityViewActivity;
 import dk.fastaval.fastavappen.service.ProgramIntentService;
 import dk.fastaval.fastavappen.util.SherlockExpandableListFragment;
 
-public class ProgramFragment extends SherlockExpandableListFragment implements OnChildClickListener {
+public class ProgramFragment extends SherlockExpandableListFragment implements OnCheckedChangeListener {
 
-	ArrayList<GroupRowData> groupItems;
-	ArrayList<ArrayList<ProgramActivityData>> childItems = new ArrayList<ArrayList<ProgramActivityData>>();
+	private Context mContext;
+	
+	private ArrayList<GroupRowData> groupItems;
+	private ArrayList<ArrayList<ProgramActivityData>> childItems = new ArrayList<ArrayList<ProgramActivityData>>();
+	
+	private ToggleButton tgbRole, tgbBoard, tgbLive, tgbOther;
+
+	private SharedPreferences preferences;
+	private SharedPreferences.Editor editor;
+	
+	private Messenger messenger;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		preferences = getActivity().getSharedPreferences(Constants.FASTA_PREFERENCES, Context.MODE_PRIVATE);
+		editor = preferences.edit();
 		
-	}
-
-	@Override
-	public boolean onChildClick(ExpandableListView parent, View v,
-			int groupPosition, int childPosition, long id) {
-		Toast.makeText(getActivity(), "Clicked On Child",
-				Toast.LENGTH_SHORT).show();
-		return true;
-	}
-
-	@Override
-	public void onActivityCreated(Bundle savedInstanceState) {
-		super.onActivityCreated(savedInstanceState);
-
-		ExpandableListView expandbleList = getExpandableListView();
-		expandbleList.setClickable(true);
-		expandbleList.setOnChildClickListener(this);
+		mContext = getActivity();
 		
-	    // Initialize the messenger with the private handler
-		Messenger messenger = new Messenger(mHandler);
-		
-		// Ready the intent with information for the service
-	    Intent intent = new Intent(getActivity(), ProgramIntentService.class);
-	    intent.putExtra(Constants.MESSENGER_EXTRA, messenger);
-	    getActivity().startService(intent);
-	    
+		messenger = new Messenger(mHandler);
 	}
 
 	@Override
@@ -71,38 +65,106 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 		return view;
 	}
 
+	@Override
+	public void onActivityCreated(Bundle savedInstanceState) {
+		super.onActivityCreated(savedInstanceState);
+
+		ExpandableListView expandbleList = getExpandableListView();
+		expandbleList.setClickable(true);
+		expandbleList.setOnChildClickListener(this);
+				
+	    Intent intent = new Intent(getActivity(), ProgramIntentService.class);
+	    intent.putExtra(Constants.MESSENGER_EXTRA, messenger);
+	    getActivity().startService(intent);
+	    
+	    tgbRole = (ToggleButton) getView().findViewById(R.id.tgb_role);
+	    tgbBoard = (ToggleButton) getView().findViewById(R.id.tgb_board);
+	    tgbLive = (ToggleButton) getView().findViewById(R.id.tgb_live);
+	    tgbOther = (ToggleButton) getView().findViewById(R.id.tgb_other);
+
+	    tgbRole.setOnCheckedChangeListener(this);
+	    tgbBoard.setOnCheckedChangeListener(this);
+	    tgbLive.setOnCheckedChangeListener(this);
+	    tgbOther.setOnCheckedChangeListener(this);
+
+	    ArrayList<String> excludes = new ArrayList<String>();
+		if(!preferences.getString(Constants.FASTA_PROGRAM_EXCLUDE, "").isEmpty()) {
+			excludes = new ArrayList<String>(Arrays.asList((preferences.getString(Constants.FASTA_PROGRAM_EXCLUDE, "").split(","))));
+		}
+		if(excludes.contains(Constants.TYPE_ROLE))
+			tgbRole.setChecked(false);
+		if(excludes.contains(Constants.TYPE_BOARD))
+			tgbBoard.setChecked(false);
+		if(excludes.contains(Constants.TYPE_LIVE))
+			tgbLive.setChecked(false);
+		if(excludes.contains(Constants.TYPE_OTHER))
+			tgbOther.setChecked(false);
+	}
+
+	@Override
+	public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+		switchToggleButtons(false);
+		getView().findViewById(R.id.pb_program).setVisibility(View.VISIBLE);
+		
+	    Intent intent = new Intent(getActivity(), ProgramIntentService.class);
+	    intent.putExtra(Constants.MESSENGER_EXTRA, messenger);
+	    
+	    String exclude = tgbRole.isChecked() == true ? "" : Constants.TYPE_ROLE;
+	    
+	    if(exclude.isEmpty()) {
+	    	exclude = tgbBoard.isChecked() == true ? "" : Constants.TYPE_BOARD;
+		    if(exclude.isEmpty()) {
+		    	exclude = tgbLive.isChecked() == true ? "" : Constants.TYPE_LIVE;
+			    if(exclude.isEmpty())
+			    	exclude = tgbOther.isChecked() == true ? "" : Constants.TYPE_OTHER;
+		    } else {
+			    exclude += "," + (tgbLive.isChecked() == true ? "" : Constants.TYPE_LIVE);
+			    exclude += "," + (tgbOther.isChecked() == true ? "" : Constants.TYPE_OTHER);
+		    }
+	    } else {
+	    	exclude += "," + (tgbBoard.isChecked() == true ? "" : Constants.TYPE_BOARD);
+		    exclude += "," + (tgbLive.isChecked() == true ? "" : Constants.TYPE_LIVE);
+		    exclude += "," + (tgbOther.isChecked() == true ? "" : Constants.TYPE_OTHER);
+	    }
+	    
+		editor.putString(Constants.FASTA_PROGRAM_EXCLUDE, exclude);
+		editor.commit();
+		
+	    getActivity().startService(intent);
+	}
+
 	public CharSequence getTitle() {
 		return getText(R.string.title_fastaval_program);
+	}
+	
+	private void switchToggleButtons(boolean enabled) {
+		tgbRole.setEnabled(enabled);
+	    tgbBoard.setEnabled(enabled);
+	    tgbLive.setEnabled(enabled);
+	    tgbOther.setEnabled(enabled);
 	}
 	
 	private final Handler mHandler = new Handler() {
 	    @Override
 	    public void handleMessage(Message msg) {
-	    	switch(msg.what) {
-	    	case 0:
-	    		groupItems = (ArrayList<GroupRowData>) msg.obj;
-	    		break;
-	    	case 1:
-	    		childItems = (ArrayList<ArrayList<ProgramActivityData>>) msg.obj;
-	    		
-	    		getView().findViewById(R.id.pb_program).setVisibility(View.GONE);
-	    		
-	    		ProgramAdapter mProgramAdapter = new ProgramAdapter(groupItems, childItems);
-	    		mProgramAdapter
-	    				.setInflater(
-	    						(LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE),
-	    						getActivity());
-	    		getExpandableListView().setAdapter(mProgramAdapter);
-
-	    		break;
-	    	}
-	    }
+    		groupItems = ((ProgramData) msg.obj).groupItems;
+    		childItems = ((ProgramData) msg.obj).childItems;
+    		
+    		getView().findViewById(R.id.pb_program).setVisibility(View.GONE);
+    		switchToggleButtons(true);
+    		ProgramAdapter mProgramAdapter = new ProgramAdapter(groupItems, childItems);
+    		mProgramAdapter
+    				.setInflater(
+    						(LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE),
+    						getActivity());
+    		getExpandableListView().setAdapter(mProgramAdapter);
+    	}
 	};
 
 	public class ProgramAdapter extends BaseExpandableListAdapter {
 
 		public ArrayList<GroupRowData> mGroupItems;
-		public ArrayList<ProgramActivityData> tempChilds;
+		public ArrayList<ProgramActivityData> mTempChilds;
 		public ArrayList<ArrayList<ProgramActivityData>> mChildItems = new ArrayList<ArrayList<ProgramActivityData>>();
 		public LayoutInflater mInflater;
 		public Activity activity;
@@ -131,8 +193,8 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 		@Override
 		public View getChildView(int groupPosition, final int childPosition,
 				boolean isLastChild, View convertView, ViewGroup parent) {
-			tempChilds = mChildItems.get(groupPosition);
-			ProgramActivityData child = tempChilds.get(childPosition);
+			mTempChilds = mChildItems.get(groupPosition);
+			final ProgramActivityData child = mTempChilds.get(childPosition);
 			
 			TextView title = null;
 			ImageView type = null;
@@ -158,8 +220,9 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 			convertView.setOnClickListener(new OnClickListener() {
 				@Override
 				public void onClick(View v) {
-					Toast.makeText(activity, tempChilds.get(childPosition).info.title_da,
-							Toast.LENGTH_SHORT).show();
+					Intent intent = new Intent(mContext, ActivityViewActivity.class);
+					intent.putExtra(Constants.ACTIVITY_ID, child.aktivitet_id);
+					startActivity(intent);
 				}
 			});
 			return convertView;
@@ -201,11 +264,35 @@ public class ProgramFragment extends SherlockExpandableListFragment implements O
 			if (convertView == null) {
 				convertView = mInflater.inflate(R.layout.grouprow, null);
 			}
+			
+			mTempChilds = mChildItems.get(groupPosition);
+			
 			TextView title = (TextView) convertView.findViewById(R.id.tv_exp_title);
 			TextView count = (TextView) convertView.findViewById(R.id.tv_exp_count);
 			
+			View role = convertView.findViewById(R.id.v_role);
+			View board = convertView.findViewById(R.id.v_board);
+			View live = convertView.findViewById(R.id.v_live);
+			View other = convertView.findViewById(R.id.v_other);
+			
 			title.setText(mGroupItems.get(groupPosition).Title);
-			count.setText((mChildItems.get(groupPosition)).size() + "");
+			count.setText(mTempChilds.size() + "");
+			
+			role.setVisibility(View.INVISIBLE);
+			board.setVisibility(View.INVISIBLE);
+			live.setVisibility(View.INVISIBLE);
+			other.setVisibility(View.INVISIBLE);
+			
+			for(ProgramActivityData PAD : mTempChilds) {
+				if(PAD.info.type.matches(Constants.TYPE_ROLE))
+					role.setVisibility(View.VISIBLE);
+				else if(PAD.info.type.matches(Constants.TYPE_BOARD))
+					board.setVisibility(View.VISIBLE);
+				else if(PAD.info.type.matches(Constants.TYPE_LIVE))
+					live.setVisibility(View.VISIBLE);
+				else if(PAD.info.type.matches(Constants.TYPE_OTHER))
+					other.setVisibility(View.VISIBLE);
+			}
 			
 			return convertView;
 		}

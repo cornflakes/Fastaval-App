@@ -1,6 +1,9 @@
 package dk.fastaval.fastavappen;
 
 public class Constants {
+	public static final String FASTA_PREFERENCES = "Fasta preferences";
+	public static final String FASTA_PROGRAM_EXCLUDE = "Fasta program exclude";
+	
 	public static final String FASTA_PROGRAM_FILE = "FastaProgram.fas";
 	public static final String FASTA_NEWS_FILE = "FastaNews.fas";
 	
@@ -12,5 +15,7 @@ public class Constants {
 	public static final String TYPE_LIVE = "live";
 	public static final String TYPE_OTHER = "ottoviteter";
 	
+	public static final String ACTIVITY_ID = "Actitvity id";
+
 	public static final int NEWS_FEED_SLIDE_SPEED = 10000;
 }

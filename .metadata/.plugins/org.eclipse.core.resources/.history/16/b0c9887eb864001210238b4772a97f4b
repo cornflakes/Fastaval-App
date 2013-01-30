@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources>
-    <string name="app_name">Fastavapp\'en</string>
-    <string name="participant_number">Deltagernummer</string>
-    <string name="password">Kodeord</string>
-</resources>

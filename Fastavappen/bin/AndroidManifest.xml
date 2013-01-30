@@ -12,7 +12,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <service android:name=".service.ProgramIntentService"/>
-        <service android:name="dk.fastaval.fastavappen.service.NewsFeedIntentService"></service>
+        <activity android:name=".presentation.ActivityViewActivity" android:screenOrientation="portrait"/><service android:name=".service.ProgramIntentService"/>
+        <service android:name="dk.fastaval.fastavappen.service.NewsFeedIntentService"/>
+        
     </application>
 </manifest>

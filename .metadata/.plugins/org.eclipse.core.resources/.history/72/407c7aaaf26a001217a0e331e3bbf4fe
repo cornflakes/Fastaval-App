@@ -1,0 +1,15 @@
+package dk.fastaval.fastavappen;
+
+import com.actionbarsherlock.app.SherlockActivity;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class ActivityViewActivity extends SherlockActivityOActivity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		// TODO Put your code here
+	}
+}

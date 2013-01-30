@@ -18,4 +18,8 @@
     <string name="saturday">lørdag</string>
     <string name="sunday">søndag</string>
     <string name="fastanews">Fasta News</string>
+    <string name="roleplay">Rollespil</string>
+    <string name="boardgame">Brætspil</string>
+    <string name="live">Live</string>
+    <string name="other_activities">Andet</string>
 </resources>

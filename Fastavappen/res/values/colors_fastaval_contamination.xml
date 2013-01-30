@@ -18,4 +18,8 @@
 
 <resources>
     <color name="pressed_fastaval_contamination">#CC6f9529</color>
+    <color name="roleplay">#bfff73</color>
+    <color name="boardgame">#73bfff</color>
+    <color name="live">#8f0095</color>
+    <color name="other">#ffde45</color>
 </resources>

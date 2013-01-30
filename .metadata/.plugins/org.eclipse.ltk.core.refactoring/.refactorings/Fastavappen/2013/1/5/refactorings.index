@@ -20,3 +20,17 @@
 1359469662256	Copy compilation unit
 1359469788880	Copy compilation unit
 1359472007793	Rename type 'NewsFlipperIntentService'
+1359542602870	Rename field 'tempChilds'
+1359543521724	Extracts string 'null' into R.string.roleplay
+1359543623939	Extracts string 'null' into R.string.boardgame
+1359543650372	Extracts string 'null' into R.string.live
+1359543723628	Extracts string 'null' into R.string.other_activities
+1359547110539	Delete element
+1359551180828	Copy file
+1359551187306	Copy file
+1359551194747	Copy file
+1359551428720	Delete elements
+1359556683378	Rename field 'ProgramActivities'
+1359556688326	Rename field 'excludes'
+1359556702055	Rename local variable 'TempProgramActivities'
+1359561016578	Move compilation unit

@@ -2,14 +2,14 @@
 <launchConfiguration type="androidLaunchConfigurationType">
 <intAttribute key="com.android.ide.eclipse.adt.action" value="0"/>
 <stringAttribute key="com.android.ide.eclipse.adt.activity" value="dk.fastaval.fastavappen.MainActivity"/>
-<stringAttribute key="com.android.ide.eclipse.adt.avd" value="AVD_for_Nexus_S_by_Google"/>
+<stringAttribute key="com.android.ide.eclipse.adt.avd" value="AVD_Nexus_S_4.0"/>
 <stringAttribute key="com.android.ide.eclipse.adt.commandline" value="-scale 0.5"/>
 <intAttribute key="com.android.ide.eclipse.adt.delay" value="0"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.nobootanim" value="false"/>
 <intAttribute key="com.android.ide.eclipse.adt.speed" value="0"/>
 <stringAttribute key="com.android.ide.eclipse.adt.target" value="AUTO"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.wipedata" value="false"/>
-<stringAttribute key="com.motorola.studio.android.launch.instanceName" value="AVD_for_Nexus_S_by_Google"/>
+<stringAttribute key="com.motorola.studio.android.launch.instanceName" value="AVD_Nexus_S_4.0"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/Fastavappen"/>
 </listAttribute>
